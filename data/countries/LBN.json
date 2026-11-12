@@ -1,0 +1,34 @@
+{
+  "code": "LBN",
+  "name": "Lebanon",
+  "status": "draft",
+  "content": {
+    "about": "Lebanon is a small, mountainous country on the eastern Mediterranean coast. Its snowy peaks once held great cedar forests, and a cedar tree is on its flag. Ancient Phoenician cities like Byblos and Tyre were trading powers. Lebanese food, with dishes like tabbouleh and hummus, is loved across the world.",
+    "standout": {
+      "category": "Natural",
+      "text": "The cedars of Lebanon are among the oldest trees mentioned in historical records.",
+      "source": "https://en.wikipedia.org/wiki/Cedrus_libani",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Byblos is one of the oldest continuously inhabited cities in the world.",
+      "You can ski and swim in the sea on the same day in spring.",
+      "The Phoenician alphabet, developed here, is an ancestor of many modern alphabets."
+    ]
+  },
+  "geography": {
+    "climate": "Mediterranean",
+    "coastlineKm": 225,
+    "longestRiver": {
+      "name": "Litani",
+      "km": 170
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "22 Nov · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

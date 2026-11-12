@@ -1,0 +1,34 @@
+{
+  "code": "ZMB",
+  "name": "Zambia",
+  "status": "draft",
+  "content": {
+    "about": "Zambia is a landlocked country in southern Africa, with high plateaus and big rivers. It shares Victoria Falls with Zimbabwe. Its national parks have huge herds of wildlife. Copper mining is its main industry.",
+    "standout": {
+      "category": "Natural",
+      "text": "Victoria Falls, shared with Zimbabwe, is the largest sheet of falling water in the world.",
+      "source": "https://en.wikipedia.org/wiki/Victoria_Falls",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Victoria Falls is known locally as Mosi-oa-Tunya.",
+      "Kasanka hosts a big fruit-bat migration.",
+      "Zambia is one of Africa's largest copper producers."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Zambezi",
+      "km": 2574
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "24 Oct · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

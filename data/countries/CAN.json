@@ -1,0 +1,63 @@
+{
+  "code": "CAN",
+  "name": "Canada",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "Canada has the longest coastline of any country.",
+      "Canada holds roughly a fifth of the world's fresh surface water.",
+      "Canada has two official languages, English and French."
+    ],
+    "about": "Canada covers the northern half of North America, from the Atlantic to the Pacific and up into the Arctic. Most Canadians live in a narrow band near the US border, leaving huge areas of forest, lakes and tundra almost empty. It is known for the Rocky Mountains, Niagara Falls and ice hockey. Polar bears roam the shores of Hudson Bay in the far north.",
+    "standout": {
+      "category": "Natural",
+      "text": "Canada has more lakes than any other country, with over half of the world's large lakes.",
+      "source": "https://en.wikipedia.org/wiki/Canada",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 39,
+    "coastlineKm": 202080,
+    "highestPoint": {
+      "name": "Mount Logan",
+      "m": 5959
+    },
+    "longestRiver": {
+      "name": "Mackenzie",
+      "km": 4241
+    },
+    "climate": "Cold continental"
+  },
+  "people": {
+    "medianAge": 41,
+    "lifeExpectancy": 82,
+    "literacyPct": 99,
+    "urbanPct": 82
+  },
+  "government": {
+    "type": "Federal parliamentary constitutional monarchy",
+    "headOfState": "King Charles III",
+    "headOfGovernment": "Prime Minister Mark Carney",
+    "asOf": "2026-06",
+    "nationalDay": "1 Jul · Canada Day"
+  },
+  "economy": {
+    "population": {
+      "value": 41300000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 2240000000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "animal": "Beaver",
+    "tree": "Maple",
+    "sport": "Ice hockey and lacrosse"
+  },
+  "practical": {
+    "unescoSites": 22
+  }
+}

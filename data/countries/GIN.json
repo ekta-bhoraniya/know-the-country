@@ -1,0 +1,34 @@
+{
+  "code": "GIN",
+  "name": "Guinea",
+  "status": "draft",
+  "content": {
+    "about": "Guinea is on West Africa's Atlantic coast. Its highlands give rise to several major rivers. It has some of the world's largest bauxite reserves. Its music and drumming traditions are famous.",
+    "standout": {
+      "category": "Natural",
+      "text": "Guinea's Fouta Djallon highlands are the source of the Niger, Senegal and Gambia rivers.",
+      "source": "https://en.wikipedia.org/wiki/Fouta_Djallon",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Guinea has huge bauxite deposits, used to make aluminium.",
+      "The Mount Nimba reserve has unique animals.",
+      "The djembe drum is linked to the region."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 320,
+    "longestRiver": {
+      "name": "Niger",
+      "km": 4180
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "2 Oct · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

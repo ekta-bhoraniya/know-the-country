@@ -1,0 +1,34 @@
+{
+  "code": "RUS",
+  "name": "Russia",
+  "status": "draft",
+  "content": {
+    "about": "Russia stretches across Eastern Europe and northern Asia, from the Baltic Sea to the Pacific. It has huge forests, tundra, mountains and frozen Siberian plains. Lake Baikal, the world's deepest lake, is here. Russian writers, ballet and music are famous worldwide.",
+    "standout": {
+      "category": "Natural",
+      "text": "Russia is the largest country in the world, covering about one-eighth of Earth's land.",
+      "source": "https://en.wikipedia.org/wiki/Russia",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Trans-Siberian Railway is the longest railway line in the world.",
+      "Lake Baikal holds about a fifth of the world's unfrozen fresh surface water.",
+      "Russia spans 11 time zones."
+    ]
+  },
+  "geography": {
+    "climate": "Continental to subarctic",
+    "coastlineKm": 37653,
+    "longestRiver": {
+      "name": "Yenisei",
+      "km": 3487
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "12 Jun · Russia Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

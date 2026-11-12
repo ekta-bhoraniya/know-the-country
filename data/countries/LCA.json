@@ -1,0 +1,34 @@
+{
+  "code": "LCA",
+  "name": "Saint Lucia",
+  "status": "draft",
+  "content": {
+    "about": "Saint Lucia is a mountainous Caribbean island. Its two Pitons rise from the sea. It has a drive-in volcano and hot springs. Two Nobel Prize winners came from it.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Pitons are two volcanic spires rising straight from the sea.",
+      "source": "https://en.wikipedia.org/wiki/Pitons_(Saint_Lucia)",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Saint Lucia has two Nobel laureates.",
+      "Sulphur Springs is a drive-in volcano.",
+      "Its national day honours Saint Lucy."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 158,
+    "longestRiver": {
+      "name": "Roseau",
+      "km": 15
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "22 Feb · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

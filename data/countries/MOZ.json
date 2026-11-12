@@ -1,0 +1,34 @@
+{
+  "code": "MOZ",
+  "name": "Mozambique",
+  "status": "draft",
+  "content": {
+    "about": "Mozambique runs along Africa's southeast coast, with a long Indian Ocean shoreline. Beaches, coral reefs and islands line its coast. The Zambezi River crosses its middle. Its flag is the only one showing a modern rifle.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Bazaruto Archipelago is one of the last strongholds of the dugong in the western Indian Ocean.",
+      "source": "https://en.wikipedia.org/wiki/Bazaruto_Archipelago",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Mozambique Island was once the capital of Portuguese East Africa.",
+      "Its flag shows an AK-47.",
+      "Whale sharks and manta rays visit Tofo beach."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 2470,
+    "longestRiver": {
+      "name": "Zambezi",
+      "km": 2574
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "25 Jun · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

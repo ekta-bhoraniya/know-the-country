@@ -1,0 +1,34 @@
+{
+  "code": "GBR",
+  "name": "United Kingdom",
+  "status": "draft",
+  "content": {
+    "about": "The United Kingdom is made up of England, Scotland, Wales and Northern Ireland, on islands off northwest Europe. London is one of the world's great cities. It is known for its royal family, castles and football. Shakespeare and the Beatles came from here.",
+    "standout": {
+      "category": "Intellectual and scientific",
+      "text": "The World Wide Web was invented by British scientist Tim Berners-Lee in 1989.",
+      "source": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Football, rugby and tennis rules were first written down in Britain.",
+      "No place in the UK is more than about 120 km from the sea.",
+      "Big Ben is the name of the bell, not the tower."
+    ]
+  },
+  "geography": {
+    "climate": "Temperate maritime",
+    "coastlineKm": 12429,
+    "longestRiver": {
+      "name": "Severn",
+      "km": 354
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "No official national day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

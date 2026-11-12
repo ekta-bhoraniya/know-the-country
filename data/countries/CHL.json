@@ -1,0 +1,63 @@
+{
+  "code": "CHL",
+  "name": "Chile",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "Chile is about 4,300 km long but on average only about 175 km wide.",
+      "The Atacama Desert is one of the driest non-polar places on Earth.",
+      "Chile produces more copper than any other country."
+    ],
+    "about": "Chile is a long, narrow country squeezed between the Andes and the Pacific along South America's western edge. Its north holds the Atacama Desert, its centre has vineyards and Santiago, and its south breaks into fjords, glaciers and Patagonia. It also owns remote Easter Island with its giant moai statues. Clear desert skies make Chile a world centre for astronomy.",
+    "standout": {
+      "category": "Intellectual and scientific",
+      "text": "Chile's Atacama Desert hosts ALMA, one of the world's largest radio telescope arrays.",
+      "source": "https://en.wikipedia.org/wiki/Chile",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 24,
+    "coastlineKm": 6435,
+    "highestPoint": {
+      "name": "Ojos del Salado",
+      "m": 6893
+    },
+    "longestRiver": {
+      "name": "Loa",
+      "km": 440
+    },
+    "climate": "Desert to polar"
+  },
+  "people": {
+    "medianAge": 36,
+    "lifeExpectancy": 81,
+    "literacyPct": 97,
+    "urbanPct": 88
+  },
+  "government": {
+    "type": "Presidential republic",
+    "headOfState": "President José Antonio Kast",
+    "headOfGovernment": "President José Antonio Kast",
+    "asOf": "2026-06",
+    "nationalDay": "18 Sep · Independence Day"
+  },
+  "economy": {
+    "population": {
+      "value": 19800000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 330000000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "animal": "Huemul and Andean condor",
+    "flower": "Copihue",
+    "sport": "Chilean rodeo"
+  },
+  "practical": {
+    "unescoSites": 7
+  }
+}

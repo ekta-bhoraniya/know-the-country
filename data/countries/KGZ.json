@@ -1,0 +1,34 @@
+{
+  "code": "KGZ",
+  "name": "Kyrgyzstan",
+  "status": "draft",
+  "content": {
+    "about": "Kyrgyzstan is a small, mountainous country in Central Asia, almost entirely covered by the Tian Shan range. Herders still take their animals to high summer pastures and live in yurts. Its people are known for the epic poem of Manas, one of the longest in the world. Snow leopards live in its peaks.",
+    "standout": {
+      "category": "Natural",
+      "text": "Issyk-Kul is one of the largest mountain lakes in the world and never freezes despite its height.",
+      "source": "https://en.wikipedia.org/wiki/Issyk-Kul",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The roof frame of a yurt appears on Kyrgyzstan's flag.",
+      "The Manas epic is hundreds of thousands of lines long.",
+      "The World Nomad Games have been held in Kyrgyzstan."
+    ]
+  },
+  "geography": {
+    "climate": "Continental to alpine",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Naryn",
+      "km": 807
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "31 Aug · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

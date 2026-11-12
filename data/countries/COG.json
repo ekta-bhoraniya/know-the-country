@@ -1,0 +1,34 @@
+{
+  "code": "COG",
+  "name": "Republic of the Congo",
+  "status": "draft",
+  "content": {
+    "about": "The Republic of the Congo sits on the equator in Central Africa, with rainforests, rivers and a short Atlantic coast. Its capital, Brazzaville, faces Kinshasa across the Congo River. It is home to gorillas and chimpanzees. Congolese rumba music is famous across Africa.",
+    "standout": {
+      "category": "Wildlife",
+      "text": "Odzala-Kokoua National Park is a stronghold of western lowland gorillas.",
+      "source": "https://en.wikipedia.org/wiki/Odzala-Kokoua_National_Park",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Brazzaville and Kinshasa are the closest pair of capital cities in the world.",
+      "About two-thirds of the country is forest.",
+      "Congolese rumba is on UNESCO's list of intangible heritage."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 169,
+    "longestRiver": {
+      "name": "Congo",
+      "km": 4700
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "15 Aug · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

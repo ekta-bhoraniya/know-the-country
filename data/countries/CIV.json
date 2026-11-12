@@ -1,0 +1,34 @@
+{
+  "code": "CIV",
+  "name": "Ivory Coast",
+  "status": "draft",
+  "content": {
+    "about": "Côte d'Ivoire, or Ivory Coast, is on the Gulf of Guinea in West Africa. It has beaches, rainforests and savanna. Abidjan is its largest city, and Yamoussoukro has one of the largest churches in the world. It grows a large share of the world's cocoa.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Côte d'Ivoire is the world's largest cocoa producer.",
+      "source": "https://en.wikipedia.org/wiki/Cocoa_production_in_Ivory_Coast",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Basilica of Our Lady of Peace is one of the largest churches in the world.",
+      "Côte d'Ivoire grows about 40% of the world's cocoa.",
+      "Taï National Park has pygmy hippos."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 515,
+    "longestRiver": {
+      "name": "Bandama",
+      "km": 800
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "7 Aug · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

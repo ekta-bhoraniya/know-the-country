@@ -1,0 +1,34 @@
+{
+  "code": "TUR",
+  "name": "Türkiye",
+  "status": "draft",
+  "content": {
+    "about": "Türkiye spans two continents, with most of its land in Asia and a small part in Europe. Istanbul sits on both sides of the Bosphorus strait. It has ancient cities, fairy-chimney rock towers in Cappadocia and long coastlines on four seas. Turkish coffee, tea and sweets like baklava are famous worldwide.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Göbekli Tepe, about 11,000 years old, is one of the oldest known monumental temples.",
+      "source": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Istanbul is one of the few major cities that lies on two continents.",
+      "Tulips were grown in the Ottoman Empire before they became popular in the Netherlands.",
+      "Santa's inspiration, Saint Nicholas, lived in Myra, in today's Türkiye."
+    ]
+  },
+  "geography": {
+    "climate": "Mediterranean to continental",
+    "coastlineKm": 7200,
+    "longestRiver": {
+      "name": "Kızılırmak",
+      "km": 1355
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "29 Oct · Republic Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

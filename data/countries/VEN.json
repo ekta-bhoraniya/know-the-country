@@ -1,0 +1,34 @@
+{
+  "code": "VEN",
+  "name": "Venezuela",
+  "status": "draft",
+  "content": {
+    "about": "Venezuela is on South America's north coast. It has Caribbean beaches, the Andes and flat-topped mountains called tepuis. Angel Falls is here. It has large oil reserves.",
+    "standout": {
+      "category": "Natural",
+      "text": "Angel Falls is the world's tallest uninterrupted waterfall, at 979 m.",
+      "source": "https://en.wikipedia.org/wiki/Angel_Falls",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Catatumbo lightning strikes very often.",
+      "Tepuis inspired lost-world stories.",
+      "Venezuela has huge oil reserves."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 2800,
+    "longestRiver": {
+      "name": "Orinoco",
+      "km": 2140
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "5 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

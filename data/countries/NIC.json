@@ -1,0 +1,34 @@
+{
+  "code": "NIC",
+  "name": "Nicaragua",
+  "status": "draft",
+  "content": {
+    "about": "Nicaragua is the largest country in Central America. It has lakes, volcanoes and two coasts. Granada is a colourful colonial city. Ometepe island has two volcanoes.",
+    "standout": {
+      "category": "Natural",
+      "text": "Lake Nicaragua has freshwater sharks.",
+      "source": "https://en.wikipedia.org/wiki/Lake_Nicaragua",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Ometepe has two volcanoes.",
+      "Volcano boarding is popular.",
+      "Lake Nicaragua is Central America's largest lake."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 910,
+    "longestRiver": {
+      "name": "Coco",
+      "km": 680
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "15 Sep · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "MMR",
+  "name": "Myanmar",
+  "status": "draft",
+  "content": {
+    "about": "Myanmar is the largest country in mainland Southeast Asia, stretching from Himalayan foothills to the Andaman Sea. The Irrawaddy River runs through its heart. Golden pagodas such as Shwedagon in Yangon shine over its cities. Many people wear a long wrapped skirt called a longyi.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Bagan in Myanmar has more than 2,000 surviving Buddhist temples and pagodas on one plain.",
+      "source": "https://en.wikipedia.org/wiki/Bagan",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Shwedagon Pagoda is covered in gold and topped with thousands of diamonds.",
+      "Fishermen on Inle Lake row with one leg wrapped around the oar.",
+      "Myanmar is one of the world's biggest sources of jade."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical monsoon",
+    "coastlineKm": 1930,
+    "longestRiver": {
+      "name": "Irrawaddy",
+      "km": 2170
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "4 Jan · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

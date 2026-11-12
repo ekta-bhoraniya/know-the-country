@@ -1,0 +1,34 @@
+{
+  "code": "AUT",
+  "name": "Austria",
+  "status": "draft",
+  "content": {
+    "about": "Austria is a landlocked country in Central Europe, two-thirds of it covered by the Alps. It was the centre of the Habsburg empire for centuries. Vienna is famous for palaces, coffee houses and classical music. Mozart was born in Salzburg.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Vienna's Schönbrunn Zoo, founded in 1752, is the oldest zoo still running in the world.",
+      "source": "https://en.wikipedia.org/wiki/Tiergarten_Sch%C3%B6nbrunn",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Eisriesenwelt is the largest known ice cave in the world.",
+      "The croissant may trace its roots to the Austrian kipferl.",
+      "Austria hosts a famous New Year's Day concert broadcast worldwide."
+    ]
+  },
+  "geography": {
+    "climate": "Alpine and continental",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Danube",
+      "km": 2850
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "26 Oct · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "TKM",
+  "name": "Turkmenistan",
+  "status": "draft",
+  "content": {
+    "about": "Turkmenistan is a desert country in Central Asia, with the Karakum Desert covering most of its land. It has some of the world's largest natural gas reserves. Its people are known for fine carpets and the elegant Akhal-Teke horse. Its capital, Ashgabat, is covered in white marble buildings.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Darvaza gas crater, called the \"Door to Hell\", has been burning since 1971.",
+      "source": "https://en.wikipedia.org/wiki/Darvaza_gas_crater",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Ashgabat holds a record for the most white marble buildings.",
+      "The Akhal-Teke horse has a shiny, metallic-looking coat.",
+      "Turkmen carpet designs appear on the national flag."
+    ]
+  },
+  "geography": {
+    "climate": "Arid desert",
+    "coastlineKm": 1768,
+    "longestRiver": {
+      "name": "Amu Darya",
+      "km": 2540
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "27 Sep · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

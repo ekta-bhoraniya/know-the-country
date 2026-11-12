@@ -1,0 +1,34 @@
+{
+  "code": "LUX",
+  "name": "Luxembourg",
+  "status": "draft",
+  "content": {
+    "about": "Luxembourg is a small, landlocked country in Western Europe, between Belgium, France and Germany. It is the world's last grand duchy. Its capital is built on cliffs over deep river gorges. It is a major centre for banking and EU institutions.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Luxembourg was the first country to make all public transport free, in 2020.",
+      "source": "https://en.wikipedia.org/wiki/Transport_in_Luxembourg",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Luxembourgish, French and German are all official languages.",
+      "It has one of the highest incomes per person in the world.",
+      "Luxembourg City's old quarters sit on steep rock fortifications."
+    ]
+  },
+  "geography": {
+    "climate": "Temperate",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Sauer",
+      "km": 173
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "23 Jun · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

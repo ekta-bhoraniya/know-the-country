@@ -1,0 +1,34 @@
+{
+  "code": "NLD",
+  "name": "Netherlands",
+  "status": "draft",
+  "content": {
+    "about": "The Netherlands is a low, flat country in Western Europe on the North Sea, with about a quarter of it below sea level. Dikes, windmills and canals keep the water out. It is known for tulips, cheese and bicycles. Amsterdam is built on many canals.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The Delta Works are one of the largest flood-protection systems in the world.",
+      "source": "https://en.wikipedia.org/wiki/Delta_Works",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "There are more bicycles than people in the Netherlands.",
+      "Flevoland was reclaimed from the sea in the 20th century.",
+      "The Netherlands is one of the world's largest food exporters."
+    ]
+  },
+  "geography": {
+    "climate": "Temperate maritime",
+    "coastlineKm": 451,
+    "longestRiver": {
+      "name": "Rhine",
+      "km": 1230
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "27 Apr · King's Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

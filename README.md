@@ -2,23 +2,45 @@
 
 Spin an astrolabe wheel, watch the globe land on a random country, and read a passport-style card about it. MVP and v1 info card, Vintage Explorer design direction.
 
-## Run it
+## Quick start
 
-Open `index.html` in a browser. It is a single self-contained page; d3 and topojson load from cdnjs and fonts from Google Fonts.
+```bash
+npm install
+npm run borders   # download and simplify Natural Earth borders into build/ (once)
+npm run build     # validate content, then write index.html
+```
 
-## What's here
+Open `index.html` in a browser. It is one self-contained page; d3 and topojson load from cdnjs and fonts from Google Fonts.
 
-- `index.html`: the built page, with all map and country data embedded.
-- `scripts/template.html`: page source; the build inserts the data at `/*DATA*/`.
-- `scripts/build.js`: merges borders and country facts into the data bundle.
-- `data/curated.json`: leaders, population, GDP and "Did you know?" facts for 20 polished countries.
-- `data/v1.json`: About summaries, standout facts and detail fields (FR18–FR21) for the same 20.
+## Where country information lives
 
-## Data sources
+Each field comes from one of three layers. For any field, a value in a higher layer wins.
 
-- Borders: Natural Earth 10m admin-0 (India point of view) and admin-1, simplified with mapshaper.
-- Country basics: the `world-countries` npm package.
-- Time zones: the IANA `zone.tab`. The time at the pin uses the nearest zone city in that country.
-- Curated figures and text: drafted by hand and still need human review before launch.
+| Layer | Files | What it holds | How it's updated |
+|---|---|---|---|
+| 1. Hand-written | `data/countries/<CODE>.json` (195 files) | About, standout fact with source, Did you know?, climate, coastline, longest river, national day, symbols, and any figure that should override an import | Edit the file |
+| 2. Imported | `data/imported/worldbank.json`, `data/imported/wikidata.json` | Population, GDP, forest cover, life expectancy, literacy, urban share (World Bank); leaders, government type, highest point (Wikidata) | `npm run import`, yearly |
+| 3. Reference | the `world-countries` package, the IANA `zone.tab` | Names, flag, capital, languages, currency, area, calling code, domain, time zones | Package updates |
 
-The build expects simplified borders in `build/` (made with mapshaper from the Natural Earth GeoJSON) and `world-countries` installed. The paths are at the top of `scripts/build.js`.
+`<CODE>` is the ISO 3166-1 alpha-3 code, for example `IND`. `data/codes.json` lists the 195 countries in scope.
+
+## Reviewing content
+
+- Every country file has a `status`: `draft`, `approved` or `flagged`. All files start as `draft`.
+- `npm run validate` checks every file and writes:
+  - `data/coverage.md`: how many countries are complete and approved, and what is missing.
+  - `data/review.csv`: one row per country for reviewers, with the About text, standout fact, source and Did you know? facts.
+- To approve a country, set `"status": "approved"` and optionally `"reviewer"` and `"reviewNote"` in its file.
+
+## Repository layout
+
+```
+index.html                 built page (generated; do not edit)
+src/template.html          page source: layout, wheel, globe, card
+scripts/fetch-borders.js   downloads and simplifies borders
+scripts/import-*.js        World Bank and Wikidata imports
+scripts/validate.js        checks content, writes coverage.md and review.csv
+scripts/build.js           merges all layers and writes index.html
+data/countries/            one hand-written file per country
+data/imported/             import results (generated, committed)
+```

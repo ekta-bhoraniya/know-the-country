@@ -1,0 +1,34 @@
+{
+  "code": "NPL",
+  "name": "Nepal",
+  "status": "draft",
+  "content": {
+    "about": "Nepal is a landlocked country in the Himalayas, between India and China. Eight of the world's ten highest mountains rise along its borders. Its lowlands hold jungles with rhinos and tigers, while Kathmandu is full of temples and stupas. Lumbini in Nepal is the birthplace of the Buddha.",
+    "standout": {
+      "category": "Natural",
+      "text": "Nepal is home to Mount Everest, at 8,849 m the highest mountain on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Everest",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Nepal's flag is the only national flag that is not a rectangle.",
+      "Nepal uses its own calendar, which runs about 56 years ahead of the Western one.",
+      "Chitwan National Park is a stronghold of the one-horned rhinoceros."
+    ]
+  },
+  "geography": {
+    "climate": "Subtropical to alpine",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Karnali",
+      "km": 507
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "20 Sep · Constitution Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,63 @@
+{
+  "code": "NGA",
+  "name": "Nigeria",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "Nigeria is the most populous country in Africa.",
+      "More than 500 languages are spoken in Nigeria.",
+      "Nigeria's film industry, Nollywood, releases more films a year than almost any other."
+    ],
+    "about": "Nigeria sits on West Africa's Gulf of Guinea, stretching from mangrove swamps on the coast to dry savanna in the north. It is Africa's most populous country, with more than 250 ethnic groups and hundreds of languages. Lagos is one of the continent's biggest and busiest cities. Nigerian music, especially Afrobeats, and its films are popular across Africa and far beyond.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Nollywood is one of the world's largest film industries by number of films made each year.",
+      "source": "https://en.wikipedia.org/wiki/Nigeria",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 23,
+    "coastlineKm": 853,
+    "highestPoint": {
+      "name": "Chappal Waddi",
+      "m": 2419
+    },
+    "longestRiver": {
+      "name": "Niger",
+      "km": 4180
+    },
+    "climate": "Tropical"
+  },
+  "people": {
+    "medianAge": 18,
+    "lifeExpectancy": 54,
+    "literacyPct": 63,
+    "urbanPct": 54
+  },
+  "government": {
+    "type": "Federal presidential republic",
+    "headOfState": "President Bola Tinubu",
+    "headOfGovernment": "President Bola Tinubu",
+    "asOf": "2026-06",
+    "nationalDay": "1 Oct · Independence Day"
+  },
+  "economy": {
+    "population": {
+      "value": 232700000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 188000000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "bird": "Black crowned crane",
+    "flower": "Costus spectabilis",
+    "sport": "Football (popular)"
+  },
+  "practical": {
+    "unescoSites": 2
+  }
+}

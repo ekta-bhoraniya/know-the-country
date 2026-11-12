@@ -1,0 +1,30 @@
+{
+  "code": "OMN",
+  "name": "Oman",
+  "status": "draft",
+  "content": {
+    "about": "Oman sits on the southeastern corner of the Arabian Peninsula, with a long coast on the Arabian Sea. Rocky mountains, deep canyons and desert dunes cover its land. Oman was a great seafaring nation, trading as far as East Africa. Frankincense, a fragrant resin, has been harvested here for thousands of years.",
+    "standout": {
+      "category": "Natural",
+      "text": "Majlis al Jinn in Oman is one of the largest known cave chambers in the world.",
+      "source": "https://en.wikipedia.org/wiki/Majlis_al_Jinn",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Oman's southern Dhofar region gets monsoon rain and turns green each summer.",
+      "Old falaj water channels still water its farms.",
+      "Sea turtles nest on its beaches at Ras al Jinz."
+    ]
+  },
+  "geography": {
+    "climate": "Desert",
+    "coastlineKm": 2092
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "20 Nov · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

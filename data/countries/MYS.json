@@ -1,0 +1,34 @@
+{
+  "code": "MYS",
+  "name": "Malaysia",
+  "status": "draft",
+  "content": {
+    "about": "Malaysia is split between the Malay Peninsula and the northern part of Borneo, with the South China Sea in between. Rainforests, beaches and modern cities like Kuala Lumpur sit side by side. Malay, Chinese and Indian cultures mix in its food and festivals. Orangutans live in the forests of Sabah and Sarawak.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The Petronas Twin Towers in Kuala Lumpur are the world's tallest twin skyscrapers.",
+      "source": "https://en.wikipedia.org/wiki/Petronas_Towers",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Rafflesia, found in Malaysia's forests, is one of the largest flowers in the world.",
+      "Malaysia has a king who is chosen every five years among nine royal rulers.",
+      "Its rainforests are among the oldest on Earth."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 4675,
+    "longestRiver": {
+      "name": "Rajang",
+      "km": 565
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "31 Aug · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

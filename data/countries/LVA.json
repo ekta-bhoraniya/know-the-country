@@ -1,0 +1,34 @@
+{
+  "code": "LVA",
+  "name": "Latvia",
+  "status": "draft",
+  "content": {
+    "about": "Latvia is a Baltic country with forests, rivers and a long sandy coast. Riga, its capital, has one of the largest collections of art nouveau buildings anywhere. It has thousands of folk songs called dainas. Forests cover about half of its land.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Latvia's song and dance festival is one of the largest amateur choral events in the world.",
+      "source": "https://en.wikipedia.org/wiki/Latvian_Song_and_Dance_Festival",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Riga has hundreds of art nouveau buildings.",
+      "The first decorated Christmas tree may have stood in Riga in 1510.",
+      "Latvia has about 1.2 million collected folk songs."
+    ]
+  },
+  "geography": {
+    "climate": "Temperate",
+    "coastlineKm": 498,
+    "longestRiver": {
+      "name": "Daugava",
+      "km": 1020
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "18 Nov · Proclamation Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "CZE",
+  "name": "Czechia",
+  "status": "draft",
+  "content": {
+    "about": "Czechia is a landlocked country in Central Europe, with hills, forests and old castles. Its capital, Prague, has a medieval astronomical clock and many bridges. It is known for glassmaking and beer. Czechs drink more beer per person than any other nation.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Prague Castle is one of the largest ancient castle complexes in the world.",
+      "source": "https://en.wikipedia.org/wiki/Prague_Castle",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Prague's astronomical clock is the oldest still working in the world.",
+      "The word \"robot\" first appeared in a Czech play in 1920.",
+      "Czechia has more than 2,000 castles and chateaux."
+    ]
+  },
+  "geography": {
+    "climate": "Temperate",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Vltava",
+      "km": 430
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "28 Oct · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

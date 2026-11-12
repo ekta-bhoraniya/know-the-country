@@ -1,0 +1,34 @@
+{
+  "code": "PAK",
+  "name": "Pakistan",
+  "status": "draft",
+  "content": {
+    "about": "Pakistan stretches from the Arabian Sea coast up to some of the world's highest mountains in the north. The Indus River runs through its whole length, feeding farms on its plains. It holds the remains of Mohenjo-daro, a city of the Indus Valley Civilisation. It is known for cricket, colourful truck art and its food.",
+    "standout": {
+      "category": "Natural",
+      "text": "K2, on Pakistan's border with China, is the second-highest mountain on Earth at 8,611 m.",
+      "source": "https://en.wikipedia.org/wiki/K2",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Karakoram Highway is one of the highest paved roads in the world.",
+      "Mohenjo-daro had planned streets and drains more than 4,000 years ago.",
+      "Pakistan makes many of the world's hand-stitched footballs."
+    ]
+  },
+  "geography": {
+    "climate": "Arid to alpine",
+    "coastlineKm": 1046,
+    "longestRiver": {
+      "name": "Indus",
+      "km": 3180
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "14 Aug · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

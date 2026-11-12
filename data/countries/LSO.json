@@ -1,0 +1,34 @@
+{
+  "code": "LSO",
+  "name": "Lesotho",
+  "status": "draft",
+  "content": {
+    "about": "Lesotho is a mountain kingdom entirely surrounded by South Africa. It has the highest low point of any country. Its people wear woollen blankets and conical hats. Maletsunyane Falls drops nearly 200 m.",
+    "standout": {
+      "category": "Natural",
+      "text": "Lesotho is the only country entirely above 1,000 m in elevation.",
+      "source": "https://en.wikipedia.org/wiki/Lesotho",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Lesotho's lowest point is about 1,400 m.",
+      "The Basotho hat is a symbol.",
+      "It is one of only three countries entirely surrounded by another."
+    ]
+  },
+  "geography": {
+    "climate": "Temperate highland",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Orange (Senqu)",
+      "km": 2200
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "4 Oct · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

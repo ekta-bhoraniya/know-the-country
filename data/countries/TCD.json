@@ -1,0 +1,34 @@
+{
+  "code": "TCD",
+  "name": "Chad",
+  "status": "draft",
+  "content": {
+    "about": "Chad is a large, landlocked country in north-central Africa. Its north is Sahara Desert, its middle is dry Sahel and its south is savanna. The Ennedi Plateau has dramatic rock arches and ancient rock art. Lake Chad gave the country its name.",
+    "standout": {
+      "category": "Natural",
+      "text": "Lake Chad has shrunk by about 90% since the 1960s.",
+      "source": "https://en.wikipedia.org/wiki/Lake_Chad",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Ennedi Plateau has natural rock arches over 100 m high.",
+      "Chad has more than 120 languages.",
+      "Tibesti's Emi Koussi is the highest point in the Sahara."
+    ]
+  },
+  "geography": {
+    "climate": "Desert to tropical",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Chari",
+      "km": 1400
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "11 Aug · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

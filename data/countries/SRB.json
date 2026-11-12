@@ -1,0 +1,34 @@
+{
+  "code": "SRB",
+  "name": "Serbia",
+  "status": "draft",
+  "content": {
+    "about": "Serbia is a landlocked country in the Balkans, with flat farmland in the north and mountains in the south. The Danube and Sava rivers meet at its capital, Belgrade. Its monasteries have old painted walls. Serbia is famous for tennis players and raspberries.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Iron Gates gorge on the Danube is one of the largest river gorges in Europe.",
+      "source": "https://en.wikipedia.org/wiki/Iron_Gates",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Serbia is one of the world's largest raspberry exporters.",
+      "Nikola Tesla was of Serbian origin.",
+      "Belgrade is one of the oldest cities in Europe."
+    ]
+  },
+  "geography": {
+    "climate": "Continental",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Danube",
+      "km": 2850
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "15 Feb · Statehood Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

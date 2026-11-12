@@ -1,0 +1,34 @@
+{
+  "code": "ECU",
+  "name": "Ecuador",
+  "status": "draft",
+  "content": {
+    "about": "Ecuador sits on the equator in South America. It has the Andes, Amazon and the Galápagos Islands. Quito is a high capital. Its name means \"equator\".",
+    "standout": {
+      "category": "Wildlife",
+      "text": "The Galápagos Islands inspired Charles Darwin's theory of evolution.",
+      "source": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Chimborazo's summit is the farthest point from Earth's centre.",
+      "Panama hats come from Ecuador.",
+      "Galápagos tortoises live very long."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical to alpine",
+    "coastlineKm": 2237,
+    "longestRiver": {
+      "name": "Napo",
+      "km": 1075
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "10 Aug · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

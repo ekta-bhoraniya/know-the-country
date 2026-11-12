@@ -1,0 +1,30 @@
+{
+  "code": "QAT",
+  "name": "Qatar",
+  "status": "draft",
+  "content": {
+    "about": "Qatar is a small peninsula sticking into the Persian Gulf from Arabia. Most of it is flat desert, but its capital, Doha, has a skyline of striking modern towers. Natural gas has made it one of the richest countries per person. It hosted the football World Cup in 2022.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Qatar hosted the 2022 FIFA World Cup, the first held in the Arab world.",
+      "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Qatar has some of the world's largest natural gas reserves.",
+      "Khor Al Adaid, the \"Inland Sea\", is where desert dunes meet the sea.",
+      "The Museum of Islamic Art in Doha sits on its own island."
+    ]
+  },
+  "geography": {
+    "climate": "Desert",
+    "coastlineKm": 563
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "18 Dec · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

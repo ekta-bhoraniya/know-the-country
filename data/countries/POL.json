@@ -1,0 +1,34 @@
+{
+  "code": "POL",
+  "name": "Poland",
+  "status": "draft",
+  "content": {
+    "about": "Poland is in Central Europe, stretching from the Baltic Sea to the Carpathian Mountains. Its cities, like Kraków and Gdańsk, have rebuilt old towns full of colour. Białowieża Forest is home to Europe's heaviest land animal, the bison. Pierogi dumplings are a favourite food.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The Wieliczka Salt Mine has chapels and statues carved entirely out of salt.",
+      "source": "https://en.wikipedia.org/wiki/Wieliczka_Salt_Mine",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Marie Curie, the first person to win two Nobel Prizes, was born in Warsaw.",
+      "Malbork Castle is the largest castle in the world by land area.",
+      "Białowieża Forest is one of Europe's last primeval forests."
+    ]
+  },
+  "geography": {
+    "climate": "Temperate",
+    "coastlineKm": 770,
+    "longestRiver": {
+      "name": "Vistula",
+      "km": 1047
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "3 May · Constitution Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

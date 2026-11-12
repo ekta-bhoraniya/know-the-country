@@ -1,0 +1,34 @@
+{
+  "code": "ALB",
+  "name": "Albania",
+  "status": "draft",
+  "content": {
+    "about": "Albania is a small country on the Balkan Peninsula, with a coast on the Adriatic and Ionian Seas. Mountains cover much of its land, and its beaches are some of Europe's least crowded. Its ancient city of Butrint holds Greek, Roman and Venetian ruins. Albanians nod to say no and shake their heads to say yes.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Albania built over 170,000 concrete bunkers during the Cold War, more per area than almost any country.",
+      "source": "https://en.wikipedia.org/wiki/Bunkers_in_Albania",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Albanian flag shows a black double-headed eagle.",
+      "Mother Teresa was ethnically Albanian.",
+      "Albanian is a branch of its own in the Indo-European language family."
+    ]
+  },
+  "geography": {
+    "climate": "Mediterranean",
+    "coastlineKm": 362,
+    "longestRiver": {
+      "name": "Drin",
+      "km": 285
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "28 Nov · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

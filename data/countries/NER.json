@@ -1,0 +1,34 @@
+{
+  "code": "NER",
+  "name": "Niger",
+  "status": "draft",
+  "content": {
+    "about": "Niger is a large, landlocked country in West Africa, mostly Sahara. The Niger River flows through its southwest. The Aïr Mountains hold rock art. Its Wodaabe people hold the Gerewol festival.",
+    "standout": {
+      "category": "Natural",
+      "text": "Niger's Ténéré is one of the Sahara's largest sand seas.",
+      "source": "https://en.wikipedia.org/wiki/T%C3%A9n%C3%A9r%C3%A9",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Tree of Ténéré was once the most isolated tree on Earth.",
+      "Dinosaur fossils have been found in Niger.",
+      "Agadez has a famous mud-brick minaret."
+    ]
+  },
+  "geography": {
+    "climate": "Desert",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Niger",
+      "km": 4180
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "18 Dec · Republic Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "PRY",
+  "name": "Paraguay",
+  "status": "draft",
+  "content": {
+    "about": "Paraguay is a landlocked country in South America. The Paraguay River divides it. Guaraní is widely spoken. Its electricity comes from huge dams.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The Itaipú Dam, shared with Brazil, is one of the largest hydroelectric plants.",
+      "source": "https://en.wikipedia.org/wiki/Itaipu_Dam",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Most Paraguayans speak Guaraní.",
+      "It exports hydroelectric power.",
+      "Ñandutí lace is a tradition."
+    ]
+  },
+  "geography": {
+    "climate": "Subtropical",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Paraguay",
+      "km": 2549
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "15 May · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "ESP",
+  "name": "Spain",
+  "status": "draft",
+  "content": {
+    "about": "Spain covers most of the Iberian Peninsula in southwestern Europe, plus the Balearic and Canary Islands. It is known for sunny beaches, flamenco dancing and grand buildings like the Alhambra. Its many regions have their own languages and food. Spanish is spoken by hundreds of millions of people worldwide.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Barcelona's Sagrada Família has been under construction since 1882.",
+      "source": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Spain produces about half of the world's olive oil.",
+      "Madrid's Sobrino de Botín is often called the world's oldest restaurant.",
+      "The Canary Islands are much closer to Africa than to mainland Spain."
+    ]
+  },
+  "geography": {
+    "climate": "Mediterranean",
+    "coastlineKm": 4964,
+    "longestRiver": {
+      "name": "Tagus",
+      "km": 1007
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "12 Oct · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

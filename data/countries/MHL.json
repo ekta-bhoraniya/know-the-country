@@ -1,0 +1,30 @@
+{
+  "code": "MHL",
+  "name": "Marshall Islands",
+  "status": "draft",
+  "content": {
+    "about": "The Marshall Islands is a Pacific nation of 29 coral atolls. It is very low-lying. Bikini Atoll was used for nuclear tests. Its people navigated with stick charts.",
+    "standout": {
+      "category": "Natural",
+      "text": "Kwajalein is one of the largest coral atolls in the world.",
+      "source": "https://en.wikipedia.org/wiki/Kwajalein_Atoll",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Stick charts showed ocean swells.",
+      "Bikini Atoll gave its name to the swimsuit.",
+      "Its average height is about 2 m."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 370
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 May · Constitution Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

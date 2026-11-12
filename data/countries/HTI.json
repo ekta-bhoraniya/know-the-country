@@ -1,0 +1,34 @@
+{
+  "code": "HTI",
+  "name": "Haiti",
+  "status": "draft",
+  "content": {
+    "about": "Haiti occupies the western third of Hispaniola. In 1804 it became the first country founded after a successful slave revolt. Its art and music are vibrant. Kreyòl is spoken alongside French.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The Citadelle Laferrière is the largest fortress in the Americas.",
+      "source": "https://en.wikipedia.org/wiki/Citadelle_Laferri%C3%A8re",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Haiti was the first Black-led republic.",
+      "Its art is famous for colour.",
+      "Kreyòl is spoken by nearly all."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 1771,
+    "longestRiver": {
+      "name": "Artibonite",
+      "km": 320
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Jan · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

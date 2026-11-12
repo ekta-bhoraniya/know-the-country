@@ -1,0 +1,34 @@
+{
+  "code": "MNG",
+  "name": "Mongolia",
+  "status": "draft",
+  "content": {
+    "about": "Mongolia is a vast, landlocked country between Russia and China, made up of grassy steppe, mountains and the Gobi Desert. Many Mongolians still live as nomadic herders in round felt tents called gers. Genghis Khan founded the Mongol Empire here in the 1200s. The Gobi is famous for its dinosaur fossils and eggs.",
+    "standout": {
+      "category": "Natural",
+      "text": "Mongolia is the most sparsely populated sovereign country in the world.",
+      "source": "https://en.wikipedia.org/wiki/Mongolia",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Mongolia has more horses than people.",
+      "The Naadam festival features wrestling, archery and horse racing.",
+      "Ulaanbaatar is the coldest national capital in the world on average."
+    ]
+  },
+  "geography": {
+    "climate": "Cold continental",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Orkhon",
+      "km": 1124
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "11 Jul · Naadam (National Day)"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

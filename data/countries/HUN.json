@@ -1,0 +1,34 @@
+{
+  "code": "HUN",
+  "name": "Hungary",
+  "status": "draft",
+  "content": {
+    "about": "Hungary is a landlocked country in Central Europe, split by the Danube River. Budapest is made of two cities, Buda and Pest, joined by bridges. It is famous for its thermal baths, paprika and Lake Balaton. Hungarian is unrelated to most of its neighbours' languages.",
+    "standout": {
+      "category": "Natural",
+      "text": "Lake Hévíz is the largest thermal lake in the world that people can swim in.",
+      "source": "https://en.wikipedia.org/wiki/H%C3%A9v%C3%ADz",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Rubik's Cube was invented by Hungarian Ernő Rubik.",
+      "Budapest has more thermal springs than any other capital.",
+      "Hungarian belongs to the Uralic language family, related to Finnish."
+    ]
+  },
+  "geography": {
+    "climate": "Continental",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Tisza",
+      "km": 965
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "20 Aug · St Stephen's Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

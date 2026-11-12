@@ -1,0 +1,30 @@
+{
+  "code": "BRB",
+  "name": "Barbados",
+  "status": "draft",
+  "content": {
+    "about": "Barbados is the easternmost Caribbean island. It has beaches, coral reefs and sugar-cane fields. Cricket is a national passion. It became a republic in 2021.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Barbados is considered the birthplace of rum.",
+      "source": "https://en.wikipedia.org/wiki/Rum",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Rihanna was born in Barbados.",
+      "Crop Over is a festival marking the end of the sugar harvest.",
+      "Harrison's Cave has stalactites."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 97
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "30 Nov · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

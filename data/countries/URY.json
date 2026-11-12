@@ -1,0 +1,34 @@
+{
+  "code": "URY",
+  "name": "Uruguay",
+  "status": "draft",
+  "content": {
+    "about": "Uruguay is a small country between Brazil and Argentina. It has beaches and grasslands. It is known for beef and mate. Montevideo is the capital.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Uruguay won the first FIFA World Cup in 1930.",
+      "source": "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Uruguay hosted the first World Cup.",
+      "Mate tea is widely drunk.",
+      "Most of its electricity is renewable."
+    ]
+  },
+  "geography": {
+    "climate": "Temperate",
+    "coastlineKm": 660,
+    "longestRiver": {
+      "name": "Uruguay",
+      "km": 1838
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "25 Aug · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

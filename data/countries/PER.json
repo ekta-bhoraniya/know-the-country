@@ -1,0 +1,34 @@
+{
+  "code": "PER",
+  "name": "Peru",
+  "status": "draft",
+  "content": {
+    "about": "Peru is in western South America, with desert coast, Andes and Amazon. It was the heart of the Inca Empire. Its food is famous. Lake Titicaca lies on its border.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Machu Picchu is a 15th-century Inca citadel high in the Andes.",
+      "source": "https://en.wikipedia.org/wiki/Machu_Picchu",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Peru has thousands of potato varieties.",
+      "The Nazca Lines are huge desert drawings.",
+      "Ceviche is a national dish."
+    ]
+  },
+  "geography": {
+    "climate": "Desert to tropical",
+    "coastlineKm": 2414,
+    "longestRiver": {
+      "name": "Ucayali",
+      "km": 1771
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "28 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

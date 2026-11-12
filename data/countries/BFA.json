@@ -1,0 +1,34 @@
+{
+  "code": "BFA",
+  "name": "Burkina Faso",
+  "status": "draft",
+  "content": {
+    "about": "Burkina Faso is a landlocked country in West Africa. Its name means \"land of upright people\". It is known for mud-brick architecture and painted houses in Tiébélé. Ouagadougou hosts a big African film festival.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Ouagadougou hosts FESPACO, Africa's largest film festival.",
+      "source": "https://en.wikipedia.org/wiki/FESPACO",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Tiébélé's houses are painted with geometric patterns.",
+      "FESPACO is held every two years.",
+      "Burkina Faso is a major cotton producer."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Mouhoun (Black Volta)",
+      "km": 1352
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "11 Dec · Proclamation of the Republic"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

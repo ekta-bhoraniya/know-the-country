@@ -1,0 +1,34 @@
+{
+  "code": "UGA",
+  "name": "Uganda",
+  "status": "draft",
+  "content": {
+    "about": "Uganda is a landlocked country in East Africa, around the north of Lake Victoria. It is called \"the Pearl of Africa\" for its green landscapes. It shelters mountain gorillas and chimpanzees. The Rwenzori Mountains have glaciers near the equator.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Nile flows out of Lake Victoria at Jinja, in Uganda.",
+      "source": "https://en.wikipedia.org/wiki/White_Nile",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Uganda has about half of the world's mountain gorillas.",
+      "Murchison Falls squeezes the Nile through a 7 m gap.",
+      "Lake Victoria is Africa's largest lake."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "White Nile",
+      "km": 3700
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "9 Oct · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

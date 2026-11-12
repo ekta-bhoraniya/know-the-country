@@ -1,0 +1,34 @@
+{
+  "code": "LBR",
+  "name": "Liberia",
+  "status": "draft",
+  "content": {
+    "about": "Liberia is on West Africa's Atlantic coast, with rainforests and long beaches. Its capital, Monrovia, is named after US President James Monroe. It was Africa's first republic. Pygmy hippos live in its forests.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Liberia was founded by freed slaves from the United States and became independent in 1847.",
+      "source": "https://en.wikipedia.org/wiki/History_of_Liberia",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Liberia's flag looks like the US flag with one star.",
+      "Ellen Johnson Sirleaf was Africa's first elected female head of state.",
+      "Liberia has some of West Africa's largest remaining rainforests."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 579,
+    "longestRiver": {
+      "name": "Cavalla",
+      "km": 515
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "26 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

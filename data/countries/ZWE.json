@@ -1,0 +1,34 @@
+{
+  "code": "ZWE",
+  "name": "Zimbabwe",
+  "status": "draft",
+  "content": {
+    "about": "Zimbabwe is a landlocked country in southern Africa, between the Zambezi and Limpopo rivers. It shares Victoria Falls with Zambia. It has huge granite boulders and the ruins of Great Zimbabwe. It has 16 official languages.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Great Zimbabwe was the largest stone structure in sub-Saharan Africa before 1500.",
+      "source": "https://en.wikipedia.org/wiki/Great_Zimbabwe",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Zimbabwe has 16 official languages.",
+      "Lake Kariba is one of the largest artificial lakes.",
+      "The country is named after Great Zimbabwe."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Zambezi",
+      "km": 2574
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "18 Apr · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

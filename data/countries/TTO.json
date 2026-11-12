@@ -1,0 +1,34 @@
+{
+  "code": "TTO",
+  "name": "Trinidad and Tobago",
+  "status": "draft",
+  "content": {
+    "about": "Trinidad and Tobago is a Caribbean nation near Venezuela. Its Carnival is famous. The steelpan was invented here. Pitch Lake is the largest natural asphalt lake.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Trinidad and Tobago invented the steelpan, the only acoustic instrument invented in the 20th century.",
+      "source": "https://en.wikipedia.org/wiki/Steelpan",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Pitch Lake is the largest natural asphalt deposit.",
+      "Calypso and soca come from here.",
+      "Tobago has coral reefs."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 362,
+    "longestRiver": {
+      "name": "Caroni",
+      "km": 40
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "31 Aug · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

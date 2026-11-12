@@ -1,0 +1,30 @@
+{
+  "code": "MDV",
+  "name": "Maldives",
+  "status": "draft",
+  "content": {
+    "about": "The Maldives is a chain of about 1,200 coral islands grouped into atolls in the Indian Ocean, southwest of India. Only around 200 islands are lived on. It is famous for white beaches, clear lagoons and resorts built over the water. Its reefs are home to manta rays, whale sharks and colourful fish.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Maldives is the world's lowest-lying country, with an average height of about 1.5 m above sea level.",
+      "source": "https://en.wikipedia.org/wiki/Maldives",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Maldives is the smallest country in Asia by land area.",
+      "Its capital, Malé, is one of the most densely packed cities in the world.",
+      "In 2009 its government held a cabinet meeting underwater to draw attention to rising seas."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 644
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "26 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

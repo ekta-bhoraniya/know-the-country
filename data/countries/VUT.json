@@ -1,0 +1,30 @@
+{
+  "code": "VUT",
+  "name": "Vanuatu",
+  "status": "draft",
+  "content": {
+    "about": "Vanuatu is a chain of about 80 islands in the South Pacific. It has active volcanoes. Land diving is a tradition. It has many languages.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Land diving on Pentecost Island inspired bungee jumping.",
+      "source": "https://en.wikipedia.org/wiki/Land_diving",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Mount Yasur volcano can be visited.",
+      "Land diving inspired bungee jumping.",
+      "Vanuatu has an underwater post office."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 2528
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "30 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

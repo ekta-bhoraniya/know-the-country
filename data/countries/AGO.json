@@ -1,0 +1,34 @@
+{
+  "code": "AGO",
+  "name": "Angola",
+  "status": "draft",
+  "content": {
+    "about": "Angola lies on Africa's southwest coast, with a long Atlantic shoreline, high plateaus and dry deserts in the south. It is rich in oil and diamonds. Its capital, Luanda, is one of Africa's fastest-growing cities. Kizomba and semba music and dance come from Angola.",
+    "standout": {
+      "category": "Natural",
+      "text": "Kalandula Falls is one of Africa's largest waterfalls by volume.",
+      "source": "https://en.wikipedia.org/wiki/Kalandula_Falls",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The giant sable antelope is found only in Angola.",
+      "Portuguese is the official language.",
+      "Part of the Namib Desert reaches into southern Angola."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical to semi-arid",
+    "coastlineKm": 1600,
+    "longestRiver": {
+      "name": "Cuanza",
+      "km": 960
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "11 Nov · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "PHL",
+  "name": "Philippines",
+  "status": "draft",
+  "content": {
+    "about": "The Philippines is an archipelago of more than 7,000 islands in the western Pacific. Volcanoes, rice terraces and white beaches cover its islands. Its culture blends Asian, Spanish and American influences. It is home to the tiny tarsier, a primate with huge eyes.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Puerto Princesa Underground River is one of the longest navigable underground rivers in the world.",
+      "source": "https://en.wikipedia.org/wiki/Puerto_Princesa_Subterranean_River_National_Park",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Banaue Rice Terraces were carved by hand about 2,000 years ago.",
+      "Basketball is the most popular sport in the Philippines.",
+      "Jeepneys, colourful public buses, began as old army jeeps."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 36289,
+    "longestRiver": {
+      "name": "Cagayan",
+      "km": 505
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "12 Jun · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

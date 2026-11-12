@@ -1,0 +1,30 @@
+{
+  "code": "ARE",
+  "name": "United Arab Emirates",
+  "status": "draft",
+  "content": {
+    "about": "The United Arab Emirates is a federation of seven emirates on the Arabian Peninsula, along the Persian Gulf. Desert covers most of the land, but cities like Dubai and Abu Dhabi are filled with skyscrapers and huge malls. Oil turned small fishing and pearl-diving towns into global hubs. Camel racing and falconry are cherished traditions.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Burj Khalifa in Dubai, at 828 m, is the world's tallest building.",
+      "source": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Most people living in the UAE were born in other countries.",
+      "The Palm Jumeirah is an artificial island shaped like a palm tree.",
+      "Pearl diving was the main industry before oil was found."
+    ]
+  },
+  "geography": {
+    "climate": "Desert",
+    "coastlineKm": 1318
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "2 Dec · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,30 @@
+{
+  "code": "FSM",
+  "name": "Micronesia",
+  "status": "draft",
+  "content": {
+    "about": "The Federated States of Micronesia is a nation of over 600 islands in the western Pacific. It has four states. Nan Madol is an ancient stone city. Yap has huge stone money.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Nan Madol is a ruined city built on artificial islets.",
+      "source": "https://en.wikipedia.org/wiki/Nan_Madol",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Yap uses giant stone discs as money.",
+      "Nan Madol is built on reefs.",
+      "It has many languages."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 6112
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "10 May · Constitution Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

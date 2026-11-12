@@ -1,0 +1,34 @@
+{
+  "code": "THA",
+  "name": "Thailand",
+  "status": "draft",
+  "content": {
+    "about": "Thailand lies in the middle of mainland Southeast Asia, with mountains in the north and tropical islands in the south. Golden temples, floating markets and busy Bangkok draw millions of visitors. Thai food, with its mix of sweet, sour, salty and spicy, is loved worldwide. Thailand is the only Southeast Asian country never colonised by a European power.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Bangkok's full ceremonial name is the longest place name in the world.",
+      "source": "https://en.wikipedia.org/wiki/Bangkok",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Asian elephant is a national symbol of Thailand.",
+      "Muay Thai, or Thai boxing, uses fists, elbows, knees and shins.",
+      "Songkran, the Thai New Year, is celebrated with giant water fights."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 3219,
+    "longestRiver": {
+      "name": "Chao Phraya",
+      "km": 372
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "5 Dec · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

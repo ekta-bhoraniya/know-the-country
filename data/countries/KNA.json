@@ -1,0 +1,30 @@
+{
+  "code": "KNA",
+  "name": "Saint Kitts and Nevis",
+  "status": "draft",
+  "content": {
+    "about": "Saint Kitts and Nevis is the smallest country in the Americas. Its two volcanic islands have rainforest and beaches. Brimstone Hill fort is a UNESCO site. Green vervet monkeys live there.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Brimstone Hill Fortress is one of the best-preserved fortresses in the Americas.",
+      "source": "https://en.wikipedia.org/wiki/Brimstone_Hill_Fortress_National_Park",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "It is the smallest country in the Western Hemisphere.",
+      "Alexander Hamilton was born on Nevis.",
+      "Its scenic railway once carried sugar cane."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 135
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "19 Sep · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

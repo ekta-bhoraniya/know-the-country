@@ -1,0 +1,34 @@
+{
+  "code": "SGP",
+  "name": "Singapore",
+  "status": "draft",
+  "content": {
+    "about": "Singapore is a small island city-state at the southern tip of the Malay Peninsula. It grew from a trading port into one of the world's busiest harbours and financial centres. Its people speak English, Malay, Mandarin and Tamil, and its street food is famous. Gardens by the Bay has giant metal \"supertrees\" covered in plants.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Singapore's Changi Airport has the world's tallest indoor waterfall, the Rain Vortex.",
+      "source": "https://en.wikipedia.org/wiki/Jewel_Changi_Airport",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Singapore has grown by about a quarter by reclaiming land from the sea.",
+      "Chewing gum sales have been banned since 1992.",
+      "It is one of only three city-states in the world."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 193,
+    "longestRiver": {
+      "name": "Kallang",
+      "km": 10
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "9 Aug · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "ROU",
+  "name": "Romania",
+  "status": "draft",
+  "content": {
+    "about": "Romania is in southeastern Europe, with the Carpathian Mountains curving through its middle. Medieval towns and castles fill Transylvania. The Danube ends in a huge delta on its Black Sea coast. Bran Castle is linked in popular stories to Dracula.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Bucharest's Palace of the Parliament is one of the heaviest buildings in the world.",
+      "source": "https://en.wikipedia.org/wiki/Palace_of_the_Parliament",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Danube Delta is one of Europe's largest wetlands.",
+      "Romania has some of Europe's largest areas of untouched forest.",
+      "Romanian is a Romance language, related to Italian and French."
+    ]
+  },
+  "geography": {
+    "climate": "Continental",
+    "coastlineKm": 225,
+    "longestRiver": {
+      "name": "Danube",
+      "km": 2850
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Dec · Great Union Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

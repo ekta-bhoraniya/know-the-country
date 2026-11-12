@@ -1,0 +1,34 @@
+{
+  "code": "LKA",
+  "name": "Sri Lanka",
+  "status": "draft",
+  "content": {
+    "about": "Sri Lanka is a teardrop-shaped island in the Indian Ocean, just south of India. Its hill country is covered in tea gardens, while golden beaches circle the coast. It has ancient Buddhist cities, temples and some of the world's oldest written history. Elephants, leopards and blue whales can all be seen in and around the island.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Sigiriya is a 5th-century palace built on top of a 200 m rock column.",
+      "source": "https://en.wikipedia.org/wiki/Sigiriya",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Sri Lanka elected the world's first female prime minister, Sirimavo Bandaranaike, in 1960.",
+      "Ceylon tea is named after the island's old name.",
+      "Sri Lanka is one of the best places on Earth to spot blue whales."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 1340,
+    "longestRiver": {
+      "name": "Mahaweli",
+      "km": 335
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "4 Feb · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

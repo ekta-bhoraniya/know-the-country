@@ -1,0 +1,34 @@
+{
+  "code": "KAZ",
+  "name": "Kazakhstan",
+  "status": "draft",
+  "content": {
+    "about": "Kazakhstan is the world's largest landlocked country, stretching across Central Asia from the Caspian Sea to China. Most of it is flat steppe, but snowy mountains rise in the southeast. Nomadic horse culture shapes its traditions. Apples are thought to have first grown in its mountain forests.",
+    "standout": {
+      "category": "Intellectual and scientific",
+      "text": "Baikonur Cosmodrome in Kazakhstan is the world's first and largest space launch site.",
+      "source": "https://en.wikipedia.org/wiki/Baikonur_Cosmodrome",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Yuri Gagarin, the first person in space, launched from Kazakhstan in 1961.",
+      "Almaty's name is linked to the Kazakh word for apple.",
+      "Astana, the capital, was built up rapidly after 1997."
+    ]
+  },
+  "geography": {
+    "climate": "Cold continental",
+    "coastlineKm": 1894,
+    "longestRiver": {
+      "name": "Irtysh",
+      "km": 4248
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "16 Dec · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

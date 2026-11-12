@@ -1,0 +1,30 @@
+{
+  "code": "TUV",
+  "name": "Tuvalu",
+  "status": "draft",
+  "content": {
+    "about": "Tuvalu is a small Polynesian nation of nine islands. It is threatened by rising seas. Its \".tv\" domain earns income. It is one of the least visited countries.",
+    "standout": {
+      "category": "Natural",
+      "text": "Tuvalu is one of the lowest-lying countries, highest point about 4.6 m.",
+      "source": "https://en.wikipedia.org/wiki/Tuvalu",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Its \".tv\" domain brings in money.",
+      "Its highest point is about 4.6 m.",
+      "It is one of the smallest countries."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 24
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Oct · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "CRI",
+  "name": "Costa Rica",
+  "status": "draft",
+  "content": {
+    "about": "Costa Rica is a Central American country with rainforests, volcanoes and two coasts. A quarter of its land is protected. It abolished its army in 1948. Sloths and toucans live in its forests.",
+    "standout": {
+      "category": "Wildlife",
+      "text": "Costa Rica has about 5% of the world's species in only 0.03% of its land.",
+      "source": "https://en.wikipedia.org/wiki/Biodiversity_of_Costa_Rica",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Costa Rica has no army.",
+      "It runs on mostly renewable electricity.",
+      "\"Pura vida\" is a common phrase."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 1290,
+    "longestRiver": {
+      "name": "Reventazón",
+      "km": 145
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "15 Sep · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

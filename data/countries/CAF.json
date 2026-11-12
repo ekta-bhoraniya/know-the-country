@@ -1,0 +1,34 @@
+{
+  "code": "CAF",
+  "name": "Central African Republic",
+  "status": "draft",
+  "content": {
+    "about": "The Central African Republic is a landlocked country in the heart of Africa. Its south is rainforest, its north is grassy savanna. It is home to forest elephants, gorillas and many bird species. Its capital, Bangui, lies on the Ubangi River.",
+    "standout": {
+      "category": "Wildlife",
+      "text": "Dzanga-Sangha's forest clearing draws large gatherings of forest elephants.",
+      "source": "https://en.wikipedia.org/wiki/Dzanga-Sangha_Special_Reserve",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Sango is a national language alongside French.",
+      "Forest elephants gather at mineral-rich clearings.",
+      "It is one of the least densely populated countries in Africa."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Ubangi",
+      "km": 1060
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Dec · Republic Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "BOL",
+  "name": "Bolivia",
+  "status": "draft",
+  "content": {
+    "about": "Bolivia is a landlocked country in South America, with the Andes and the Amazon. Salar de Uyuni becomes a giant mirror when wet. La Paz is the highest seat of government. Lake Titicaca lies on its border.",
+    "standout": {
+      "category": "Natural",
+      "text": "Salar de Uyuni is the largest salt flat in the world.",
+      "source": "https://en.wikipedia.org/wiki/Salar_de_Uyuni",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "La Paz is the highest seat of government.",
+      "Uyuni holds lithium.",
+      "Lake Titicaca is a high navigable lake."
+    ]
+  },
+  "geography": {
+    "climate": "Varied, tropical to alpine",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Mamoré",
+      "km": 1930
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "6 Aug · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

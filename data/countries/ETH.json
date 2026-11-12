@@ -1,0 +1,34 @@
+{
+  "code": "ETH",
+  "name": "Ethiopia",
+  "status": "draft",
+  "content": {
+    "about": "Ethiopia is a landlocked country in the Horn of Africa, with high mountains, deep valleys and the Rift Valley. It was never colonised for long and has its own ancient alphabet and calendar. It is believed to be the birthplace of coffee. Lalibela has churches carved out of solid rock.",
+    "standout": {
+      "category": "Intellectual and scientific",
+      "text": "\"Lucy\", one of the most famous early human ancestor fossils, was found in Ethiopia.",
+      "source": "https://en.wikipedia.org/wiki/Lucy_(Australopithecus)",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Ethiopia's calendar has 13 months.",
+      "Coffee is thought to have first been found in Ethiopia.",
+      "Lalibela's rock-hewn churches date from around 1200."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical highland",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Blue Nile (Abay)",
+      "km": 1450
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "28 May · Downfall of the Derg"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

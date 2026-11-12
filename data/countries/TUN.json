@@ -1,0 +1,34 @@
+{
+  "code": "TUN",
+  "name": "Tunisia",
+  "status": "draft",
+  "content": {
+    "about": "Tunisia is the northernmost country in Africa, with a Mediterranean coast and the Sahara in the south. Carthage, near Tunis, was a powerful ancient city. Its desert has sets used in famous films. Couscous and harissa are favourites.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The amphitheatre of El Jem is one of the largest Roman amphitheatres in the world.",
+      "source": "https://en.wikipedia.org/wiki/Amphitheatre_of_El_Jem",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Matmata's underground houses were used as film sets.",
+      "Carthage rivalled Rome.",
+      "Chott el Djerid is a vast salt lake."
+    ]
+  },
+  "geography": {
+    "climate": "Mediterranean to desert",
+    "coastlineKm": 1148,
+    "longestRiver": {
+      "name": "Medjerda",
+      "km": 450
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "20 Mar · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "IRL",
+  "name": "Ireland",
+  "status": "draft",
+  "content": {
+    "about": "Ireland is an island nation in the North Atlantic, west of Great Britain. Its green hills, cliffs and stone castles are famous. Irish music, dance and storytelling are loved across the world. The Cliffs of Moher rise over 200 m from the sea.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Halloween traces its roots to Samhain, an ancient Celtic festival from Ireland.",
+      "source": "https://en.wikipedia.org/wiki/Samhain",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Ireland has no native snakes.",
+      "The harp is a national symbol.",
+      "Saint Patrick's Day is celebrated in many countries."
+    ]
+  },
+  "geography": {
+    "climate": "Temperate maritime",
+    "coastlineKm": 1448,
+    "longestRiver": {
+      "name": "Shannon",
+      "km": 360
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "17 Mar · St Patrick's Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

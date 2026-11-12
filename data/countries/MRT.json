@@ -1,0 +1,34 @@
+{
+  "code": "MRT",
+  "name": "Mauritania",
+  "status": "draft",
+  "content": {
+    "about": "Mauritania lies in northwest Africa, mostly in the Sahara. Its coast has rich fishing waters. One of the world's longest trains carries iron ore across its desert. Chinguetti has old libraries.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Richat Structure, or \"Eye of the Sahara\", is a 40 km wide rock formation visible from space.",
+      "source": "https://en.wikipedia.org/wiki/Richat_Structure",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The iron ore train can be about 2.5 km long.",
+      "Banc d'Arguin is a huge bird area.",
+      "Chinguetti is an ancient trading town."
+    ]
+  },
+  "geography": {
+    "climate": "Desert",
+    "coastlineKm": 754,
+    "longestRiver": {
+      "name": "Senegal",
+      "km": 1086
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "28 Nov · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

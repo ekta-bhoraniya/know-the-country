@@ -1,0 +1,63 @@
+{
+  "code": "BRA",
+  "name": "Brazil",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "Brazil borders every South American country except Chile and Ecuador.",
+      "About 60% of the Amazon rainforest lies inside Brazil.",
+      "Brasília was built from scratch and became the capital in 1960."
+    ],
+    "about": "Brazil covers almost half of South America, from the Amazon rainforest in the north to wide grasslands and long Atlantic beaches in the south. It is famous for football, samba and the Carnival in Rio de Janeiro. Most Brazilians speak Portuguese, which makes Brazil the largest Portuguese-speaking country. Its wetlands, the Pantanal, are among the best places on Earth to see jaguars in the wild.",
+    "standout": {
+      "category": "Natural",
+      "text": "Brazil holds most of the Amazon, the world's largest tropical rainforest.",
+      "source": "https://en.wikipedia.org/wiki/Brazil",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 59,
+    "coastlineKm": 7491,
+    "highestPoint": {
+      "name": "Pico da Neblina",
+      "m": 2995
+    },
+    "longestRiver": {
+      "name": "Amazon",
+      "km": 6400
+    },
+    "climate": "Tropical"
+  },
+  "people": {
+    "medianAge": 34,
+    "lifeExpectancy": 76,
+    "literacyPct": 94,
+    "urbanPct": 88
+  },
+  "government": {
+    "type": "Federal presidential republic",
+    "headOfState": "President Luiz Inácio Lula da Silva",
+    "headOfGovernment": "President Luiz Inácio Lula da Silva",
+    "asOf": "2026-06",
+    "nationalDay": "7 Sep · Independence Day"
+  },
+  "economy": {
+    "population": {
+      "value": 211900000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 2170000000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "bird": "Rufous-bellied thrush",
+    "tree": "Brazilwood (pau-brasil)",
+    "sport": "Football (popular)"
+  },
+  "practical": {
+    "unescoSites": 25
+  }
+}

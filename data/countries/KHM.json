@@ -1,0 +1,34 @@
+{
+  "code": "KHM",
+  "name": "Cambodia",
+  "status": "draft",
+  "content": {
+    "about": "Cambodia lies in mainland Southeast Asia, with the Mekong River and the great Tonlé Sap lake at its heart. It was the centre of the Khmer Empire, which built hundreds of temples at Angkor. Rice fields, floating villages and the capital Phnom Penh shape the country. Angkor Wat even appears on the national flag.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Angkor Wat in Cambodia is the largest religious monument in the world.",
+      "source": "https://en.wikipedia.org/wiki/Angkor_Wat",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Tonlé Sap river reverses its flow every rainy season.",
+      "Cambodia's flag is one of very few that shows a building.",
+      "Khmer has one of the longest alphabets in the world."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical monsoon",
+    "coastlineKm": 443,
+    "longestRiver": {
+      "name": "Mekong",
+      "km": 4900
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "9 Nov · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

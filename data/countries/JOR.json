@@ -1,0 +1,34 @@
+{
+  "code": "JOR",
+  "name": "Jordan",
+  "status": "draft",
+  "content": {
+    "about": "Jordan is a country in Western Asia between the Mediterranean world and the Arabian desert. Most of it is dry desert, including the red sands of Wadi Rum. Its ancient city of Petra is carved into cliffs. It shares the Dead Sea, where visitors float on the salty water.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Petra is a city carved into rose-coloured sandstone cliffs more than 2,000 years ago.",
+      "source": "https://en.wikipedia.org/wiki/Petra",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Jordan has only about 26 km of coastline, on the Gulf of Aqaba.",
+      "Wadi Rum has been used as a film location for scenes set on Mars.",
+      "Mansaf, lamb cooked in yoghurt sauce, is the national dish."
+    ]
+  },
+  "geography": {
+    "climate": "Desert",
+    "coastlineKm": 26,
+    "longestRiver": {
+      "name": "Jordan",
+      "km": 251
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "25 May · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

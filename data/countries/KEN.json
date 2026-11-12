@@ -1,0 +1,61 @@
+{
+  "code": "KEN",
+  "name": "Kenya",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "The equator runs through Kenya.",
+      "Kenya's M-Pesa was one of the first mobile money services used across a whole country.",
+      "Kenyan runners have won more Olympic medals in long-distance events than any other nation's."
+    ],
+    "about": "Kenya lies on the equator in East Africa, with Indian Ocean beaches on one side and Lake Victoria on the other. The Great Rift Valley cuts through its middle, and Mount Kenya rises over the highlands. It is famous for safaris in parks like the Maasai Mara. Each year, huge herds of wildebeest and zebra cross its plains in the Great Migration.",
+    "standout": {
+      "category": "Wildlife",
+      "text": "Over a million wildebeest pass through Kenya's Maasai Mara in one of the world's largest animal migrations.",
+      "source": "https://en.wikipedia.org/wiki/Kenya",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 6,
+    "coastlineKm": 536,
+    "highestPoint": {
+      "name": "Mount Kenya",
+      "m": 5199
+    },
+    "longestRiver": {
+      "name": "Tana",
+      "km": 1000
+    },
+    "climate": "Tropical"
+  },
+  "people": {
+    "medianAge": 20,
+    "lifeExpectancy": 63,
+    "literacyPct": 83,
+    "urbanPct": 29
+  },
+  "government": {
+    "type": "Presidential republic",
+    "headOfState": "President William Ruto",
+    "headOfGovernment": "President William Ruto",
+    "asOf": "2026-06",
+    "nationalDay": "12 Dec · Jamhuri Day"
+  },
+  "economy": {
+    "population": {
+      "value": 56400000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 124000000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "animal": "Lion"
+  },
+  "practical": {
+    "unescoSites": 7
+  }
+}

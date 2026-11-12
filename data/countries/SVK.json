@@ -1,0 +1,34 @@
+{
+  "code": "SVK",
+  "name": "Slovakia",
+  "status": "draft",
+  "content": {
+    "about": "Slovakia is a small, landlocked country in Central Europe, with the High Tatras mountains in the north. Its villages keep traditional wooden churches and folk costumes. Spiš Castle is one of Central Europe's biggest castle ruins. Bratislava sits on the Danube near Austria and Hungary.",
+    "standout": {
+      "category": "Natural",
+      "text": "Slovakia has one of the highest numbers of castles and chateaux per person in the world.",
+      "source": "https://en.wikipedia.org/wiki/Spi%C5%A1_Castle",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Bratislava borders two countries, Austria and Hungary.",
+      "The Dobšiná Ice Cave holds ice all year.",
+      "Slovakia makes more cars per person than any other country."
+    ]
+  },
+  "geography": {
+    "climate": "Continental",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Váh",
+      "km": 403
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Sep · Constitution Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

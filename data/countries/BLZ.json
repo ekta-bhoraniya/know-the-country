@@ -1,0 +1,34 @@
+{
+  "code": "BLZ",
+  "name": "Belize",
+  "status": "draft",
+  "content": {
+    "about": "Belize is on the Caribbean coast of Central America. It has Maya ruins, jungle and a barrier reef. English is its official language. The Great Blue Hole is a famous dive site.",
+    "standout": {
+      "category": "Natural",
+      "text": "Belize's barrier reef is the second-largest in the world.",
+      "source": "https://en.wikipedia.org/wiki/Belize_Barrier_Reef",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Great Blue Hole is about 300 m wide.",
+      "English is official.",
+      "Cockscomb Basin protects jaguars."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 386,
+    "longestRiver": {
+      "name": "Belize",
+      "km": 290
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "21 Sep · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

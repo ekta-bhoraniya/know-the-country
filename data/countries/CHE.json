@@ -1,0 +1,34 @@
+{
+  "code": "CHE",
+  "name": "Switzerland",
+  "status": "draft",
+  "content": {
+    "about": "Switzerland is a landlocked, mountainous country in Central Europe, with the Alps covering most of it. It has four national languages and is famous for neutrality. Swiss watches, chocolate and cheese are known worldwide. The Matterhorn is one of its best-known peaks.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The Gotthard Base Tunnel, 57 km long, is the world's longest railway tunnel.",
+      "source": "https://en.wikipedia.org/wiki/Gotthard_Base_Tunnel",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Switzerland has about 1,500 lakes.",
+      "The World Wide Web was invented at CERN, near Geneva.",
+      "Voters decide many national questions directly in referendums."
+    ]
+  },
+  "geography": {
+    "climate": "Alpine",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Rhine",
+      "km": 1230
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Aug · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

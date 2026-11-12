@@ -1,0 +1,34 @@
+{
+  "code": "HRV",
+  "name": "Croatia",
+  "status": "draft",
+  "content": {
+    "about": "Croatia curves along the Adriatic Sea, with more than a thousand islands off its coast. Its walled city of Dubrovnik and Roman palace in Split draw visitors from everywhere. Inland, it has green hills, vineyards and the Plitvice Lakes. The necktie, or cravat, is named after Croatian soldiers.",
+    "standout": {
+      "category": "Natural",
+      "text": "Plitvice Lakes is a chain of 16 lakes linked by waterfalls, built up by natural travertine barriers.",
+      "source": "https://en.wikipedia.org/wiki/Plitvice_Lakes_National_Park",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The word \"cravat\" comes from \"Croat\".",
+      "The Dalmatian dog is named after Croatia's Dalmatia region.",
+      "Hum is often called the smallest town in the world."
+    ]
+  },
+  "geography": {
+    "climate": "Mediterranean to continental",
+    "coastlineKm": 5835,
+    "longestRiver": {
+      "name": "Sava",
+      "km": 990
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "30 May · Statehood Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

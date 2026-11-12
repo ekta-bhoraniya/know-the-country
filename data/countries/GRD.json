@@ -1,0 +1,30 @@
+{
+  "code": "GRD",
+  "name": "Grenada",
+  "status": "draft",
+  "content": {
+    "about": "Grenada is a small Caribbean island country. It grows nutmeg, mace and cocoa. It has beaches and an underwater sculpture park. Nutmeg is on its flag.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Grenada is known as the \"Spice Isle\" for its nutmeg.",
+      "source": "https://en.wikipedia.org/wiki/Grenada",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Its underwater sculpture park was among the first.",
+      "Grenada's flag shows a nutmeg.",
+      "It is a major nutmeg exporter."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 121
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "7 Feb · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

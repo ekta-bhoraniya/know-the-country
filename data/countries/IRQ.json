@@ -1,0 +1,34 @@
+{
+  "code": "IRQ",
+  "name": "Iraq",
+  "status": "draft",
+  "content": {
+    "about": "Iraq lies in the land between the Tigris and Euphrates rivers, once known as Mesopotamia. It is often called a cradle of civilisation, where some of the first cities, laws and writing appeared. Babylon and Ur stood here. Its southern marshes are home to the Marsh Arabs, who build houses from reeds.",
+    "standout": {
+      "category": "Intellectual and scientific",
+      "text": "Ancient Mesopotamia, in today's Iraq, is where cuneiform, one of the earliest writing systems, was invented.",
+      "source": "https://en.wikipedia.org/wiki/Cuneiform",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Code of Hammurabi, one of the earliest written law codes, comes from Babylon.",
+      "The wheel is thought to have been invented in Mesopotamia.",
+      "Baghdad was once one of the largest cities in the world."
+    ]
+  },
+  "geography": {
+    "climate": "Desert",
+    "coastlineKm": 58,
+    "longestRiver": {
+      "name": "Euphrates",
+      "km": 2800
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "3 Oct · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

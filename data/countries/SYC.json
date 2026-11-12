@@ -1,0 +1,30 @@
+{
+  "code": "SYC",
+  "name": "Seychelles",
+  "status": "draft",
+  "content": {
+    "about": "Seychelles is a group of 115 islands in the Indian Ocean, northeast of Madagascar. Its granite islands are among the oldest ocean islands on Earth. It has white beaches with giant boulders. Aldabra is home to tens of thousands of giant tortoises.",
+    "standout": {
+      "category": "Natural",
+      "text": "The coco de mer palm of the Seychelles has the largest seed of any plant.",
+      "source": "https://en.wikipedia.org/wiki/Lodoicea",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Seychelles has the smallest population of any African country.",
+      "Aldabra has one of the largest giant tortoise populations.",
+      "Coco de mer seeds can weigh up to 25 kg."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 491
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "18 Jun · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

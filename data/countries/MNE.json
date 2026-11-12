@@ -1,0 +1,34 @@
+{
+  "code": "MNE",
+  "name": "Montenegro",
+  "status": "draft",
+  "content": {
+    "about": "Montenegro is a small country on the Adriatic, where steep mountains drop straight into the sea. Its name means \"Black Mountain\". The Bay of Kotor winds inland like a fjord, lined with old stone towns. Lake Skadar is home to pelicans.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Tara River Canyon is one of the deepest canyons in Europe, about 1,300 m deep.",
+      "source": "https://en.wikipedia.org/wiki/Tara_River_Canyon",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Montenegro uses the euro without being in the eurozone.",
+      "Kotor's old town walls climb the mountain behind it.",
+      "The Ostrog Monastery is built into a vertical cliff."
+    ]
+  },
+  "geography": {
+    "climate": "Mediterranean to alpine",
+    "coastlineKm": 294,
+    "longestRiver": {
+      "name": "Tara",
+      "km": 158
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "13 Jul · Statehood Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

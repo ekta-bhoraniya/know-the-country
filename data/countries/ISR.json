@@ -1,0 +1,34 @@
+{
+  "code": "ISR",
+  "name": "Israel",
+  "status": "draft",
+  "content": {
+    "about": "Israel lies on the eastern shore of the Mediterranean Sea, with deserts in the south and green hills in the north. It is home to sites holy to Judaism, Christianity and Islam, especially in Jerusalem. It is known for technology start-ups and farming in dry land. The Dead Sea is so salty that people float easily.",
+    "standout": {
+      "category": "Natural",
+      "text": "The shore of the Dead Sea is the lowest land point on Earth, about 430 m below sea level.",
+      "source": "https://en.wikipedia.org/wiki/Dead_Sea",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Drip irrigation was developed in Israel.",
+      "Hebrew was revived as an everyday spoken language in modern times.",
+      "The Dead Sea is almost ten times saltier than the ocean."
+    ]
+  },
+  "geography": {
+    "climate": "Mediterranean to desert",
+    "coastlineKm": 273,
+    "longestRiver": {
+      "name": "Jordan",
+      "km": 251
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "Iyar 5 (Hebrew calendar) · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

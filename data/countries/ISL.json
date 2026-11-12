@@ -1,0 +1,63 @@
+{
+  "code": "ISL",
+  "name": "Iceland",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "Iceland's parliament, the Althing, was founded in 930.",
+      "Almost all of Iceland's electricity comes from hydropower and geothermal energy.",
+      "Iceland has no standing army."
+    ],
+    "about": "Iceland is an island in the North Atlantic, just south of the Arctic Circle. It sits on top of the Mid-Atlantic Ridge, so volcanoes, geysers and hot springs are everywhere. Glaciers, black-sand beaches and waterfalls cover its landscape. In winter, the northern lights often dance across its long, dark skies.",
+    "standout": {
+      "category": "Natural",
+      "text": "Vatnajökull is Europe's largest glacier by volume.",
+      "source": "https://en.wikipedia.org/wiki/Iceland",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 1,
+    "coastlineKm": 4970,
+    "highestPoint": {
+      "name": "Hvannadalshnúkur",
+      "m": 2110
+    },
+    "longestRiver": {
+      "name": "Þjórsá",
+      "km": 230
+    },
+    "climate": "Subarctic"
+  },
+  "people": {
+    "medianAge": 37,
+    "lifeExpectancy": 83,
+    "literacyPct": 99,
+    "urbanPct": 94
+  },
+  "government": {
+    "type": "Parliamentary republic",
+    "headOfState": "President Halla Tómasdóttir",
+    "headOfGovernment": "Prime Minister Kristrún Frostadóttir",
+    "asOf": "2026-06",
+    "nationalDay": "17 Jun · National Day"
+  },
+  "economy": {
+    "population": {
+      "value": 393000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 33400000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "bird": "Gyrfalcon",
+    "flower": "Mountain avens",
+    "sport": "Glíma (traditional)"
+  },
+  "practical": {
+    "unescoSites": 3
+  }
+}

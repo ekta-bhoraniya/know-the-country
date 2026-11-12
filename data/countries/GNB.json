@@ -1,0 +1,34 @@
+{
+  "code": "GNB",
+  "name": "Guinea-Bissau",
+  "status": "draft",
+  "content": {
+    "about": "Guinea-Bissau is a small country on West Africa's coast, with mangroves and the Bijagós islands. Its islands have unique cultures and wildlife. Cashew nuts are its main export. Portuguese is the official language.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Bijagós Archipelago is home to saltwater hippos.",
+      "source": "https://en.wikipedia.org/wiki/Bijag%C3%B3s_Archipelago",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Bijagós hippos swim in the sea.",
+      "Cashews are the main export.",
+      "It has many sea turtle nesting beaches."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 350,
+    "longestRiver": {
+      "name": "Geba",
+      "km": 550
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "24 Sep · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

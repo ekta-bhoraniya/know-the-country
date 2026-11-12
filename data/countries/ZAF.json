@@ -1,0 +1,65 @@
+{
+  "code": "ZAF",
+  "name": "South Africa",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "South Africa has three capital cities: Pretoria, Cape Town and Bloemfontein.",
+      "South Africa has 12 official languages, including sign language.",
+      "South Africa completely surrounds the country of Lesotho."
+    ],
+    "about": "South Africa is at the southern tip of Africa, where the Atlantic and Indian Oceans meet. Its land ranges from Table Mountain and the Cape winelands to dry Karoo plains and the savanna of Kruger National Park. It has 12 official languages and three capital cities. It is one of the best places in the world to see lions, elephants and rhinos.",
+    "standout": {
+      "category": "Intellectual and scientific",
+      "text": "The Cradle of Humankind holds some of the world's richest finds of early human fossils.",
+      "source": "https://en.wikipedia.org/wiki/South_Africa",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 14,
+    "coastlineKm": 2798,
+    "highestPoint": {
+      "name": "Mafadi",
+      "m": 3450
+    },
+    "longestRiver": {
+      "name": "Orange",
+      "km": 2200
+    },
+    "climate": "Semi-arid"
+  },
+  "people": {
+    "medianAge": 28,
+    "lifeExpectancy": 66,
+    "literacyPct": 90,
+    "urbanPct": 69
+  },
+  "government": {
+    "type": "Parliamentary republic",
+    "headOfState": "President Cyril Ramaphosa",
+    "headOfGovernment": "President Cyril Ramaphosa",
+    "asOf": "2026-06",
+    "nationalDay": "27 Apr · Freedom Day"
+  },
+  "economy": {
+    "population": {
+      "value": 64000000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 401000000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "animal": "Springbok",
+    "bird": "Blue crane",
+    "flower": "King protea",
+    "tree": "Real yellowwood",
+    "sport": "Rugby and cricket (popular)"
+  },
+  "practical": {
+    "unescoSites": 12
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "code": "LAO",
+  "name": "Laos",
+  "status": "draft",
+  "content": {
+    "about": "Laos is the only landlocked country in Southeast Asia, shaped by forested mountains and the Mekong River. Its towns are quiet, with gold-roofed temples and monks walking at dawn to collect alms. Luang Prabang is a well-preserved royal city. The mysterious Plain of Jars holds thousands of ancient stone jars.",
+    "standout": {
+      "category": "Natural",
+      "text": "Khone Phapheng on the Mekong is the largest waterfall in Southeast Asia by volume of water.",
+      "source": "https://en.wikipedia.org/wiki/Khone_Phapheng_Falls",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Laos is often called the most bombed country per person in history.",
+      "Sticky rice is eaten with almost every meal.",
+      "Nobody knows for sure what the giant stone jars were used for."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical monsoon",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Mekong",
+      "km": 4900
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "2 Dec · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

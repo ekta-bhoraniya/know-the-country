@@ -1,0 +1,64 @@
+{
+  "code": "MEX",
+  "name": "Mexico",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "Mexico has the largest Spanish-speaking population in the world.",
+      "Chocolate, chillies and maize were all first domesticated in Mexico.",
+      "Mexico City is built on the bed of the former Lake Texcoco and is slowly sinking."
+    ],
+    "about": "Mexico lies between the United States and Central America, with coasts on both the Pacific and the Gulf of Mexico. Its land ranges from deserts in the north to volcanoes, rainforests and the Caribbean beaches of the Yucatán. Ancient Maya and Aztec cities still stand across the country. Mexican food, Day of the Dead celebrations and mariachi music are known worldwide.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The Great Pyramid of Cholula is the world's largest pyramid by volume.",
+      "source": "https://en.wikipedia.org/wiki/Mexico",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 34,
+    "coastlineKm": 9330,
+    "highestPoint": {
+      "name": "Pico de Orizaba",
+      "m": 5636
+    },
+    "longestRiver": {
+      "name": "Rio Grande",
+      "km": 3034
+    },
+    "climate": "Arid to tropical"
+  },
+  "people": {
+    "medianAge": 30,
+    "lifeExpectancy": 75,
+    "literacyPct": 95,
+    "urbanPct": 81
+  },
+  "government": {
+    "type": "Federal presidential republic",
+    "headOfState": "President Claudia Sheinbaum",
+    "headOfGovernment": "President Claudia Sheinbaum",
+    "asOf": "2026-06",
+    "nationalDay": "16 Sep · Independence Day"
+  },
+  "economy": {
+    "population": {
+      "value": 130900000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 1850000000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "animal": "Golden eagle",
+    "flower": "Dahlia",
+    "tree": "Montezuma cypress",
+    "sport": "Charrería"
+  },
+  "practical": {
+    "unescoSites": 36
+  }
+}

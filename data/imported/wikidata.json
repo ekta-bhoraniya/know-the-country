@@ -1,0 +1,3108 @@
+{
+ "source": "Wikidata",
+ "fetched": "2026-11-12",
+ "countries": {
+  "AFG": {
+   "headOfState": [
+    "Hibatullah Akhundzada"
+   ],
+   "headOfGovernment": [
+    "Mohammad Hasan Akhund"
+   ],
+   "government": [
+    "unitary state",
+    "Emirate",
+    "islamic theocracy"
+   ],
+   "highestPoint": {
+    "name": "Noshaq",
+    "m": 7492
+   },
+   "unescoSites": 2
+  },
+  "AGO": {
+   "headOfState": [
+    "João Lourenço"
+   ],
+   "headOfGovernment": [
+    "João Lourenço"
+   ],
+   "government": [
+    "republic",
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Mount Moco",
+    "m": 2619
+   },
+   "unescoSites": 1
+  },
+  "ALB": {
+   "headOfState": [
+    "Ilir Meta",
+    "Bajram Begaj"
+   ],
+   "headOfGovernment": [
+    "Edi Rama"
+   ],
+   "government": [
+    "parliamentary system"
+   ],
+   "highestPoint": {
+    "name": "Korab",
+    "m": 2764
+   },
+   "unescoSites": 5
+  },
+  "AND": {
+   "headOfState": [
+    "Josep-Lluís Serrano Pentinat",
+    "Emmanuel Macron"
+   ],
+   "headOfGovernment": [
+    "Xavier Espot Zamora"
+   ],
+   "government": [
+    "parliamentary coprincipality"
+   ],
+   "highestPoint": {
+    "name": "Coma Pedrosa",
+    "m": 2942
+   },
+   "unescoSites": 1
+  },
+  "ARE": {
+   "headOfState": [
+    "Mohammed Bin Zayed Al Nahyan"
+   ],
+   "headOfGovernment": [
+    "Mohammed bin Rashid Al Maktoum"
+   ],
+   "government": [
+    "constitutional monarchy",
+    "absolute monarchy",
+    "federal monarchy"
+   ],
+   "highestPoint": {
+    "name": "Jebel Jais",
+    "m": 1911
+   },
+   "unescoSites": 3
+  },
+  "ARG": {
+   "headOfState": [
+    "Javier Milei"
+   ],
+   "headOfGovernment": [
+    "Javier Milei"
+   ],
+   "government": [
+    "federal republic"
+   ],
+   "highestPoint": {
+    "name": "Q39739",
+    "m": 6962
+   },
+   "unescoSites": 14
+  },
+  "ARM": {
+   "headOfState": [
+    "Vahagn Khachatryan"
+   ],
+   "headOfGovernment": [
+    "Nikol Pashinyan"
+   ],
+   "government": [
+    "republic",
+    "parliamentary system",
+    "unitary state"
+   ],
+   "highestPoint": {
+    "name": "Mount Aragats",
+    "m": 4090
+   },
+   "unescoSites": 3
+  },
+  "ATG": {
+   "headOfState": [
+    "Charles III"
+   ],
+   "headOfGovernment": [
+    "Gaston Browne"
+   ],
+   "government": [
+    "constitutional monarchy"
+   ],
+   "highestPoint": {
+    "name": "Mount Obama",
+    "m": 402
+   },
+   "unescoSites": 6
+  },
+  "AUS": {
+   "headOfState": [
+    "Charles III",
+    "Peter Cosgrove"
+   ],
+   "headOfGovernment": [
+    "Anthony Albanese"
+   ],
+   "government": [
+    "constitutional monarchy",
+    "federation",
+    "representative democracy"
+   ],
+   "highestPoint": {
+    "name": "Mawson Peak",
+    "m": 2745
+   },
+   "unescoSites": 22
+  },
+  "AUT": {
+   "headOfState": [
+    "Alexander Van der Bellen"
+   ],
+   "headOfGovernment": [
+    "Christian Stocker"
+   ],
+   "government": [
+    "republic",
+    "semi-presidential system",
+    "federal parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Grossglockner",
+    "m": 3798
+   },
+   "unescoSites": 14
+  },
+  "AZE": {
+   "headOfState": [
+    "Ilham Aliyev"
+   ],
+   "headOfGovernment": [
+    "Ali Asadov"
+   ],
+   "government": [
+    "republic",
+    "semi-presidential system",
+    "unitary state"
+   ],
+   "highestPoint": {
+    "name": "Mount Bazardüzü",
+    "m": 2706
+   },
+   "unescoSites": 6
+  },
+  "BDI": {
+   "headOfState": [
+    "Évariste Ndayishimiye"
+   ],
+   "headOfGovernment": [
+    "Gervais Ndirakobuca"
+   ],
+   "government": [
+    "presidential system",
+    "representative democracy"
+   ],
+   "highestPoint": {
+    "name": "Mount Heha",
+    "m": 2684
+   }
+  },
+  "BEL": {
+   "headOfState": [
+    "Philippe of Belgium"
+   ],
+   "headOfGovernment": [
+    "Bart De Wever"
+   ],
+   "government": [
+    "federation"
+   ],
+   "highestPoint": {
+    "name": "Signal de Botrange",
+    "m": 694
+   },
+   "unescoSites": 62
+  },
+  "BEN": {
+   "headOfState": [
+    "Romuald Wadagni"
+   ],
+   "headOfGovernment": [
+    "Patrice Talon"
+   ],
+   "government": [
+    "republic"
+   ],
+   "highestPoint": {
+    "name": "Mont Sokbaro",
+    "m": 658
+   },
+   "unescoSites": 4
+  },
+  "BFA": {
+   "headOfState": [
+    "Ibrahim Traoré"
+   ],
+   "headOfGovernment": [
+    "Apollinaire Joachim Kyélem de Tambèla"
+   ],
+   "government": [
+    "republic",
+    "military junta"
+   ],
+   "highestPoint": {
+    "name": "Mount Tenakourou",
+    "m": 749
+   },
+   "unescoSites": 4
+  },
+  "BGD": {
+   "headOfState": [
+    "Mohammad Shahabuddin"
+   ],
+   "headOfGovernment": [
+    "Tarique Rahman"
+   ],
+   "government": [
+    "Westminster system",
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Mowdok tiang",
+    "m": 1054
+   },
+   "unescoSites": 3
+  },
+  "BGR": {
+   "headOfState": [
+    "Rumen Radev",
+    "Iliana Iotova"
+   ],
+   "headOfGovernment": [
+    "Rumen Radev",
+    "Kiril Petkov"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Musala",
+    "m": 2925
+   },
+   "unescoSites": 11
+  },
+  "BHR": {
+   "headOfState": [
+    "Hamad II of Bahrain"
+   ],
+   "headOfGovernment": [
+    "Salman bin Hamad, Crown Prince of Bahrain"
+   ],
+   "government": [
+    "constitutional monarchy"
+   ],
+   "highestPoint": {
+    "name": "Mountain of Smoke",
+    "m": 134
+   },
+   "unescoSites": 3
+  },
+  "BHS": {
+   "headOfState": [
+    "Charles III"
+   ],
+   "headOfGovernment": [
+    "Philip \"Brave\" Davis"
+   ],
+   "government": [
+    "constitutional monarchy"
+   ],
+   "highestPoint": {
+    "name": "Mount Alvernia",
+    "m": 63
+   }
+  },
+  "BIH": {
+   "headOfState": [
+    "Denis Bećirović",
+    "Željka Cvijanović",
+    "Željko Komšić"
+   ],
+   "headOfGovernment": [
+    "Borjana Krišto"
+   ],
+   "government": [
+    "federal parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Maglić",
+    "m": 2386
+   },
+   "unescoSites": 5
+  },
+  "BLR": {
+   "headOfState": [
+    "Alexander Lukashenka"
+   ],
+   "headOfGovernment": [
+    "Alexander Turchyn"
+   ],
+   "government": [
+    "republic",
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Dziaržynkaja hara",
+    "m": 345
+   },
+   "unescoSites": 22
+  },
+  "BLZ": {
+   "headOfState": [
+    "Charles III"
+   ],
+   "headOfGovernment": [
+    "Johnny Briceño"
+   ],
+   "government": [
+    "constitutional monarchy",
+    "parliamentary monarchy"
+   ],
+   "highestPoint": {
+    "name": "Doyle's Delight",
+    "m": 1124
+   },
+   "unescoSites": 1
+  },
+  "BOL": {
+   "headOfState": [
+    "Rodrigo Paz"
+   ],
+   "headOfGovernment": [
+    "Rodrigo Paz"
+   ],
+   "government": [
+    "republic",
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Nevado Sajama",
+    "m": 6542
+   },
+   "unescoSites": 9
+  },
+  "BRA": {
+   "headOfState": [
+    "Luiz Inácio Lula da Silva"
+   ],
+   "headOfGovernment": [
+    "Luiz Inácio Lula da Silva"
+   ],
+   "government": [
+    "presidential system",
+    "representative democracy",
+    "federal republic"
+   ],
+   "highestPoint": {
+    "name": "Pico da Neblina",
+    "m": 2994
+   },
+   "unescoSites": 1471
+  },
+  "BRB": {
+   "headOfState": [
+    "Sandra Mason"
+   ],
+   "headOfGovernment": [
+    "Mia Mottley"
+   ],
+   "government": [
+    "unitary state",
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Mount Hillaby",
+    "m": 340
+   },
+   "unescoSites": 1
+  },
+  "BRN": {
+   "headOfState": [
+    "Hassanal Bolkiah I of Brunei"
+   ],
+   "headOfGovernment": [
+    "Hassanal Bolkiah I of Brunei"
+   ],
+   "government": [
+    "unitary state",
+    "absolute monarchy",
+    "Islamic state"
+   ],
+   "highestPoint": {
+    "name": "Bukit Pagon",
+    "m": 1850
+   }
+  },
+  "BTN": {
+   "headOfState": [
+    "Jigme Khesar Namgyel Wangchuck"
+   ],
+   "headOfGovernment": [
+    "Tshering Tobgay"
+   ],
+   "government": [
+    "constitutional monarchy"
+   ],
+   "highestPoint": {
+    "name": "Gangkhar Puensum",
+    "m": 7570
+   }
+  },
+  "BWA": {
+   "headOfState": [
+    "Duma Boko"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Otse Hill",
+    "m": 1491
+   },
+   "unescoSites": 2
+  },
+  "CAF": {
+   "headOfState": [
+    "François Bozizé",
+    "Faustin-Archange Touadéra"
+   ],
+   "headOfGovernment": [
+    "Félix Moloua"
+   ],
+   "highestPoint": {
+    "name": "Mont Ngaoui",
+    "m": 1410
+   },
+   "unescoSites": 2
+  },
+  "CAN": {
+   "headOfState": [
+    "Charles III"
+   ],
+   "headOfGovernment": [
+    "Mark Carney"
+   ],
+   "government": [
+    "constitutional monarchy",
+    "federation",
+    "parliamentary system"
+   ],
+   "highestPoint": {
+    "name": "Mount Logan",
+    "m": 5959
+   },
+   "unescoSites": 24
+  },
+  "CHE": {
+   "headOfState": [
+    "Swiss Federal Council"
+   ],
+   "headOfGovernment": [
+    "Swiss Federal Council"
+   ],
+   "government": [
+    "federal republic",
+    "directorial system"
+   ],
+   "highestPoint": {
+    "name": "Dufourspitze",
+    "m": 4634
+   },
+   "unescoSites": 14
+  },
+  "CHL": {
+   "headOfState": [
+    "José Antonio Kast"
+   ],
+   "headOfGovernment": [
+    "José Antonio Kast"
+   ],
+   "government": [
+    "democratic republic"
+   ],
+   "highestPoint": {
+    "name": "Ojos del Salado",
+    "m": 6893
+   },
+   "unescoSites": 32
+  },
+  "CHN": {
+   "headOfState": [
+    "Xi Jinping"
+   ],
+   "headOfGovernment": [
+    "Li Qiang"
+   ],
+   "government": [
+    "people's republic"
+   ],
+   "highestPoint": {
+    "name": "Mount Everest",
+    "m": 8849
+   },
+   "unescoSites": 87
+  },
+  "CIV": {
+   "headOfState": [
+    "Alassane Ouattara"
+   ],
+   "headOfGovernment": [
+    "Robert Beugré Mambé"
+   ],
+   "government": [
+    "republic"
+   ],
+   "highestPoint": {
+    "name": "Mount Richard-Molard",
+    "m": 1752
+   },
+   "unescoSites": 5
+  },
+  "CMR": {
+   "headOfState": [
+    "Paul Biya"
+   ],
+   "headOfGovernment": [
+    "Joseph Ngute"
+   ],
+   "government": [
+    "republic"
+   ],
+   "highestPoint": {
+    "name": "Mount Cameroon",
+    "m": 4095
+   },
+   "unescoSites": 4
+  },
+  "COD": {
+   "headOfState": [
+    "Félix Tshisekedi"
+   ],
+   "headOfGovernment": [
+    "Ilunga Ilunkamba Sylvestre"
+   ],
+   "government": [
+    "republic"
+   ],
+   "highestPoint": {
+    "name": "Mount Stanley",
+    "m": 5109
+   },
+   "unescoSites": 5
+  },
+  "COG": {
+   "headOfState": [
+    "Denis Sassou-Nguesso"
+   ],
+   "headOfGovernment": [
+    "Anatole Collinet Makosso"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Mont Nabemba",
+    "m": 1020
+   },
+   "unescoSites": 2
+  },
+  "COL": {
+   "headOfState": [
+    "Abelardo de la Espriella"
+   ],
+   "headOfGovernment": [
+    "Abelardo de la Espriella"
+   ],
+   "government": [
+    "republic"
+   ],
+   "highestPoint": {
+    "name": "Pico Simón Bolívar",
+    "m": 5775
+   },
+   "unescoSites": 11
+  },
+  "COM": {
+   "headOfState": [
+    "Azali Assoumani"
+   ],
+   "headOfGovernment": [
+    "Azali Assoumani"
+   ],
+   "government": [
+    "federal republic"
+   ],
+   "highestPoint": {
+    "name": "Mount Karthala",
+    "m": 2361
+   },
+   "unescoSites": 1
+  },
+  "CPV": {
+   "headOfState": [
+    "José Maria Neves"
+   ],
+   "headOfGovernment": [
+    "Francisco Carvalho"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Pico do Fogo",
+    "m": 2829
+   },
+   "unescoSites": 1
+  },
+  "CRI": {
+   "headOfState": [
+    "Laura Fernández Delgado"
+   ],
+   "headOfGovernment": [
+    "Laura Fernández Delgado"
+   ],
+   "highestPoint": {
+    "name": "Cerro Chirripó",
+    "m": 3820
+   },
+   "unescoSites": 5
+  },
+  "CUB": {
+   "headOfState": [
+    "Miguel Díaz-Canel"
+   ],
+   "headOfGovernment": [
+    "Manuel Marrero Cruz"
+   ],
+   "government": [
+    "unitary state"
+   ],
+   "highestPoint": {
+    "name": "Pico Turquino",
+    "m": 1974
+   },
+   "unescoSites": 12
+  },
+  "CYP": {
+   "headOfState": [
+    "Nicos Christodoulides"
+   ],
+   "headOfGovernment": [
+    "Nicos Christodoulides"
+   ],
+   "government": [
+    "republic",
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Mount Olympus",
+    "m": 1952
+   },
+   "unescoSites": 3
+  },
+  "CZE": {
+   "headOfState": [
+    "Petr Pavel"
+   ],
+   "headOfGovernment": [
+    "Andrej Babiš"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Sněžka",
+    "m": 1603
+   },
+   "unescoSites": 18
+  },
+  "DEU": {
+   "headOfState": [
+    "Frank-Walter Steinmeier"
+   ],
+   "headOfGovernment": [
+    "Friedrich Merz"
+   ],
+   "government": [
+    "federal parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Zugspitze",
+    "m": 2962
+   },
+   "unescoSites": 107
+  },
+  "DJI": {
+   "headOfState": [
+    "Ismail Omar Guelleh"
+   ],
+   "headOfGovernment": [
+    "Abdoulkader Kamil Mohamed"
+   ],
+   "highestPoint": {
+    "name": "Mousa Ali",
+    "m": 2028
+   }
+  },
+  "DMA": {
+   "headOfState": [
+    "Sylvanie Burton"
+   ],
+   "headOfGovernment": [
+    "Roosevelt Skerrit"
+   ],
+   "highestPoint": {
+    "name": "Morne Diablotins",
+    "m": 1447
+   },
+   "unescoSites": 1
+  },
+  "DNK": {},
+  "DOM": {
+   "headOfState": [
+    "Luis Abinader"
+   ],
+   "headOfGovernment": [
+    "Luis Abinader"
+   ],
+   "highestPoint": {
+    "name": "Pico Duarte",
+    "m": 3101
+   },
+   "unescoSites": 2
+  },
+  "DZA": {
+   "headOfState": [
+    "Abdelmadjid Tebboune"
+   ],
+   "headOfGovernment": [
+    "Sifi Ghrieb"
+   ],
+   "government": [
+    "semi-presidential system",
+    "people's republic"
+   ],
+   "highestPoint": {
+    "name": "Mount Tahat",
+    "m": 2908
+   },
+   "unescoSites": 9
+  },
+  "ECU": {
+   "headOfState": [
+    "Daniel Noboa"
+   ],
+   "headOfGovernment": [
+    "Daniel Noboa"
+   ],
+   "government": [
+    "republic",
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Chimborazo",
+    "m": 6263
+   },
+   "unescoSites": 7
+  },
+  "EGY": {
+   "headOfState": [
+    "Abdel Fattah el-Sisi"
+   ],
+   "headOfGovernment": [
+    "Mostafa Madbouly"
+   ],
+   "government": [
+    "republic"
+   ],
+   "highestPoint": {
+    "name": "Mount Catherine",
+    "m": 2629
+   },
+   "unescoSites": 7
+  },
+  "ERI": {
+   "headOfState": [
+    "Isaias Afwerki"
+   ],
+   "headOfGovernment": [
+    "Isaias Afwerki"
+   ],
+   "highestPoint": {
+    "name": "Emba Soira",
+    "m": 3013
+   },
+   "unescoSites": 1
+  },
+  "ESP": {
+   "headOfState": [
+    "Felipe VI of Spain"
+   ],
+   "headOfGovernment": [
+    "Pedro Sánchez"
+   ],
+   "government": [
+    "parliamentary monarchy"
+   ],
+   "highestPoint": {
+    "name": "Teide",
+    "m": 3715
+   },
+   "unescoSites": 94
+  },
+  "EST": {
+   "headOfState": [
+    "Ülle Madise"
+   ],
+   "headOfGovernment": [
+    "Kaja Kallas",
+    "Kristen Michal"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Suur Munamägi",
+    "m": 317
+   },
+   "unescoSites": 2
+  },
+  "ETH": {
+   "headOfState": [
+    "Taye Atske Selassie"
+   ],
+   "headOfGovernment": [
+    "Abiy Ahmed"
+   ],
+   "government": [
+    "federal republic"
+   ],
+   "highestPoint": {
+    "name": "Ras Dashen",
+    "m": 4533
+   },
+   "unescoSites": 14
+  },
+  "FIN": {
+   "headOfState": [
+    "Alexander Stubb"
+   ],
+   "headOfGovernment": [
+    "Petteri Orpo"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Halti",
+    "m": 1361
+   },
+   "unescoSites": 8
+  },
+  "FJI": {
+   "headOfState": [
+    "Wiliame Katonivere"
+   ],
+   "headOfGovernment": [
+    "Sitiveni Rabuka"
+   ],
+   "highestPoint": {
+    "name": "Mount Tomanivi",
+    "m": 1324
+   },
+   "unescoSites": 1
+  },
+  "FRA": {
+   "headOfState": [
+    "Emmanuel Macron"
+   ],
+   "headOfGovernment": [
+    "Sébastien Lecornu"
+   ],
+   "government": [
+    "semi-presidential system"
+   ],
+   "highestPoint": {
+    "name": "Mont Blanc",
+    "m": 4806
+   },
+   "unescoSites": 199
+  },
+  "FSM": {
+   "headOfState": [
+    "Wesley Simina"
+   ],
+   "headOfGovernment": [
+    "Wesley Simina"
+   ],
+   "government": [
+    "federal republic"
+   ],
+   "highestPoint": {
+    "name": "Dolohmwar",
+    "m": 791
+   },
+   "unescoSites": 1
+  },
+  "GAB": {
+   "headOfState": [
+    "Brice Clotaire Oligui Nguema"
+   ],
+   "headOfGovernment": [
+    "Raymond Ndong Sima"
+   ],
+   "government": [
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Mont Bengoué",
+    "m": 1070
+   },
+   "unescoSites": 2
+  },
+  "GBR": {
+   "headOfState": [
+    "Charles III"
+   ],
+   "headOfGovernment": [
+    "Andy Burnham"
+   ],
+   "government": [
+    "constitutional monarchy"
+   ],
+   "highestPoint": {
+    "name": "Ben Nevis",
+    "m": 1345
+   },
+   "unescoSites": 44
+  },
+  "GEO": {
+   "headOfState": [
+    "Mikheil Kavelashvili"
+   ],
+   "headOfGovernment": [
+    "Irakli Kobakhidze"
+   ],
+   "government": [
+    "semi-presidential system",
+    "presidential system",
+    "unitary state",
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Shkhara",
+    "m": 5193
+   },
+   "unescoSites": 4
+  },
+  "GHA": {
+   "headOfState": [
+    "John Mahama"
+   ],
+   "headOfGovernment": [
+    "Nana Akufo-Addo"
+   ],
+   "government": [
+    "democracy"
+   ],
+   "highestPoint": {
+    "name": "Mount Afadja",
+    "m": 885
+   },
+   "unescoSites": 2
+  },
+  "GIN": {
+   "headOfState": [
+    "Mamadi Doumbouya"
+   ],
+   "headOfGovernment": [
+    "Bah Oury"
+   ],
+   "government": [
+    "republic"
+   ],
+   "highestPoint": {
+    "name": "Mount Richard-Molard",
+    "m": 1752
+   },
+   "unescoSites": 1
+  },
+  "GMB": {
+   "headOfState": [
+    "Adama Barrow"
+   ],
+   "headOfGovernment": [
+    "Adama Barrow"
+   ],
+   "government": [
+    "republic"
+   ],
+   "unescoSites": 2
+  },
+  "GNB": {
+   "headOfGovernment": [
+    "Rui Duarte de Barros"
+   ],
+   "highestPoint": {
+    "name": "Monte Torin",
+    "m": 262
+   },
+   "unescoSites": 1
+  },
+  "GNQ": {
+   "headOfState": [
+    "Teodoro Obiang"
+   ],
+   "headOfGovernment": [
+    "Manuel Osa Nsue Nsua"
+   ],
+   "highestPoint": {
+    "name": "Pico Basilé",
+    "m": 3011
+   }
+  },
+  "GRC": {
+   "headOfState": [
+    "Konstantinos Tasoulas"
+   ],
+   "headOfGovernment": [
+    "Kyriakos Mitsotakis"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Mount Olympus",
+    "m": 2918
+   },
+   "unescoSites": 24
+  },
+  "GRD": {
+   "headOfState": [
+    "Charles III"
+   ],
+   "headOfGovernment": [
+    "Dickon Mitchell"
+   ],
+   "highestPoint": {
+    "name": "Mount Saint Catherine",
+    "m": 840
+   }
+  },
+  "GTM": {
+   "headOfState": [
+    "Bernardo Arévalo de León"
+   ],
+   "headOfGovernment": [
+    "Bernardo Arévalo de León"
+   ],
+   "government": [
+    "presidential system",
+    "representative democracy"
+   ],
+   "highestPoint": {
+    "name": "Volcán Tajumulco",
+    "m": 4203
+   },
+   "unescoSites": 5
+  },
+  "GUY": {
+   "headOfState": [
+    "Irfaan Ali"
+   ],
+   "headOfGovernment": [
+    "Hugo Chávez"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Mount Roraima",
+    "m": 2810
+   }
+  },
+  "HND": {
+   "headOfState": [
+    "Nasry Asfura"
+   ],
+   "headOfGovernment": [
+    "Nasry Asfura"
+   ],
+   "government": [
+    "republic"
+   ],
+   "highestPoint": {
+    "name": "Cerro Las Minas",
+    "m": 2849
+   },
+   "unescoSites": 2
+  },
+  "HRV": {
+   "headOfState": [
+    "Zoran Milanović"
+   ],
+   "headOfGovernment": [
+    "Andrej Plenković"
+   ],
+   "government": [
+    "republic"
+   ],
+   "highestPoint": {
+    "name": "Dinara",
+    "m": 1831
+   },
+   "unescoSites": 11
+  },
+  "HTI": {
+   "headOfState": [
+    "Transitional Presidential Council"
+   ],
+   "headOfGovernment": [
+    "Alix Didier Fils-Aimé"
+   ],
+   "highestPoint": {
+    "name": "Peak la Selle",
+    "m": 2674
+   },
+   "unescoSites": 5
+  },
+  "HUN": {
+   "headOfState": [
+    "Tamás Sulyok",
+    "András Baka"
+   ],
+   "headOfGovernment": [
+    "Péter Magyar"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Kékes",
+    "m": 1014
+   },
+   "unescoSites": 11
+  },
+  "IDN": {
+   "headOfState": [
+    "Prabowo Subianto"
+   ],
+   "headOfGovernment": [
+    "Prabowo Subianto"
+   ],
+   "government": [
+    "republic",
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Puncak Jaya",
+    "m": 4884
+   },
+   "unescoSites": 13
+  },
+  "IND": {
+   "headOfState": [
+    "Droupadi Murmu"
+   ],
+   "headOfGovernment": [
+    "Narendra Modi"
+   ],
+   "government": [
+    "republic",
+    "federal republic",
+    "constitutional republic",
+    "democratic republic"
+   ],
+   "highestPoint": {
+    "name": "Kanchenjunga",
+    "m": 8586
+   },
+   "unescoSites": 57
+  },
+  "IRL": {
+   "headOfState": [
+    "Catherine Connolly"
+   ],
+   "headOfGovernment": [
+    "Micheál Martin"
+   ],
+   "government": [
+    "unitary state",
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Carrauntoohil",
+    "m": 1039
+   },
+   "unescoSites": 2
+  },
+  "IRN": {
+   "headOfState": [
+    "Mojtaba Khamenei"
+   ],
+   "headOfGovernment": [
+    "Masoud Pezeshkian"
+   ],
+   "government": [
+    "presidential system",
+    "unitary state",
+    "Islamic Republic",
+    "islamic theocracy"
+   ],
+   "highestPoint": {
+    "name": "Damavand",
+    "m": 5610
+   },
+   "unescoSites": 45
+  },
+  "IRQ": {
+   "headOfState": [
+    "Nizar Amidi"
+   ],
+   "headOfGovernment": [
+    "Muhammad Shia' al-Sudani"
+   ],
+   "government": [
+    "federation",
+    "federal republic"
+   ],
+   "highestPoint": {
+    "name": "Cheekha Dar",
+    "m": 3611
+   },
+   "unescoSites": 7
+  },
+  "ISL": {
+   "headOfState": [
+    "Halla Tómasdóttir"
+   ],
+   "headOfGovernment": [
+    "Kristrún Mjöll Frostadóttir"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Hvannadalshnúkur",
+    "m": 2110
+   },
+   "unescoSites": 3
+  },
+  "ISR": {
+   "headOfState": [
+    "Isaac Herzog"
+   ],
+   "headOfGovernment": [
+    "Benjamin Netanyahu"
+   ],
+   "government": [
+    "unitary state",
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Meron",
+    "m": 1208
+   },
+   "unescoSites": 12
+  },
+  "ITA": {
+   "headOfState": [
+    "Sergio Mattarella"
+   ],
+   "headOfGovernment": [
+    "Giorgia Meloni"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Mont Blanc",
+    "m": 4806
+   },
+   "unescoSites": 104
+  },
+  "JAM": {
+   "headOfState": [
+    "Charles III"
+   ],
+   "headOfGovernment": [
+    "Andrew Holness"
+   ],
+   "highestPoint": {
+    "name": "Blue Mountain Peak",
+    "m": 2256
+   },
+   "unescoSites": 3
+  },
+  "JOR": {
+   "headOfState": [
+    "Abdullah II of Jordan"
+   ],
+   "headOfGovernment": [
+    "Jafar Hassan"
+   ],
+   "highestPoint": {
+    "name": "Jabal Umm ad Dami",
+    "m": 1854
+   },
+   "unescoSites": 8
+  },
+  "JPN": {
+   "headOfState": [
+    "Naruhito"
+   ],
+   "headOfGovernment": [
+    "Sanae Takaichi"
+   ],
+   "government": [
+    "constitutional monarchy"
+   ],
+   "highestPoint": {
+    "name": "Mount Fuji",
+    "m": 3777
+   },
+   "unescoSites": 33
+  },
+  "KAZ": {
+   "headOfState": [
+    "Kassym-Jomart Tokayev"
+   ],
+   "headOfGovernment": [
+    "Olzhas Bektenov"
+   ],
+   "government": [
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Khan Tengri",
+    "m": 7010
+   },
+   "unescoSites": 7
+  },
+  "KEN": {
+   "headOfState": [
+    "William Ruto"
+   ],
+   "headOfGovernment": [
+    "William Ruto"
+   ],
+   "highestPoint": {
+    "name": "Mount Kenya",
+    "m": 5199
+   },
+   "unescoSites": 9
+  },
+  "KGZ": {
+   "headOfState": [
+    "Sadyr Japarov"
+   ],
+   "headOfGovernment": [
+    "Adylbek Kasymaliev"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Jengish Chokusu",
+    "m": 7439
+   },
+   "unescoSites": 4
+  },
+  "KHM": {
+   "headOfState": [
+    "Norodom Sihamoni"
+   ],
+   "headOfGovernment": [
+    "Hun Manet"
+   ],
+   "government": [
+    "constitutional monarchy"
+   ],
+   "highestPoint": {
+    "name": "Phnom Aural",
+    "m": 1813
+   },
+   "unescoSites": 5
+  },
+  "KIR": {
+   "headOfState": [
+    "Taneti Maamau"
+   ],
+   "headOfGovernment": [
+    "Taneti Maamau"
+   ],
+   "highestPoint": {
+    "name": "Banaba Island",
+    "m": 81
+   },
+   "unescoSites": 1
+  },
+  "KNA": {
+   "headOfState": [
+    "Charles III"
+   ],
+   "headOfGovernment": [
+    "Terrance Drew"
+   ],
+   "government": [
+    "constitutional monarchy",
+    "federal monarchy"
+   ],
+   "highestPoint": {
+    "name": "Mount Liamuiga",
+    "m": 1156
+   },
+   "unescoSites": 1
+  },
+  "KOR": {
+   "headOfState": [
+    "Lee Jae Myung"
+   ],
+   "headOfGovernment": [
+    "Lee Jae Myung",
+    "Han Seong-sook"
+   ],
+   "government": [
+    "republic",
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Hallasan",
+    "m": 1947
+   },
+   "unescoSites": 19
+  },
+  "KWT": {
+   "headOfState": [
+    "Mishal Al-Ahmad Al-Jaber Al-Sabah"
+   ],
+   "headOfGovernment": [
+    "Sabah Al-Khalid Al-Sabah"
+   ],
+   "government": [
+    "constitutional monarchy"
+   ],
+   "highestPoint": {
+    "name": "Mutla Ridge",
+    "m": 140
+   }
+  },
+  "LAO": {
+   "headOfState": [
+    "Thongloun Sisoulith"
+   ],
+   "headOfGovernment": [
+    "Sonexay Siphandone"
+   ],
+   "government": [
+    "people's republic",
+    "communist dictatorship"
+   ],
+   "highestPoint": {
+    "name": "Phou Bia",
+    "m": 2819
+   },
+   "unescoSites": 4
+  },
+  "LBN": {
+   "headOfState": [
+    "Joseph Aoun"
+   ],
+   "headOfGovernment": [
+    "Nawaf Salam"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Qurnat as Sawda'",
+    "m": 3088
+   },
+   "unescoSites": 10
+  },
+  "LBR": {
+   "headOfState": [
+    "Joseph Boakai"
+   ],
+   "headOfGovernment": [
+    "Joseph Boakai"
+   ],
+   "government": [
+    "republic",
+    "presidential system",
+    "constitutional republic",
+    "Herrenvolk democracy"
+   ],
+   "highestPoint": {
+    "name": "Mount Wuteve",
+    "m": 1440
+   }
+  },
+  "LBY": {
+   "headOfState": [
+    "Mohamed al-Menfi",
+    "Aguila Saleh Issa"
+   ],
+   "headOfGovernment": [
+    "Abd al-Hamid Al-Dabiba"
+   ],
+   "government": [
+    "republic"
+   ],
+   "highestPoint": {
+    "name": "Bikku Bitti",
+    "m": 2267
+   },
+   "unescoSites": 5
+  },
+  "LCA": {
+   "headOfState": [
+    "Charles III"
+   ],
+   "headOfGovernment": [
+    "Philip J. Pierre"
+   ],
+   "government": [
+    "constitutional monarchy"
+   ],
+   "highestPoint": {
+    "name": "Mount Gimie",
+    "m": 952
+   },
+   "unescoSites": 1
+  },
+  "LIE": {
+   "headOfState": [
+    "Hans-Adam II, Prince of Liechtenstein"
+   ],
+   "headOfGovernment": [
+    "Brigitte Haas"
+   ],
+   "government": [
+    "constitutional monarchy"
+   ],
+   "highestPoint": {
+    "name": "Grauspitz",
+    "m": 2599
+   }
+  },
+  "LKA": {
+   "headOfState": [
+    "Anura Kurankan Dissanayake"
+   ],
+   "headOfGovernment": [
+    "Harini Amarasuriya"
+   ],
+   "government": [
+    "republic"
+   ],
+   "highestPoint": {
+    "name": "Pidurutalagala",
+    "m": 2524
+   },
+   "unescoSites": 9
+  },
+  "LSO": {
+   "headOfState": [
+    "Letsie III of Lesotho"
+   ],
+   "headOfGovernment": [
+    "Sam Matekane"
+   ],
+   "government": [
+    "constitutional monarchy"
+   ],
+   "highestPoint": {
+    "name": "Thabana Ntlenyana",
+    "m": 3482
+   },
+   "unescoSites": 1
+  },
+  "LTU": {
+   "headOfState": [
+    "Gitanas Nausėda"
+   ],
+   "headOfGovernment": [
+    "Mindaugas Sinkevičius"
+   ],
+   "government": [
+    "semi-presidential system",
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Aukštojas Hill",
+    "m": 294
+   },
+   "unescoSites": 5
+  },
+  "LUX": {
+   "headOfState": [
+    "Guillaume V, Grand Duke of Luxembourg"
+   ],
+   "headOfGovernment": [
+    "Émile Reuter",
+    "Charles-Mathias Simons",
+    "Emmanuel Servais",
+    "Léon Kauffman",
+    "Joseph Bech",
+    "Victor de Tornaco",
+    "Pierre Frieden",
+    "Mathias Mongenast",
+    "Gaspard-Théodore-Ignace de la Fontaine",
+    "Jean-Jacques Willmar",
+    "Hubert Loutsch",
+    "Pierre Dupong",
+    "Édouard Thilges",
+    "Pierre Prüm",
+    "Luc Frieden",
+    "Félix de Blochausen",
+    "Paul Eyschen",
+    "Victor Thorn"
+   ],
+   "government": [
+    "constitutional monarchy"
+   ],
+   "highestPoint": {
+    "name": "Kneiff",
+    "m": 560
+   },
+   "unescoSites": 1
+  },
+  "LVA": {
+   "headOfState": [
+    "Edgars Rinkēvičs"
+   ],
+   "headOfGovernment": [
+    "Andris Kulbergs"
+   ],
+   "government": [
+    "republic",
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Gaiziņkalns",
+    "m": 312
+   },
+   "unescoSites": 3
+  },
+  "MAR": {
+   "headOfState": [
+    "Mohammed VI of Morocco"
+   ],
+   "headOfGovernment": [
+    "Fatima Ezzahra El Mansouri"
+   ],
+   "government": [
+    "constitutional monarchy"
+   ],
+   "highestPoint": {
+    "name": "Jbel Toubkal",
+    "m": 4167
+   },
+   "unescoSites": 12
+  },
+  "MCO": {
+   "headOfState": [
+    "Albert II, Prince of Monaco"
+   ],
+   "headOfGovernment": [
+    "Christophe Mirmand"
+   ],
+   "government": [
+    "constitutional monarchy",
+    "hereditary monarchy"
+   ],
+   "highestPoint": {
+    "name": "Chemin des Révoires",
+    "m": 162
+   }
+  },
+  "MDA": {
+   "headOfState": [
+    "Maia Sandu"
+   ],
+   "headOfGovernment": [
+    "Vasile Tofan"
+   ],
+   "government": [
+    "unitary state",
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Bălănești Hill",
+    "m": 430
+   },
+   "unescoSites": 1
+  },
+  "MDG": {
+   "headOfState": [
+    "Andry Rajoelina",
+    "Michael Randrianirina"
+   ],
+   "headOfGovernment": [
+    "Mamitiana Rajaonarison"
+   ],
+   "government": [
+    "republic"
+   ],
+   "highestPoint": {
+    "name": "Maromokotro",
+    "m": 2876
+   },
+   "unescoSites": 5
+  },
+  "MDV": {
+   "headOfState": [
+    "Mohamed Muizzu"
+   ],
+   "headOfGovernment": [
+    "Mohamed Muizzu"
+   ],
+   "highestPoint": {
+    "name": "Villingili",
+    "m": 5
+   }
+  },
+  "MEX": {
+   "headOfState": [
+    "Q5771800"
+   ],
+   "headOfGovernment": [
+    "Q5771800"
+   ],
+   "government": [
+    "empire",
+    "presidential system",
+    "federal republic",
+    "constitutional republic",
+    "democratic republic"
+   ],
+   "highestPoint": {
+    "name": "Citlaltepetl",
+    "m": 5636
+   },
+   "unescoSites": 51
+  },
+  "MHL": {
+   "headOfState": [
+    "Hilda Heine"
+   ],
+   "headOfGovernment": [
+    "Hilda Heine"
+   ],
+   "highestPoint": {
+    "name": "Likiep Atoll",
+    "m": 10
+   },
+   "unescoSites": 1
+  },
+  "MKD": {
+   "headOfState": [
+    "Gordana Siljanovska-Davkova"
+   ],
+   "headOfGovernment": [
+    "Hristijan Mickoski"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Korab",
+    "m": 2764
+   },
+   "unescoSites": 5
+  },
+  "MLI": {
+   "headOfState": [
+    "Assimi Goïta"
+   ],
+   "headOfGovernment": [
+    "Abdoulaye Maïga"
+   ],
+   "highestPoint": {
+    "name": "Mount Hombori",
+    "m": 1153
+   },
+   "unescoSites": 4
+  },
+  "MLT": {
+   "headOfState": [
+    "Myriam Spiteri Debono"
+   ],
+   "headOfGovernment": [
+    "Robert Abela"
+   ],
+   "government": [
+    "parliamentary democracy"
+   ],
+   "highestPoint": {
+    "name": "Ta' Dmejrek",
+    "m": 253
+   },
+   "unescoSites": 3
+  },
+  "MMR": {
+   "headOfState": [
+    "Myint Swe"
+   ],
+   "headOfGovernment": [
+    "Min Aung Hlaing"
+   ],
+   "government": [
+    "republic"
+   ],
+   "highestPoint": {
+    "name": "Hkakabo Razi",
+    "m": 5881
+   },
+   "unescoSites": 2
+  },
+  "MNE": {
+   "headOfState": [
+    "Jakov Milatović"
+   ],
+   "headOfGovernment": [
+    "Milojko Spajić"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Zla Kolata",
+    "m": 2534
+   },
+   "unescoSites": 4
+  },
+  "MNG": {
+   "headOfState": [
+    "Khurelsukh Ukhnaa"
+   ],
+   "headOfGovernment": [
+    "Uchral Nyam-Osor"
+   ],
+   "government": [
+    "parliamentary system"
+   ],
+   "highestPoint": {
+    "name": "Hüiten Peak",
+    "m": 4374
+   },
+   "unescoSites": 8
+  },
+  "MOZ": {
+   "headOfState": [
+    "Daniel Chapo"
+   ],
+   "headOfGovernment": [
+    "Maria Benvinda Levy"
+   ],
+   "highestPoint": {
+    "name": "Monte Binga",
+    "m": 2436
+   },
+   "unescoSites": 2
+  },
+  "MRT": {
+   "headOfState": [
+    "Mohamed Ould Ghazouani"
+   ],
+   "headOfGovernment": [
+    "Moctar Ould Djay"
+   ],
+   "government": [
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Kediet ej Jill",
+    "m": 915
+   },
+   "unescoSites": 2
+  },
+  "MUS": {
+   "headOfState": [
+    "Dharam Gokhool"
+   ],
+   "headOfGovernment": [
+    "Pravind Jugnauth"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Piton de la Petite Rivière Noire",
+    "m": 828
+   },
+   "unescoSites": 2
+  },
+  "MWI": {
+   "headOfState": [
+    "Lazarus Chakwera",
+    "Peter Mutharika"
+   ],
+   "headOfGovernment": [
+    "Lazarus Chakwera"
+   ],
+   "highestPoint": {
+    "name": "Mulanje Massif",
+    "m": 3002
+   },
+   "unescoSites": 3
+  },
+  "MYS": {
+   "headOfState": [
+    "Ibrahim Iskandar of Johor"
+   ],
+   "headOfGovernment": [
+    "Anwar Ibrahim"
+   ],
+   "government": [
+    "constitutional monarchy",
+    "federation",
+    "elective monarchy",
+    "federal monarchy",
+    "parliamentary monarchy"
+   ],
+   "highestPoint": {
+    "name": "Mount Kinabalu",
+    "m": 4095
+   },
+   "unescoSites": 6
+  },
+  "NAM": {
+   "headOfState": [
+    "Netumbo Nandi-Ndaitwah"
+   ],
+   "headOfGovernment": [
+    "Elijah Ngurare"
+   ],
+   "highestPoint": {
+    "name": "Brandberg",
+    "m": 2573
+   },
+   "unescoSites": 2
+  },
+  "NER": {
+   "headOfState": [
+    "Abdourahamane Tiani",
+    "Hassoumi Massoudou"
+   ],
+   "headOfGovernment": [
+    "Ali Lamine Zeine"
+   ],
+   "highestPoint": {
+    "name": "Mont Idoukal-n-Taghès",
+    "m": 2022
+   },
+   "unescoSites": 3
+  },
+  "NGA": {
+   "headOfState": [
+    "Bola Tinubu"
+   ],
+   "headOfGovernment": [
+    "Bola Tinubu"
+   ],
+   "government": [
+    "federal republic"
+   ],
+   "highestPoint": {
+    "name": "Chappal Waddi",
+    "m": 2419
+   },
+   "unescoSites": 4
+  },
+  "NIC": {
+   "headOfState": [
+    "Daniel Ortega"
+   ],
+   "headOfGovernment": [
+    "Daniel Ortega"
+   ],
+   "government": [
+    "republic"
+   ],
+   "highestPoint": {
+    "name": "Cerro Mogotón",
+    "m": 2107
+   },
+   "unescoSites": 2
+  },
+  "NLD": {
+   "headOfState": [
+    "William Alexander of the Netherlands"
+   ],
+   "headOfGovernment": [
+    "Rob Jetten"
+   ],
+   "government": [
+    "constitutional monarchy"
+   ],
+   "highestPoint": {
+    "name": "Mount Scenery",
+    "m": 870
+   }
+  },
+  "NOR": {
+   "headOfState": [
+    "Haakon VIII of Norway"
+   ],
+   "headOfGovernment": [
+    "Jonas Gahr Støre"
+   ],
+   "government": [
+    "constitutional monarchy",
+    "parliamentary system",
+    "unitary state",
+    "representative democracy"
+   ],
+   "highestPoint": {
+    "name": "Galdhøpiggen",
+    "m": 2469
+   },
+   "unescoSites": 12
+  },
+  "NPL": {
+   "headOfState": [
+    "Ram Chandra Poudel"
+   ],
+   "headOfGovernment": [
+    "Pushpa Kamal Dahal"
+   ],
+   "government": [
+    "people's republic",
+    "federal republic"
+   ],
+   "highestPoint": {
+    "name": "Mount Everest",
+    "m": 8849
+   },
+   "unescoSites": 4
+  },
+  "NRU": {
+   "headOfState": [
+    "David Adeang"
+   ],
+   "headOfGovernment": [
+    "Derog Gioura",
+    "René Harris",
+    "David Adeang",
+    "Sprent Dabwido",
+    "Russ J Kun",
+    "Lionel Aingimea"
+   ],
+   "highestPoint": {
+    "name": "Command Ridge",
+    "m": 71
+   }
+  },
+  "NZL": {
+   "headOfState": [
+    "Charles III"
+   ],
+   "headOfGovernment": [
+    "Christopher Luxon"
+   ],
+   "government": [
+    "parliamentary monarchy"
+   ],
+   "highestPoint": {
+    "name": "Aoraki / Mount Cook",
+    "m": 3724
+   },
+   "unescoSites": 3
+  },
+  "OMN": {
+   "headOfState": [
+    "Haitham bin Tarik Al Said"
+   ],
+   "headOfGovernment": [
+    "Haitham bin Tarik Al Said"
+   ],
+   "government": [
+    "absolute monarchy"
+   ],
+   "highestPoint": {
+    "name": "Jebel Shams",
+    "m": 3018
+   },
+   "unescoSites": 7
+  },
+  "PAK": {
+   "headOfState": [
+    "Asif Ali Zardari"
+   ],
+   "headOfGovernment": [
+    "Shehbaz Sharif"
+   ],
+   "government": [
+    "federal republic",
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "K2",
+    "m": 8611
+   },
+   "unescoSites": 6
+  },
+  "PAN": {
+   "headOfState": [
+    "José Raúl Mulino"
+   ],
+   "headOfGovernment": [
+    "José Raúl Mulino"
+   ],
+   "government": [
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Volcan Baru",
+    "m": 3475
+   },
+   "unescoSites": 7
+  },
+  "PER": {
+   "headOfState": [
+    "Keiko Fujimori"
+   ],
+   "government": [
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Huascarán",
+    "m": 6768
+   },
+   "unescoSites": 71
+  },
+  "PHL": {
+   "headOfState": [
+    "Bongbong Marcos"
+   ],
+   "headOfGovernment": [
+    "Bongbong Marcos"
+   ],
+   "government": [
+    "republic"
+   ],
+   "highestPoint": {
+    "name": "Mount Apo",
+    "m": 2954
+   },
+   "unescoSites": 7
+  },
+  "PLW": {
+   "headOfState": [
+    "Surangel Whipps Jr."
+   ],
+   "headOfGovernment": [
+    "Surangel Whipps Jr."
+   ],
+   "highestPoint": {
+    "name": "Mount Ngerchelchuus",
+    "m": 242
+   },
+   "unescoSites": 1
+  },
+  "PNG": {
+   "headOfState": [
+    "Charles III"
+   ],
+   "headOfGovernment": [
+    "James Marape"
+   ],
+   "highestPoint": {
+    "name": "Mount Wilhelm",
+    "m": 4509
+   },
+   "unescoSites": 2
+  },
+  "POL": {
+   "headOfState": [
+    "Karol Nawrocki"
+   ],
+   "headOfGovernment": [
+    "Donald Tusk"
+   ],
+   "government": [
+    "semi-presidential system",
+    "parliamentary system",
+    "unitary state"
+   ],
+   "highestPoint": {
+    "name": "Rysy",
+    "m": 2501
+   },
+   "unescoSites": 18
+  },
+  "PRK": {
+   "headOfState": [
+    "Kim Jong-un"
+   ],
+   "headOfGovernment": [
+    "Pak Thae-song",
+    "Kim Jae-ryong"
+   ],
+   "government": [
+    "republic",
+    "one-party state",
+    "unitary state",
+    "Juche",
+    "socialist state",
+    "family dictatorship",
+    "communist dictatorship"
+   ],
+   "highestPoint": {
+    "name": "Baekdu Mountain",
+    "m": 2744
+   },
+   "unescoSites": 3
+  },
+  "PRT": {
+   "headOfState": [
+    "António José Seguro"
+   ],
+   "headOfGovernment": [
+    "Luís Montenegro"
+   ],
+   "government": [
+    "republic"
+   ],
+   "highestPoint": {
+    "name": "Mount Pico",
+    "m": 2351
+   },
+   "unescoSites": 49
+  },
+  "PRY": {
+   "headOfState": [
+    "Pedro Alliana"
+   ],
+   "headOfGovernment": [
+    "Pedro Alliana",
+    "Santiago Peña"
+   ],
+   "highestPoint": {
+    "name": "Cerro Tres Kandú",
+    "m": 842
+   },
+   "unescoSites": 2
+  },
+  "PSE": {
+   "headOfState": [
+    "Mahmoud Abbas"
+   ],
+   "headOfGovernment": [
+    "Mohammad Mustafa",
+    "Mohammad Shtayyeh"
+   ],
+   "government": [
+    "semi-presidential system",
+    "unitary state",
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Mount Nabi Yunis",
+    "m": 1026
+   },
+   "unescoSites": 11
+  },
+  "QAT": {
+   "headOfState": [
+    "Tamim bin Hamad Al Thani"
+   ],
+   "headOfGovernment": [
+    "Mohammed bin Abdulrahman Al Thani"
+   ],
+   "government": [
+    "constitutional monarchy"
+   ],
+   "highestPoint": {
+    "name": "Qurayn Abu al Bawl",
+    "m": 103
+   },
+   "unescoSites": 1
+  },
+  "ROU": {
+   "headOfState": [
+    "Nicușor Dan"
+   ],
+   "headOfGovernment": [
+    "Luca Niculescu"
+   ],
+   "government": [
+    "semi-presidential system",
+    "unitary state"
+   ],
+   "highestPoint": {
+    "name": "Moldoveanu Peak",
+    "m": 2544
+   },
+   "unescoSites": 11
+  },
+  "RUS": {
+   "headOfState": [
+    "Vladimir Putin"
+   ],
+   "headOfGovernment": [
+    "Mikhail Mishustin"
+   ],
+   "government": [
+    "super-presidential republic"
+   ],
+   "highestPoint": {
+    "name": "Mount Elbrus",
+    "m": 5642
+   },
+   "unescoSites": 48
+  },
+  "RWA": {
+   "headOfState": [
+    "Paul Kagame"
+   ],
+   "headOfGovernment": [
+    "Justin Nsengiyumva"
+   ],
+   "government": [
+    "semi-presidential system"
+   ],
+   "highestPoint": {
+    "name": "Mount Karisimbi",
+    "m": 4507
+   },
+   "unescoSites": 4
+  },
+  "SAU": {
+   "headOfState": [
+    "Salman bin Abdulaziz Al Saud"
+   ],
+   "headOfGovernment": [
+    "Salman bin Abdulaziz Al Saud"
+   ],
+   "government": [
+    "monarchy",
+    "absolute monarchy",
+    "islamic theocracy"
+   ],
+   "highestPoint": {
+    "name": "Jabal Sawda",
+    "m": 3207
+   },
+   "unescoSites": 8
+  },
+  "SDN": {
+   "headOfState": [
+    "Abdel Fattah al-Burhan"
+   ],
+   "headOfGovernment": [
+    "Abdalla Hamdok"
+   ],
+   "government": [
+    "federal republic"
+   ],
+   "highestPoint": {
+    "name": "Deriba Caldera",
+    "m": 3042
+   },
+   "unescoSites": 3
+  },
+  "SEN": {
+   "headOfState": [
+    "Bassirou Diomaye Faye"
+   ],
+   "headOfGovernment": [
+    "Bassirou Diomaye Faye"
+   ],
+   "government": [
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Népin Cliff",
+    "m": 531
+   },
+   "unescoSites": 8
+  },
+  "SGP": {
+   "headOfState": [
+    "Tharman Shanmugaratnam"
+   ],
+   "headOfGovernment": [
+    "Lawrence Wong"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Bukit Timah",
+    "m": 164
+   },
+   "unescoSites": 1
+  },
+  "SLB": {
+   "headOfState": [
+    "Charles III"
+   ],
+   "headOfGovernment": [
+    "Jeremiah Manele"
+   ],
+   "highestPoint": {
+    "name": "Mount Popomanaseu",
+    "m": 2335
+   },
+   "unescoSites": 1
+  },
+  "SLE": {
+   "headOfState": [
+    "Julius Maada Bio"
+   ],
+   "headOfGovernment": [
+    "David Sengeh"
+   ],
+   "government": [
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Mount Bintumani",
+    "m": 1945
+   },
+   "unescoSites": 2
+  },
+  "SLV": {
+   "headOfState": [
+    "Nayib Bukele"
+   ],
+   "headOfGovernment": [
+    "Nayib Bukele"
+   ],
+   "government": [
+    "republic",
+    "presidential system",
+    "representative democracy"
+   ],
+   "highestPoint": {
+    "name": "Cerro El Pital",
+    "m": 2730
+   },
+   "unescoSites": 1
+  },
+  "SMR": {
+   "headOfState": [
+    "Italo Righi",
+    "Francesca Civerchia",
+    "Denise Bronzetti",
+    "Dalibor Riccardi",
+    "Manuel Ciavatta",
+    "Maria Luisa Berti"
+   ],
+   "government": [
+    "diarchy",
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Monte Titano",
+    "m": 739
+   },
+   "unescoSites": 1
+  },
+  "SOM": {
+   "headOfState": [
+    "Hassan Sheikh Mohamud"
+   ],
+   "headOfGovernment": [
+    "Hamza Abdi Barre"
+   ],
+   "government": [
+    "federal republic"
+   ],
+   "highestPoint": {
+    "name": "Shimbiris",
+    "m": 2460
+   }
+  },
+  "SRB": {
+   "headOfState": [
+    "Ana Brnabić"
+   ],
+   "headOfGovernment": [
+    "Đuro Macut"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Velika Rudoka",
+    "m": 2658
+   },
+   "unescoSites": 7
+  },
+  "SSD": {
+   "headOfState": [
+    "Salva Kiir Mayardit"
+   ],
+   "headOfGovernment": [
+    "Salva Kiir Mayardit"
+   ],
+   "government": [
+    "federal republic"
+   ],
+   "highestPoint": {
+    "name": "Kinyeti",
+    "m": 3187
+   },
+   "unescoSites": 1
+  },
+  "STP": {
+   "headOfState": [
+    "Carlos Vila Nova"
+   ],
+   "headOfGovernment": [
+    "Américo Ramos"
+   ],
+   "highestPoint": {
+    "name": "Pico de São Tomé",
+    "m": 2024
+   },
+   "unescoSites": 1
+  },
+  "SUR": {
+   "headOfState": [
+    "Jennifer Geerlings-Simons"
+   ],
+   "headOfGovernment": [
+    "Jennifer Geerlings-Simons"
+   ],
+   "government": [
+    "republic"
+   ],
+   "highestPoint": {
+    "name": "Julianatop",
+    "m": 1280
+   },
+   "unescoSites": 4
+  },
+  "SVK": {
+   "headOfState": [
+    "Peter Pellegrini"
+   ],
+   "headOfGovernment": [
+    "Robert Fico"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Gerlachovský štít",
+    "m": 2654
+   },
+   "unescoSites": 12
+  },
+  "SVN": {
+   "headOfState": [
+    "Nataša Pirc Musar"
+   ],
+   "headOfGovernment": [
+    "Janez Janša"
+   ],
+   "government": [
+    "democratic republic"
+   ],
+   "highestPoint": {
+    "name": "Triglav",
+    "m": 2864
+   },
+   "unescoSites": 5
+  },
+  "SWE": {
+   "headOfState": [
+    "Carl XVI Gustaf of Sweden"
+   ],
+   "headOfGovernment": [
+    "Ulf Kristersson"
+   ],
+   "government": [
+    "constitutional monarchy",
+    "representative democracy"
+   ],
+   "highestPoint": {
+    "name": "Kebnekaise",
+    "m": 2097
+   },
+   "unescoSites": 21
+  },
+  "SWZ": {
+   "headOfState": [
+    "Mswati III"
+   ],
+   "headOfGovernment": [
+    "Edeupa Yerimin"
+   ],
+   "government": [
+    "absolute monarchy"
+   ],
+   "highestPoint": {
+    "name": "Emlembe",
+    "m": 1862
+   }
+  },
+  "SYC": {
+   "headOfState": [
+    "Patrick Herminie"
+   ],
+   "headOfGovernment": [
+    "Patrick Herminie"
+   ],
+   "highestPoint": {
+    "name": "Morne Seychellois",
+    "m": 905
+   },
+   "unescoSites": 2
+  },
+  "SYR": {
+   "headOfState": [
+    "Ahmed al-Sharaa"
+   ],
+   "government": [
+    "provisional government"
+   ],
+   "highestPoint": {
+    "name": "Mount Hermon",
+    "m": 2814
+   },
+   "unescoSites": 10
+  },
+  "TCD": {
+   "headOfState": [
+    "Mahamat Déby"
+   ],
+   "highestPoint": {
+    "name": "Emi Koussi",
+    "m": 3445
+   },
+   "unescoSites": 2
+  },
+  "TGO": {
+   "headOfState": [
+    "Jean-Lucien Savi de Tové"
+   ],
+   "headOfGovernment": [
+    "Faure Essozimna Gnassingbé"
+   ],
+   "highestPoint": {
+    "name": "Mount Agou",
+    "m": 986
+   },
+   "unescoSites": 1
+  },
+  "THA": {
+   "headOfState": [
+    "Rama X of Thailand"
+   ],
+   "headOfGovernment": [
+    "Paetongtarn Shinawatra",
+    "Phumtham Wechayachai"
+   ],
+   "government": [
+    "constitutional monarchy",
+    "parliamentary monarchy"
+   ],
+   "highestPoint": {
+    "name": "Doi Inthanon",
+    "m": 2565
+   },
+   "unescoSites": 12
+  },
+  "TJK": {
+   "headOfState": [
+    "Emomali Rahmon"
+   ],
+   "headOfGovernment": [
+    "Kokhir Rasulzoda"
+   ],
+   "government": [
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Ismoil Somoni Peak",
+    "m": 7495
+   },
+   "unescoSites": 5
+  },
+  "TKM": {
+   "headOfState": [
+    "Serdar Berdimuhamedow"
+   ],
+   "headOfGovernment": [
+    "Serdar Berdimuhamedow"
+   ],
+   "government": [
+    "republic",
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Aýrybaba",
+    "m": 3139
+   },
+   "unescoSites": 5
+  },
+  "TLS": {
+   "headOfState": [
+    "José Ramos-Horta"
+   ],
+   "headOfGovernment": [
+    "Xanana Gusmão"
+   ],
+   "government": [
+    "republic",
+    "semi-presidential system",
+    "unitary state"
+   ],
+   "highestPoint": {
+    "name": "Tatamailau",
+    "m": 2963
+   }
+  },
+  "TON": {
+   "headOfState": [
+    "Tupou VI of Tonga"
+   ],
+   "headOfGovernment": [
+    "Fatafehi Fakafānua, 8th Lord Fakafānua"
+   ],
+   "highestPoint": {
+    "name": "Kao",
+    "m": 1030
+   }
+  },
+  "TTO": {
+   "headOfState": [
+    "Christine Kangaloo"
+   ],
+   "headOfGovernment": [
+    "Kamla Persad-Bissessar"
+   ],
+   "government": [
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "El Cerro del Aripo",
+    "m": 940
+   }
+  },
+  "TUN": {
+   "headOfState": [
+    "Kais Saied"
+   ],
+   "headOfGovernment": [
+    "Sarra Zaafrani"
+   ],
+   "government": [
+    "semi-presidential system",
+    "presidential system",
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Jebel ech Chambi",
+    "m": 1544
+   },
+   "unescoSites": 10
+  },
+  "TUR": {
+   "headOfState": [
+    "Recep Tayyip Erdoğan"
+   ],
+   "headOfGovernment": [
+    "Bülent Ulusu",
+    "Süleyman Demirel",
+    "Yıldırım Akbulut",
+    "Erdal İnönü",
+    "Turgut Özal",
+    "Recep Tayyip Erdoğan"
+   ],
+   "government": [
+    "presidential system",
+    "unitary state"
+   ],
+   "highestPoint": {
+    "name": "Mount Ararat",
+    "m": 5137
+   },
+   "unescoSites": 22
+  },
+  "TUV": {
+   "headOfState": [
+    "Charles III"
+   ],
+   "headOfGovernment": [
+    "Ben Do"
+   ],
+   "highestPoint": {
+    "name": "Niulakita",
+    "m": 5
+   }
+  },
+  "TZA": {
+   "headOfState": [
+    "Samia Suluhu Hassan"
+   ],
+   "headOfGovernment": [
+    "Samia Suluhu Hassan"
+   ],
+   "highestPoint": {
+    "name": "Mount Kibo",
+    "m": 5895
+   },
+   "unescoSites": 7
+  },
+  "UGA": {
+   "headOfState": [
+    "Yoweri Museveni"
+   ],
+   "headOfGovernment": [
+    "Nabbanja Robinah"
+   ],
+   "government": [
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Mount Stanley",
+    "m": 5109
+   },
+   "unescoSites": 3
+  },
+  "UKR": {
+   "headOfState": [
+    "Volodymyr Zelenskyy"
+   ],
+   "headOfGovernment": [
+    "Serhii Koretskyi"
+   ],
+   "government": [
+    "semi-presidential system"
+   ],
+   "highestPoint": {
+    "name": "Hoverla",
+    "m": 2061
+   },
+   "unescoSites": 11
+  },
+  "URY": {
+   "headOfState": [
+    "Yamandú Orsi"
+   ],
+   "headOfGovernment": [
+    "Yamandú Orsi"
+   ],
+   "government": [
+    "republic",
+    "presidential system",
+    "participatory democracy"
+   ],
+   "highestPoint": {
+    "name": "Cerro Catedral",
+    "m": 514
+   },
+   "unescoSites": 3
+  },
+  "USA": {
+   "headOfState": [
+    "Donald Trump"
+   ],
+   "headOfGovernment": [
+    "Donald Trump"
+   ],
+   "government": [
+    "constitutional republic",
+    "democratic republic"
+   ],
+   "highestPoint": {
+    "name": "Q130018",
+    "m": 6190
+   },
+   "unescoSites": 29
+  },
+  "UZB": {
+   "headOfState": [
+    "Shavkat Mirziyoyev"
+   ],
+   "headOfGovernment": [
+    "Shavkat Mirziyoyev"
+   ],
+   "government": [
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Khazret Sultan",
+    "m": 4643
+   },
+   "unescoSites": 8
+  },
+  "VAT": {
+   "headOfState": [
+    "Leo XIV"
+   ],
+   "headOfGovernment": [
+    "Raffaella Petrini"
+   ],
+   "government": [
+    "constitutional monarchy",
+    "theocracy",
+    "papacy"
+   ],
+   "highestPoint": {
+    "name": "Vatican Hill",
+    "m": 75
+   },
+   "unescoSites": 2
+  },
+  "VCT": {
+   "headOfState": [
+    "Charles III"
+   ],
+   "headOfGovernment": [
+    "Godwin Friday"
+   ],
+   "government": [
+    "constitutional monarchy"
+   ],
+   "highestPoint": {
+    "name": "La Soufrière",
+    "m": 1220
+   }
+  },
+  "VEN": {
+   "headOfState": [
+    "Delcy Rodriguez"
+   ],
+   "government": [
+    "presidential system",
+    "federal republic"
+   ],
+   "highestPoint": {
+    "name": "Pico Bolívar",
+    "m": 4978
+   },
+   "unescoSites": 3
+  },
+  "VNM": {
+   "headOfState": [
+    "Tô Lâm"
+   ],
+   "headOfGovernment": [
+    "Phạm Minh Chính"
+   ],
+   "government": [
+    "republic",
+    "one-party state",
+    "unitary state"
+   ],
+   "highestPoint": {
+    "name": "Fansipan",
+    "m": 3143
+   },
+   "unescoSites": 12
+  },
+  "VUT": {
+   "headOfState": [
+    "Nikenike Vurobaravu"
+   ],
+   "headOfGovernment": [
+    "Bob Loughman"
+   ],
+   "highestPoint": {
+    "name": "Mount Tabwemasana",
+    "m": 1879
+   },
+   "unescoSites": 1
+  },
+  "WSM": {
+   "headOfState": [
+    "Tuilaʻepa Saʻilele Malielegaoi",
+    "Va'aletoa Sualauvi II"
+   ],
+   "headOfGovernment": [
+    "Fiamē Naomi Mataʻafa",
+    "Tuilaʻepa Saʻilele Malielegaoi"
+   ],
+   "highestPoint": {
+    "name": "Silisili",
+    "m": 1858
+   }
+  },
+  "YEM": {
+   "headOfState": [
+    "Rashad al-Alimi"
+   ],
+   "headOfGovernment": [
+    "Salem Saleh bin Braik"
+   ],
+   "government": [
+    "republic",
+    "presidential system"
+   ],
+   "highestPoint": {
+    "name": "Jabal an Nabi Shu'ayb",
+    "m": 3666
+   },
+   "unescoSites": 5
+  },
+  "ZAF": {
+   "headOfState": [
+    "Cyril Ramaphosa"
+   ],
+   "headOfGovernment": [
+    "Cyril Ramaphosa"
+   ],
+   "government": [
+    "apartheid",
+    "representative democracy",
+    "parliamentary republic"
+   ],
+   "highestPoint": {
+    "name": "Mafadi",
+    "m": 3450
+   },
+   "unescoSites": 12
+  },
+  "ZMB": {
+   "headOfState": [
+    "Hakainde Hichilema"
+   ],
+   "headOfGovernment": [
+    "Edgar Lungu"
+   ],
+   "government": [
+    "presidential system",
+    "representative democracy"
+   ],
+   "highestPoint": {
+    "name": "Mafinga Central",
+    "m": 2339
+   },
+   "unescoSites": 2
+  },
+  "ZWE": {
+   "headOfState": [
+    "Emmerson Mnangagwa"
+   ],
+   "headOfGovernment": [
+    "Emmerson Mnangagwa"
+   ],
+   "highestPoint": {
+    "name": "Mount Nyangani",
+    "m": 2592
+   },
+   "unescoSites": 6
+  }
+ }
+}

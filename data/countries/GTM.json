@@ -1,0 +1,34 @@
+{
+  "code": "GTM",
+  "name": "Guatemala",
+  "status": "draft",
+  "content": {
+    "about": "Guatemala is in Central America, with volcanoes, lakes and Maya ruins. Many people speak Maya languages. Lake Atitlán is ringed by volcanoes. Its textiles are colourful.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Tikal was one of the largest cities of the ancient Maya.",
+      "source": "https://en.wikipedia.org/wiki/Tikal",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Guatemala has over 20 Maya languages.",
+      "Lake Atitlán is very deep.",
+      "The quetzal bird gives its name to the currency."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 400,
+    "longestRiver": {
+      "name": "Motagua",
+      "km": 486
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "15 Sep · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

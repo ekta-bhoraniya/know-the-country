@@ -1,0 +1,34 @@
+{
+  "code": "SWZ",
+  "name": "Eswatini",
+  "status": "draft",
+  "content": {
+    "about": "Eswatini is a small landlocked kingdom in southern Africa. It has mountains, savanna and reserves with rhinos. Its Umhlanga reed dance is a famous festival. It was formerly called Swaziland.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Eswatini is one of the last absolute monarchies in the world.",
+      "source": "https://en.wikipedia.org/wiki/Eswatini",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Eswatini changed its name in 2018.",
+      "Umhlanga reed dance gathers thousands.",
+      "It has two capitals."
+    ]
+  },
+  "geography": {
+    "climate": "Subtropical",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Usutu",
+      "km": 217
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "6 Sep · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "JAM",
+  "name": "Jamaica",
+  "status": "draft",
+  "content": {
+    "about": "Jamaica is a Caribbean island with mountains, beaches and waterfalls. It is the birthplace of reggae. Its sprinters are among the world's fastest. Blue Mountain coffee is prized.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Reggae music, made famous by Bob Marley, began in Jamaica.",
+      "source": "https://en.wikipedia.org/wiki/Reggae",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Usain Bolt is from Jamaica.",
+      "Blue Mountain coffee is famous.",
+      "Jamaica has many rivers."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 1022,
+    "longestRiver": {
+      "name": "Rio Minho",
+      "km": 93
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "6 Aug · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

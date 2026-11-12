@@ -1,0 +1,30 @@
+{
+  "code": "BHR",
+  "name": "Bahrain",
+  "status": "draft",
+  "content": {
+    "about": "Bahrain is a small island country in the Persian Gulf, made up of one main island and around 30 smaller ones. It was once the centre of the ancient Dilmun civilisation and of pearl diving. Today it is a banking centre linked to Saudi Arabia by a long causeway. Bahrain hosts a Formula 1 Grand Prix.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Tree of Life in Bahrain is a 400-year-old tree growing alone in the desert.",
+      "source": "https://en.wikipedia.org/wiki/Tree_of_Life_(Bahrain)",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The King Fahd Causeway is about 25 km long.",
+      "Bahrain has thousands of ancient burial mounds.",
+      "Its name means \"two seas\" in Arabic."
+    ]
+  },
+  "geography": {
+    "climate": "Desert",
+    "coastlineKm": 161
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "16 Dec · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

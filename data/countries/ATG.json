@@ -1,0 +1,30 @@
+{
+  "code": "ATG",
+  "name": "Antigua and Barbuda",
+  "status": "draft",
+  "content": {
+    "about": "Antigua and Barbuda is a Caribbean nation of two main islands and many smaller ones. It is famous for white beaches and clear water. Nelson's Dockyard is a restored 18th-century naval base. Barbuda has a big frigatebird colony.",
+    "standout": {
+      "category": "Natural",
+      "text": "Antigua is said to have 365 beaches, one for every day of the year.",
+      "source": "https://en.wikipedia.org/wiki/Antigua",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Barbuda's frigatebird colony is one of the largest.",
+      "Sailing Week is a famous regatta.",
+      "Cricket is very popular."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 153
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Nov · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

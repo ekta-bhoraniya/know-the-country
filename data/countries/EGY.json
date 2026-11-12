@@ -1,0 +1,62 @@
+{
+  "code": "EGY",
+  "name": "Egypt",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "About 95% of Egyptians live within a few kilometres of the Nile.",
+      "The Great Pyramid of Giza was the tallest human-made structure for nearly 4,000 years.",
+      "Egypt spans two continents, with the Sinai Peninsula in Asia."
+    ],
+    "about": "Egypt sits in the northeast corner of Africa, with the Sinai Peninsula reaching into Asia. Almost all of it is desert, so nearly everyone lives along the green strip of the Nile and its delta. Ancient Egyptians built the pyramids, the Sphinx and the temples of Luxor thousands of years ago. The Suez Canal links the Mediterranean and Red Seas through Egypt.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The Great Pyramid of Giza is the only one of the Seven Wonders of the Ancient World still standing.",
+      "source": "https://en.wikipedia.org/wiki/Egypt",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 0,
+    "coastlineKm": 2450,
+    "highestPoint": {
+      "name": "Mount Catherine",
+      "m": 2629
+    },
+    "longestRiver": {
+      "name": "Nile (one of the two longest rivers in the world)",
+      "km": 6650
+    },
+    "climate": "Desert"
+  },
+  "people": {
+    "medianAge": 24,
+    "lifeExpectancy": 70,
+    "literacyPct": 75,
+    "urbanPct": 43
+  },
+  "government": {
+    "type": "Presidential republic",
+    "headOfState": "President Abdel Fattah el-Sisi",
+    "headOfGovernment": "Prime Minister Mostafa Madbouly",
+    "asOf": "2026-06",
+    "nationalDay": "23 Jul · Revolution Day"
+  },
+  "economy": {
+    "population": {
+      "value": 116500000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 389000000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "flower": "Lotus (traditional)",
+    "sport": "Football (popular)"
+  },
+  "practical": {
+    "unescoSites": 7
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": "COM",
+  "name": "Comoros",
+  "status": "draft",
+  "content": {
+    "about": "The Comoros is a group of volcanic islands in the Indian Ocean, between Mozambique and Madagascar. Its islands have beaches, forests and an active volcano, Mount Karthala. It is a major producer of ylang-ylang, used in perfume. Arabic, French and Comorian are spoken.",
+    "standout": {
+      "category": "Wildlife",
+      "text": "The coelacanth, a fish thought extinct for 66 million years, was rediscovered near the Comoros.",
+      "source": "https://en.wikipedia.org/wiki/Coelacanth",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Mount Karthala has one of the largest active volcanic craters.",
+      "Comoros is a major source of ylang-ylang oil.",
+      "Its name comes from the Arabic for \"moon\"."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 340
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "6 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

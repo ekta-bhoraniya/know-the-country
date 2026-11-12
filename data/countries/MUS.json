@@ -1,0 +1,34 @@
+{
+  "code": "MUS",
+  "name": "Mauritius",
+  "status": "draft",
+  "content": {
+    "about": "Mauritius is an island country in the Indian Ocean, east of Madagascar. It is surrounded by coral reefs and has a mountainous centre. Its people have Indian, African, Chinese and European roots. The dodo bird lived only here.",
+    "standout": {
+      "category": "Wildlife",
+      "text": "Mauritius was the only home of the dodo, which became extinct in the 1600s.",
+      "source": "https://en.wikipedia.org/wiki/Dodo",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Seven Coloured Earths are sand dunes of different colours.",
+      "Mauritius has no standing army.",
+      "An underwater \"waterfall\" illusion appears off Le Morne."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 177,
+    "longestRiver": {
+      "name": "Grand River South East",
+      "km": 34
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "12 Mar · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

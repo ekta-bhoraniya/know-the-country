@@ -1,0 +1,30 @@
+{
+  "code": "CPV",
+  "name": "Cape Verde",
+  "status": "draft",
+  "content": {
+    "about": "Cape Verde is a group of ten volcanic islands in the Atlantic, west of Senegal. Its islands range from desert-like to green and mountainous. Its music, especially morna, is famous. Fogo island has an active volcano.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Cape Verde's morna music is on UNESCO's intangible heritage list.",
+      "source": "https://en.wikipedia.org/wiki/Morna_(music)",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Cesária Évora made morna famous worldwide.",
+      "Fogo's volcano last erupted in 2014.",
+      "Cape Verde was uninhabited before the Portuguese arrived."
+    ]
+  },
+  "geography": {
+    "climate": "Arid tropical",
+    "coastlineKm": 965
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "5 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "LIE",
+  "name": "Liechtenstein",
+  "status": "draft",
+  "content": {
+    "about": "Liechtenstein is a tiny, doubly landlocked country in the Alps, between Switzerland and Austria. It is ruled by a prince who lives in a castle above the capital, Vaduz. Its people enjoy one of the highest incomes in the world. Hiking trails cross the whole country.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Liechtenstein is one of the world's largest makers of false teeth.",
+      "source": "https://en.wikipedia.org/wiki/Liechtenstein",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Liechtenstein is one of only two doubly landlocked countries.",
+      "It has no army.",
+      "You can walk across the whole country in a day."
+    ]
+  },
+  "geography": {
+    "climate": "Alpine",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Rhine",
+      "km": 1230
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "15 Aug · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

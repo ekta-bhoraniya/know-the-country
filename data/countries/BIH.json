@@ -1,0 +1,34 @@
+{
+  "code": "BIH",
+  "name": "Bosnia and Herzegovina",
+  "status": "draft",
+  "content": {
+    "about": "Bosnia and Herzegovina is a mountainous country in the Balkans, with just a tiny strip of coast on the Adriatic. Rivers like the Neretva cut through green valleys and old stone towns. Sarajevo, its capital, mixes mosques, churches and synagogues. Ćevapi, small grilled sausages, are its best-loved food.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The Stari Most bridge in Mostar, first built in 1566 and rebuilt in 2004, is famous for its divers.",
+      "source": "https://en.wikipedia.org/wiki/Stari_Most",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Divers have jumped from Mostar's old bridge for centuries.",
+      "Sarajevo hosted the 1984 Winter Olympics.",
+      "Its coastline is only about 20 km long."
+    ]
+  },
+  "geography": {
+    "climate": "Continental",
+    "coastlineKm": 20,
+    "longestRiver": {
+      "name": "Drina",
+      "km": 346
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "25 Nov · Statehood Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

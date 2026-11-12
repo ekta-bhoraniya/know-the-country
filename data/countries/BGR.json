@@ -1,0 +1,34 @@
+{
+  "code": "BGR",
+  "name": "Bulgaria",
+  "status": "draft",
+  "content": {
+    "about": "Bulgaria lies in southeastern Europe, with a Black Sea coast in the east and mountains across its middle and south. Its Rose Valley grows roses for a large share of the world's rose oil. It has ancient Thracian tombs and colourful monasteries like Rila. Bulgarian yoghurt is famous for its special bacteria.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Bulgaria is home to the Cyrillic script's early development, at the Preslav and Ohrid schools.",
+      "source": "https://en.wikipedia.org/wiki/Cyrillic_script",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Lactobacillus bulgaricus, a yoghurt bacterium, is named after Bulgaria.",
+      "Bulgaria produces a large share of the world's rose oil.",
+      "The Varna gold treasure is among the oldest worked gold in the world."
+    ]
+  },
+  "geography": {
+    "climate": "Temperate",
+    "coastlineKm": 354,
+    "longestRiver": {
+      "name": "Iskar",
+      "km": 368
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "3 Mar · Liberation Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

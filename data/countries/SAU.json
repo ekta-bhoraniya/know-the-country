@@ -1,0 +1,30 @@
+{
+  "code": "SAU",
+  "name": "Saudi Arabia",
+  "status": "draft",
+  "content": {
+    "about": "Saudi Arabia covers most of the Arabian Peninsula, between the Red Sea and the Persian Gulf. Most of it is desert, but it holds huge oil reserves. Mecca and Medina, the two holiest cities in Islam, are here. Every year, millions of Muslims travel to Mecca for the Hajj pilgrimage.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Rub' al Khali in Saudi Arabia is the largest continuous sand desert in the world.",
+      "source": "https://en.wikipedia.org/wiki/Rub'_al_Khali",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Saudi Arabia has no permanent rivers.",
+      "Hegra, an ancient Nabataean city, has tombs carved into rock.",
+      "Camels have long been central to life in the desert."
+    ]
+  },
+  "geography": {
+    "climate": "Desert",
+    "coastlineKm": 2640
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "23 Sep · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

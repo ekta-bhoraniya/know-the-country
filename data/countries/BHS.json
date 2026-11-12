@@ -1,0 +1,30 @@
+{
+  "code": "BHS",
+  "name": "Bahamas",
+  "status": "draft",
+  "content": {
+    "about": "The Bahamas is a chain of about 700 islands in the Atlantic, near Florida. Its shallow seas glow turquoise. Pig Beach has swimming pigs. Junkanoo is a colourful street festival.",
+    "standout": {
+      "category": "Natural",
+      "text": "Dean's Blue Hole is one of the deepest known blue holes in the world, about 200 m deep.",
+      "source": "https://en.wikipedia.org/wiki/Dean's_Blue_Hole",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Swimming pigs live on Big Major Cay.",
+      "Andros Barrier Reef is one of the largest.",
+      "Pink sand beaches are on Harbour Island."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 3542
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "10 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "KOR",
+  "name": "South Korea",
+  "status": "draft",
+  "content": {
+    "about": "South Korea occupies the southern half of the Korean Peninsula in East Asia, with mountains covering much of its land. Seoul is a giant, high-tech city mixing palaces with skyscrapers. Korean pop music, films and food have become hugely popular worldwide. Jeju Island, off its south coast, is a volcanic island with lava tubes.",
+    "standout": {
+      "category": "Intellectual and scientific",
+      "text": "Hangul, the Korean alphabet, was created in 1443 under King Sejong.",
+      "source": "https://en.wikipedia.org/wiki/Hangul",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "South Korea has some of the fastest internet speeds in the world.",
+      "Kimchi, fermented vegetables, is eaten at almost every Korean meal.",
+      "Taekwondo, a Korean martial art, is an Olympic sport."
+    ]
+  },
+  "geography": {
+    "climate": "Temperate",
+    "coastlineKm": 2413,
+    "longestRiver": {
+      "name": "Nakdong",
+      "km": 510
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "3 Oct · National Foundation Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,64 @@
+{
+  "code": "IDN",
+  "name": "Indonesia",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "Indonesia has more than 17,000 islands.",
+      "Indonesia has more active volcanoes than any other country.",
+      "Komodo dragons, the largest living lizards, live only in Indonesia."
+    ],
+    "about": "Indonesia is a chain of more than 17,000 islands strung between the Indian and Pacific Oceans, including Java, Sumatra, Bali and parts of Borneo and New Guinea. It has hundreds of ethnic groups and languages, united by the Indonesian language. Volcanoes, rice terraces and coral reefs shape its landscapes. Rare animals like orangutans and Komodo dragons live in its forests.",
+    "standout": {
+      "category": "Natural",
+      "text": "Indonesia is the world's largest archipelago country.",
+      "source": "https://en.wikipedia.org/wiki/Indonesia",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 49,
+    "coastlineKm": 54716,
+    "highestPoint": {
+      "name": "Puncak Jaya",
+      "m": 4884
+    },
+    "longestRiver": {
+      "name": "Kapuas",
+      "km": 1143
+    },
+    "climate": "Tropical"
+  },
+  "people": {
+    "medianAge": 30,
+    "lifeExpectancy": 71,
+    "literacyPct": 96,
+    "urbanPct": 59
+  },
+  "government": {
+    "type": "Presidential republic",
+    "headOfState": "President Prabowo Subianto",
+    "headOfGovernment": "President Prabowo Subianto",
+    "asOf": "2026-06",
+    "nationalDay": "17 Aug · Independence Day"
+  },
+  "economy": {
+    "population": {
+      "value": 283500000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 1400000000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "animal": "Komodo dragon",
+    "bird": "Javan hawk-eagle",
+    "flower": "Jasmine",
+    "sport": "Pencak silat (traditional)"
+  },
+  "practical": {
+    "unescoSites": 10
+  }
+}

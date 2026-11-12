@@ -1,0 +1,34 @@
+{
+  "code": "FJI",
+  "name": "Fiji",
+  "status": "draft",
+  "content": {
+    "about": "Fiji is a group of over 300 islands in the South Pacific. It has coral reefs, rainforests and beaches. Rugby sevens is hugely popular. Bula is a common greeting.",
+    "standout": {
+      "category": "Natural",
+      "text": "Fiji's Great Astrolabe Reef is one of the largest barrier reefs in the world.",
+      "source": "https://en.wikipedia.org/wiki/Great_Astrolabe_Reef",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Fiji has won Olympic gold in rugby sevens.",
+      "Kava is a traditional drink.",
+      "About a third of its islands are inhabited."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 1129,
+    "longestRiver": {
+      "name": "Rewa",
+      "km": 145
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "10 Oct · Fiji Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

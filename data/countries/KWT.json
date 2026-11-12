@@ -1,0 +1,30 @@
+{
+  "code": "KWT",
+  "name": "Kuwait",
+  "status": "draft",
+  "content": {
+    "about": "Kuwait is a small desert country at the top of the Persian Gulf, between Iraq and Saudi Arabia. It sits on some of the world's largest oil reserves. Before oil, its people lived by trade, fishing and pearl diving. Summers are among the hottest anywhere, often over 50 °C.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The Kuwait Towers, opened in 1979, have become the symbol of the country.",
+      "source": "https://en.wikipedia.org/wiki/Kuwait_Towers",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Kuwaiti dinar is one of the highest-valued currencies in the world.",
+      "Kuwait has no permanent rivers or lakes.",
+      "Its summer temperatures are among the highest recorded on Earth."
+    ]
+  },
+  "geography": {
+    "climate": "Desert",
+    "coastlineKm": 499
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "25 Feb · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

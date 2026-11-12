@@ -1,0 +1,34 @@
+{
+  "code": "SUR",
+  "name": "Suriname",
+  "status": "draft",
+  "content": {
+    "about": "Suriname is on South America's north coast. Most of it is rainforest. Dutch is its official language. Its capital has wooden colonial buildings.",
+    "standout": {
+      "category": "Natural",
+      "text": "Suriname is the most forested country in the world by share of land.",
+      "source": "https://en.wikipedia.org/wiki/Suriname",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Suriname is mostly forest.",
+      "Dutch is official.",
+      "Paramaribo is a UNESCO city."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 386,
+    "longestRiver": {
+      "name": "Corantijn",
+      "km": 724
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "25 Nov · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

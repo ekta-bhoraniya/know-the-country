@@ -1,0 +1,30 @@
+{
+  "code": "YEM",
+  "name": "Yemen",
+  "status": "draft",
+  "content": {
+    "about": "Yemen lies at the southern tip of the Arabian Peninsula, with mountains, deserts and coasts on the Red Sea and Arabian Sea. Its old cities have tall houses built of mud brick and decorated windows. Coffee was first traded widely from its port of Mocha. Its island of Socotra has trees found nowhere else.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Shibam's mud-brick tower houses have earned it the nickname \"Manhattan of the desert\".",
+      "source": "https://en.wikipedia.org/wiki/Shibam",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The \"mocha\" in coffee names comes from Yemen's port city.",
+      "Socotra's dragon's blood trees look like giant umbrellas.",
+      "Sana'a's old city has been lived in for over 2,500 years."
+    ]
+  },
+  "geography": {
+    "climate": "Desert",
+    "coastlineKm": 1906
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "22 May · Unity Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

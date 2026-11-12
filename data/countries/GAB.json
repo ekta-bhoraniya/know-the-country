@@ -1,0 +1,34 @@
+{
+  "code": "GAB",
+  "name": "Gabon",
+  "status": "draft",
+  "content": {
+    "about": "Gabon sits on the equator on Africa's Atlantic coast, and nearly nine-tenths of it is rainforest. It protects a large share of its land as national parks. Forest elephants, gorillas and leopards live in its forests. Its capital is Libreville.",
+    "standout": {
+      "category": "Wildlife",
+      "text": "Gabon's Loango National Park is known for elephants, hippos and buffalo walking on the beach.",
+      "source": "https://en.wikipedia.org/wiki/Loango_National_Park",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Gabon has about 88% forest cover.",
+      "Hippos sometimes swim in the sea off Loango.",
+      "The Oklo natural nuclear reactors formed in Gabon about 2 billion years ago."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 885,
+    "longestRiver": {
+      "name": "Ogooué",
+      "km": 1200
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "17 Aug · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

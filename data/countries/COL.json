@@ -1,0 +1,34 @@
+{
+  "code": "COL",
+  "name": "Colombia",
+  "status": "draft",
+  "content": {
+    "about": "Colombia is in northwest South America, with coasts on two oceans. It has the Andes, Amazon and Caribbean beaches. It is known for coffee and flowers. Caño Cristales river turns rainbow-coloured.",
+    "standout": {
+      "category": "Wildlife",
+      "text": "Colombia has more bird species than any other country.",
+      "source": "https://en.wikipedia.org/wiki/List_of_birds_of_Colombia",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Colombia has nearly 2,000 bird species.",
+      "Caño Cristales is the \"river of five colours\".",
+      "Colombia grows famous coffee."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 3208,
+    "longestRiver": {
+      "name": "Magdalena",
+      "km": 1528
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "20 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "GEO",
+  "name": "Georgia",
+  "status": "draft",
+  "content": {
+    "about": "Georgia lies in the Caucasus, between the Black Sea and the Caspian, with the Greater Caucasus mountains along its north. Its villages have ancient stone towers and churches. Georgians have their own alphabet and are famous for hospitality, polyphonic singing and feasts called supra. Khachapuri, cheese-filled bread, is a national favourite.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Georgia has one of the oldest known winemaking traditions, going back about 8,000 years.",
+      "source": "https://en.wikipedia.org/wiki/Georgian_wine",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Georgian is written in one of only 14 unique alphabets in use today.",
+      "Wine is traditionally fermented in clay pots called qvevri, buried underground.",
+      "Ushguli is one of the highest permanently inhabited villages in Europe."
+    ]
+  },
+  "geography": {
+    "climate": "Humid subtropical to alpine",
+    "coastlineKm": 310,
+    "longestRiver": {
+      "name": "Alazani",
+      "km": 351
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "26 May · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

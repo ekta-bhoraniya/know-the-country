@@ -1,0 +1,30 @@
+{
+  "code": "KIR",
+  "name": "Kiribati",
+  "status": "draft",
+  "content": {
+    "about": "Kiribati is a Pacific nation of 33 islands across the equator. Its islands are low atolls. It is one of the first places to see each new day. Phoenix Islands is a huge protected area.",
+    "standout": {
+      "category": "Natural",
+      "text": "Kiritimati is one of the largest coral atolls by land area.",
+      "source": "https://en.wikipedia.org/wiki/Kiritimati",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Kiribati spans four hemispheres.",
+      "It is among the first to see the New Year.",
+      "Phoenix Islands is a large marine reserve."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 1143
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "12 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

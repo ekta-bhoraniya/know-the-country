@@ -1,0 +1,34 @@
+{
+  "code": "UKR",
+  "name": "Ukraine",
+  "status": "draft",
+  "content": {
+    "about": "Ukraine is the largest country entirely in Europe, with rich black farmland, the Carpathian Mountains and a coast on the Black Sea. It is one of the world's biggest grain producers. Kyiv has golden-domed churches more than a thousand years old. Painted Easter eggs called pysanky are a Ukrainian tradition.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The Arsenalna station in Kyiv is one of the deepest metro stations in the world.",
+      "source": "https://en.wikipedia.org/wiki/Arsenalna_(Kyiv_Metro)",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Ukraine is one of the world's largest sunflower oil producers.",
+      "Borscht, a beetroot soup, is a national dish.",
+      "The Antonov An-225 was built in Ukraine."
+    ]
+  },
+  "geography": {
+    "climate": "Temperate continental",
+    "coastlineKm": 2782,
+    "longestRiver": {
+      "name": "Dnieper",
+      "km": 2200
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "24 Aug · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

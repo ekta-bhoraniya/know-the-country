@@ -1,0 +1,34 @@
+{
+  "code": "SLE",
+  "name": "Sierra Leone",
+  "status": "draft",
+  "content": {
+    "about": "Sierra Leone is on West Africa's coast, with beaches, mountains and rainforest. Freetown has one of the largest natural harbours in the world. It has rich mineral deposits. Its name means \"Lion Mountains\".",
+    "standout": {
+      "category": "Natural",
+      "text": "Sierra Leone's Tiwai Island is one of the richest primate habitats in Africa.",
+      "source": "https://en.wikipedia.org/wiki/Tiwai_Island",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Freetown's harbour is among the largest natural harbours.",
+      "Sierra Leone is known for diamonds.",
+      "Tiwai has many primate species."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 402,
+    "longestRiver": {
+      "name": "Rokel",
+      "km": 400
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "27 Apr · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

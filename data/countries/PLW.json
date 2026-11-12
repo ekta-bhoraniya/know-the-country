@@ -1,0 +1,30 @@
+{
+  "code": "PLW",
+  "name": "Palau",
+  "status": "draft",
+  "content": {
+    "about": "Palau is a nation of about 340 islands in the western Pacific. It has coral reefs and rock islands. It created a large shark sanctuary. Visitors sign an eco pledge.",
+    "standout": {
+      "category": "Natural",
+      "text": "Palau's Jellyfish Lake is home to millions of stingless golden jellyfish.",
+      "source": "https://en.wikipedia.org/wiki/Jellyfish_Lake",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Palau created one of the first shark sanctuaries.",
+      "Rock Islands are a UNESCO site.",
+      "Visitors sign an eco pledge."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 1519
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "9 Jul · Constitution Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

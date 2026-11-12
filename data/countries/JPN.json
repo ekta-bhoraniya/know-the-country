@@ -1,0 +1,63 @@
+{
+  "code": "JPN",
+  "name": "Japan",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "Japan is made up of more than 14,000 islands.",
+      "Japan's imperial house is the oldest continuous hereditary monarchy in the world.",
+      "Around 70% of Japan is covered by mountains."
+    ],
+    "about": "Japan is an island nation in East Asia, made up of four main islands and thousands of smaller ones. It mixes ancient temples and shrines with ultra-modern cities like Tokyo and Osaka. Its landscapes range from snowy northern mountains to subtropical beaches in Okinawa, and Mount Fuji is its best-known symbol. Japanese food, anime and bullet trains have fans all over the world.",
+    "standout": {
+      "category": "Intellectual and scientific",
+      "text": "Japan opened the world's first high-speed railway, the Tōkaidō Shinkansen, in 1964.",
+      "source": "https://en.wikipedia.org/wiki/Japan",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 68,
+    "coastlineKm": 29751,
+    "highestPoint": {
+      "name": "Mount Fuji",
+      "m": 3776
+    },
+    "longestRiver": {
+      "name": "Shinano",
+      "km": 367
+    },
+    "climate": "Temperate"
+  },
+  "people": {
+    "medianAge": 49,
+    "lifeExpectancy": 84,
+    "literacyPct": 99,
+    "urbanPct": 92
+  },
+  "government": {
+    "type": "Parliamentary constitutional monarchy",
+    "headOfState": "Emperor Naruhito",
+    "headOfGovernment": "Prime Minister Sanae Takaichi",
+    "asOf": "2026-06",
+    "nationalDay": "11 Feb · National Foundation Day"
+  },
+  "economy": {
+    "population": {
+      "value": 123800000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 4030000000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "bird": "Green pheasant",
+    "flower": "Chrysanthemum (traditional)",
+    "sport": "Sumo (traditional)"
+  },
+  "practical": {
+    "unescoSites": 26
+  }
+}

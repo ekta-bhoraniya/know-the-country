@@ -1,0 +1,30 @@
+{
+  "code": "TON",
+  "name": "Tonga",
+  "status": "draft",
+  "content": {
+    "about": "Tonga is a Polynesian kingdom of 170 islands. It has beaches and coral reefs. Humpback whales visit to breed. It is one of the first to see each new day.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Tonga is the only Pacific nation never colonised.",
+      "source": "https://en.wikipedia.org/wiki/Tonga",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Tonga is a kingdom.",
+      "Humpback whales visit.",
+      "Rugby is popular."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 419
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "4 Jun · Emancipation Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

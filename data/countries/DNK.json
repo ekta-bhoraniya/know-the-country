@@ -1,0 +1,34 @@
+{
+  "code": "DNK",
+  "name": "Denmark",
+  "status": "draft",
+  "content": {
+    "about": "Denmark is a small Nordic country made up of the Jutland peninsula and more than 400 islands. No place is far from the sea. It is known for Vikings, bicycles and the idea of \"hygge\", meaning cosiness. It also governs Greenland and the Faroe Islands.",
+    "standout": {
+      "category": "Cultural",
+      "text": "LEGO bricks were invented in Denmark, and the name comes from the Danish \"leg godt\", meaning \"play well\".",
+      "source": "https://en.wikipedia.org/wiki/Lego",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Denmark's flag is one of the oldest national flags still in use.",
+      "Copenhagen has more bikes than cars.",
+      "Hans Christian Andersen, author of famous fairy tales, was Danish."
+    ]
+  },
+  "geography": {
+    "climate": "Temperate maritime",
+    "coastlineKm": 7314,
+    "longestRiver": {
+      "name": "Gudenå",
+      "km": 160
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "5 Jun · Constitution Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

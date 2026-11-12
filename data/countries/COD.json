@@ -1,0 +1,34 @@
+{
+  "code": "COD",
+  "name": "DR Congo",
+  "status": "draft",
+  "content": {
+    "about": "The Democratic Republic of the Congo is the second-largest country in Africa, covered largely by the Congo rainforest. The Congo River curves through its heart. It is home to gorillas, okapis and bonobos. It is rich in minerals like cobalt and copper.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Congo River is the deepest river in the world, over 220 m deep in places.",
+      "source": "https://en.wikipedia.org/wiki/Congo_River",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Bonobos, close relatives of humans, live only in the DR Congo.",
+      "The okapi looks like a zebra but is related to the giraffe.",
+      "The DR Congo produces much of the world's cobalt."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 37,
+    "longestRiver": {
+      "name": "Congo",
+      "km": 4700
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "30 Jun · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

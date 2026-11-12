@@ -1,0 +1,64 @@
+{
+  "code": "ARG",
+  "name": "Argentina",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "Aconcagua in Argentina is the highest mountain outside Asia.",
+      "Argentina is named after the Latin word for silver, argentum.",
+      "The tango was born in Buenos Aires and Montevideo in the late 1800s."
+    ],
+    "about": "Argentina stretches down the southern half of South America, from subtropical forests in the north to the icy tip of Tierra del Fuego. In between lie the high Andes, the grassy Pampas and the glaciers of Patagonia. Buenos Aires, its capital, is known for tango and grand old cafés. Argentine beef, football and dinosaur fossils are famous around the world.",
+    "standout": {
+      "category": "Natural",
+      "text": "Aconcagua, at 6,961 m, is the highest mountain outside Asia.",
+      "source": "https://en.wikipedia.org/wiki/Argentina",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 10,
+    "coastlineKm": 4989,
+    "highestPoint": {
+      "name": "Aconcagua",
+      "m": 6961
+    },
+    "longestRiver": {
+      "name": "Paraná",
+      "km": 4880
+    },
+    "climate": "Temperate"
+  },
+  "people": {
+    "medianAge": 32,
+    "lifeExpectancy": 77,
+    "literacyPct": 99,
+    "urbanPct": 92
+  },
+  "government": {
+    "type": "Federal presidential republic",
+    "headOfState": "President Javier Milei",
+    "headOfGovernment": "President Javier Milei",
+    "asOf": "2026-06",
+    "nationalDay": "9 Jul · Independence Day"
+  },
+  "economy": {
+    "population": {
+      "value": 45700000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 633000000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "bird": "Rufous hornero",
+    "flower": "Ceibo",
+    "tree": "Red quebracho",
+    "sport": "Pato"
+  },
+  "practical": {
+    "unescoSites": 13
+  }
+}

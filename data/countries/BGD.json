@@ -1,0 +1,34 @@
+{
+  "code": "BGD",
+  "name": "Bangladesh",
+  "status": "draft",
+  "content": {
+    "about": "Bangladesh lies on the huge delta where the Ganges, Brahmaputra and Meghna rivers meet the Bay of Bengal. It is one of the most densely populated countries on Earth, with green rice fields and hundreds of rivers. It is known for its textiles, rickshaws and Bengali poetry. Royal Bengal tigers swim between the islands of its mangrove forest.",
+    "standout": {
+      "category": "Natural",
+      "text": "Bangladesh's Sundarbans is the world's largest mangrove forest, shared with India.",
+      "source": "https://en.wikipedia.org/wiki/Sundarbans",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Cox's Bazar has one of the longest unbroken natural sea beaches in the world, about 120 km.",
+      "International Mother Language Day, 21 February, began with Bangladesh's Bengali language movement.",
+      "Bangladesh is one of the world's largest makers of ready-made clothes."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical monsoon",
+    "coastlineKm": 580,
+    "longestRiver": {
+      "name": "Padma (Ganges)",
+      "km": 2525
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "26 Mar · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

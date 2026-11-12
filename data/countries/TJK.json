@@ -1,0 +1,34 @@
+{
+  "code": "TJK",
+  "name": "Tajikistan",
+  "status": "draft",
+  "content": {
+    "about": "Tajikistan is a landlocked country in Central Asia, and more than nine-tenths of it is mountains. The Pamirs, called the \"Roof of the World\", cover its east. Its people speak Tajik, a form of Persian. The Pamir Highway is one of the highest roads on Earth.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Fedchenko Glacier is one of the longest glaciers outside the polar regions.",
+      "source": "https://en.wikipedia.org/wiki/Fedchenko_Glacier",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Nurek Dam is one of the tallest dams in the world.",
+      "Ismoil Somoni Peak is its highest point, at 7,495 m.",
+      "Tajik embroidery called suzani decorates homes and weddings."
+    ]
+  },
+  "geography": {
+    "climate": "Continental to alpine",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Amu Darya (Panj)",
+      "km": 2540
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "9 Sep · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

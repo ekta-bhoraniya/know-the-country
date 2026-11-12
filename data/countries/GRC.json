@@ -1,0 +1,34 @@
+{
+  "code": "GRC",
+  "name": "Greece",
+  "status": "draft",
+  "content": {
+    "about": "Greece lies at the southern end of the Balkans, with about 6,000 islands in the Aegean and Ionian Seas. Ancient Greeks gave the world the Olympic Games, theatre and much of modern philosophy. Ruins like the Acropolis stand above its cities. Whitewashed villages with blue domes cover islands like Santorini.",
+    "standout": {
+      "category": "Intellectual and scientific",
+      "text": "Ancient Greece was the birthplace of democracy, in Athens in the 5th century BCE.",
+      "source": "https://en.wikipedia.org/wiki/Athenian_democracy",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Olympic Games began in Olympia around 776 BCE.",
+      "No place in Greece is more than about 140 km from the sea.",
+      "Greek is one of the oldest recorded living languages."
+    ]
+  },
+  "geography": {
+    "climate": "Mediterranean",
+    "coastlineKm": 13676,
+    "longestRiver": {
+      "name": "Aliakmonas",
+      "km": 297
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "25 Mar · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

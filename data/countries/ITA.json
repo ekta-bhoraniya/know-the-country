@@ -1,0 +1,34 @@
+{
+  "code": "ITA",
+  "name": "Italy",
+  "status": "draft",
+  "content": {
+    "about": "Italy is a boot-shaped peninsula in southern Europe, with the islands of Sicily and Sardinia. It was the heart of the Roman Empire and the birthplace of the Renaissance. Cities like Rome, Florence and Venice are full of art and history. Pizza and pasta are loved around the world.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Italy has more UNESCO World Heritage Sites than any other country.",
+      "source": "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Italy",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Two independent countries, San Marino and Vatican City, lie inside Italy.",
+      "Venice is built on more than 100 small islands.",
+      "Mount Etna in Sicily is one of the most active volcanoes in the world."
+    ]
+  },
+  "geography": {
+    "climate": "Mediterranean",
+    "coastlineKm": 7600,
+    "longestRiver": {
+      "name": "Po",
+      "km": 652
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "2 Jun · Republic Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

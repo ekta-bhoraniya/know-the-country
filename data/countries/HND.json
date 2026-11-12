@@ -1,0 +1,34 @@
+{
+  "code": "HND",
+  "name": "Honduras",
+  "status": "draft",
+  "content": {
+    "about": "Honduras is in Central America, with mountains, forests and a Caribbean coast. Its Bay Islands have coral reefs. Copán has Maya ruins. Whale sharks visit its waters.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Copán is famous for having some of the finest carved Maya sculptures.",
+      "source": "https://en.wikipedia.org/wiki/Cop%C3%A1n",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Bay Islands are on the Mesoamerican Reef.",
+      "Copán's hieroglyphic stairway is very long.",
+      "Bananas were a key export."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 820,
+    "longestRiver": {
+      "name": "Patuca",
+      "km": 500
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "15 Sep · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "GUY",
+  "name": "Guyana",
+  "status": "draft",
+  "content": {
+    "about": "Guyana is on South America's north coast. Most of it is rainforest. English is its official language. Kaieteur Falls is a famous waterfall.",
+    "standout": {
+      "category": "Natural",
+      "text": "Kaieteur Falls is one of the most powerful single-drop waterfalls in the world.",
+      "source": "https://en.wikipedia.org/wiki/Kaieteur_Falls",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Guyana is the only English-speaking country in South America.",
+      "Giant water lilies grow there.",
+      "Kaieteur is about 226 m tall."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 459,
+    "longestRiver": {
+      "name": "Essequibo",
+      "km": 1010
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "23 Feb · Republic Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

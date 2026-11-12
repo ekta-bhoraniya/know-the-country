@@ -1,0 +1,34 @@
+{
+  "code": "SMR",
+  "name": "San Marino",
+  "status": "draft",
+  "content": {
+    "about": "San Marino is a tiny country on the slopes of Mount Titano, surrounded entirely by Italy. Its three medieval towers sit on the mountain's peaks. It has its own government, stamps and coins. Its people have kept their independence for centuries.",
+    "standout": {
+      "category": "Cultural",
+      "text": "San Marino claims to be the world's oldest surviving republic, founded in 301.",
+      "source": "https://en.wikipedia.org/wiki/San_Marino",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "San Marino has two heads of state, the Captains Regent, who serve six months.",
+      "Its constitution, from 1600, is among the oldest still in use.",
+      "There are more cars than people in San Marino."
+    ]
+  },
+  "geography": {
+    "climate": "Mediterranean",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Ausa",
+      "km": 20
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "3 Sep · Foundation Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "NAM",
+  "name": "Namibia",
+  "status": "draft",
+  "content": {
+    "about": "Namibia is in southwest Africa, with the Namib Desert along its coast. Its red dunes at Sossusvlei are among the tallest in the world. Etosha has big wildlife. It is one of the least densely populated countries.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Namib is often called the world's oldest desert.",
+      "source": "https://en.wikipedia.org/wiki/Namib",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Sossusvlei has some of the tallest dunes.",
+      "Namibia was one of the first to protect its environment in its constitution.",
+      "Hoba meteorite is the largest known."
+    ]
+  },
+  "geography": {
+    "climate": "Desert",
+    "coastlineKm": 1572,
+    "longestRiver": {
+      "name": "Orange",
+      "km": 2200
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "21 Mar · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

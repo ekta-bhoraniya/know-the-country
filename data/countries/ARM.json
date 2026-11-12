@@ -1,0 +1,34 @@
+{
+  "code": "ARM",
+  "name": "Armenia",
+  "status": "draft",
+  "content": {
+    "about": "Armenia is a small, mountainous, landlocked country in the South Caucasus. It has one of the oldest Christian traditions in the world, with stone monasteries perched on cliffs. Mount Ararat, a symbol of the nation, is visible from its capital, Yerevan. Apricots and lavash flatbread are part of its identity.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Armenia became the first country to adopt Christianity as its state religion, in 301.",
+      "source": "https://en.wikipedia.org/wiki/Christianity_in_Armenia",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Armenian alphabet was created around 405 by Mesrop Mashtots.",
+      "The world's oldest known leather shoe, about 5,500 years old, was found in an Armenian cave.",
+      "Yerevan is one of the oldest continuously inhabited cities in the world."
+    ]
+  },
+  "geography": {
+    "climate": "Continental highland",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Aras",
+      "km": 1072
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "21 Sep · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

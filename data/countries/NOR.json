@@ -1,0 +1,63 @@
+{
+  "code": "NOR",
+  "name": "Norway",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "In northern Norway the sun does not set for weeks in summer.",
+      "Norway's sovereign wealth fund is the largest in the world.",
+      "Most new cars sold in Norway are fully electric."
+    ],
+    "about": "Norway runs along the western side of the Scandinavian Peninsula in northern Europe, with a coastline cut deep by fjords. It also governs the Arctic islands of Svalbard. Mountains, glaciers and northern lights draw visitors from around the world. Oil and gas made Norway one of the richest countries, and Norwegians are famous for cross-country skiing.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The Lærdal Tunnel, 24.5 km long, is the world's longest road tunnel.",
+      "source": "https://en.wikipedia.org/wiki/Norway",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 33,
+    "coastlineKm": 25148,
+    "highestPoint": {
+      "name": "Galdhøpiggen",
+      "m": 2469
+    },
+    "longestRiver": {
+      "name": "Glomma",
+      "km": 621
+    },
+    "climate": "Subarctic"
+  },
+  "people": {
+    "medianAge": 40,
+    "lifeExpectancy": 83,
+    "literacyPct": 99,
+    "urbanPct": 84
+  },
+  "government": {
+    "type": "Parliamentary constitutional monarchy",
+    "headOfState": "King Harald V",
+    "headOfGovernment": "Prime Minister Jonas Gahr Støre",
+    "asOf": "2026-06",
+    "nationalDay": "17 May · Constitution Day"
+  },
+  "economy": {
+    "population": {
+      "value": 5570000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 483000000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "bird": "White-throated dipper",
+    "flower": "Purple saxifrage",
+    "sport": "Cross-country skiing (popular)"
+  },
+  "practical": {
+    "unescoSites": 8
+  }
+}

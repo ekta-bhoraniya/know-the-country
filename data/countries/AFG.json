@@ -1,0 +1,34 @@
+{
+  "code": "AFG",
+  "name": "Afghanistan",
+  "status": "draft",
+  "content": {
+    "about": "Afghanistan is a mountainous, landlocked country in South and Central Asia, crossed by the high Hindu Kush range. For centuries it sat on the Silk Road between Persia, India and China, and its valleys hold ruins from many empires. It is known for its carpets, pomegranates and the deep blue lapis lazuli mined in its mountains. Snow leopards still roam its remote northeast.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Afghanistan's city of Balkh was one of the world's earliest centres of Zoroastrianism and is often called the \"Mother of Cities\".",
+      "source": "https://en.wikipedia.org/wiki/Balkh",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Wakhan Corridor, a thin strip of Afghanistan, reaches all the way to China.",
+      "Lapis lazuli from Badakhshan was used in Egypt's ancient treasures.",
+      "Buzkashi, played on horseback with a goat carcass, is a traditional national sport."
+    ]
+  },
+  "geography": {
+    "climate": "Arid continental",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Helmand",
+      "km": 1150
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "19 Aug · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

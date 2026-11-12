@@ -1,0 +1,34 @@
+{
+  "code": "CYP",
+  "name": "Cyprus",
+  "status": "draft",
+  "content": {
+    "about": "Cyprus is the third-largest island in the Mediterranean, south of Türkiye. Its sunny coast, mountains and old villages draw many visitors. It has ancient Greek, Roman and medieval ruins. Halloumi cheese comes from here.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Cyprus is the mythical birthplace of Aphrodite, the Greek goddess of love.",
+      "source": "https://en.wikipedia.org/wiki/Petra_tou_Romiou",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Halloumi cheese originated in Cyprus.",
+      "Cyprus has one of the oldest wines still made, Commandaria.",
+      "The island was a source of copper in ancient times."
+    ]
+  },
+  "geography": {
+    "climate": "Mediterranean",
+    "coastlineKm": 648,
+    "longestRiver": {
+      "name": "Pediaios",
+      "km": 98
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Oct · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

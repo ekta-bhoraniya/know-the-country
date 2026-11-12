@@ -1,0 +1,34 @@
+{
+  "code": "GHA",
+  "name": "Ghana",
+  "status": "draft",
+  "content": {
+    "about": "Ghana lies on the Gulf of Guinea in West Africa. It was the first sub-Saharan African country to gain independence from colonial rule, in 1957. Its coast has old castles from the slave trade. Kente cloth and cocoa are famous.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Lake Volta in Ghana is one of the largest artificial lakes by area.",
+      "source": "https://en.wikipedia.org/wiki/Lake_Volta",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Ghana was formerly called the Gold Coast.",
+      "Kente cloth is woven in strips.",
+      "Ghana is one of the world's top cocoa producers."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 539,
+    "longestRiver": {
+      "name": "Volta",
+      "km": 1500
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "6 Mar · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

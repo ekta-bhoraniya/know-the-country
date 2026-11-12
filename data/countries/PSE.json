@@ -1,0 +1,34 @@
+{
+  "code": "PSE",
+  "name": "Palestine",
+  "status": "draft",
+  "content": {
+    "about": "Palestine includes the West Bank and the Gaza Strip, on the eastern Mediterranean. Its land holds some of the world's most important religious sites, including in Bethlehem and Jerusalem. Olive trees and terraced hills are a large part of its landscape. Palestinian embroidery, called tatreez, is a treasured tradition.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Jericho is often cited as one of the oldest inhabited cities in the world.",
+      "source": "https://en.wikipedia.org/wiki/Jericho",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Jericho is also one of the lowest cities in the world, below sea level.",
+      "Olive oil and olive-wood carving have long been part of the economy.",
+      "Tatreez embroidery patterns differ from village to village."
+    ]
+  },
+  "geography": {
+    "climate": "Mediterranean",
+    "coastlineKm": 40,
+    "longestRiver": {
+      "name": "Jordan",
+      "km": 251
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "15 Nov · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

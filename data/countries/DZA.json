@@ -1,0 +1,34 @@
+{
+  "code": "DZA",
+  "name": "Algeria",
+  "status": "draft",
+  "content": {
+    "about": "Algeria is in North Africa, with a Mediterranean coast and the Sahara covering most of its land. Its Tassili n'Ajjer plateau has ancient rock art. Roman ruins stand at Timgad and Djémila. Couscous is a national dish.",
+    "standout": {
+      "category": "Natural",
+      "text": "Algeria is the largest country in Africa by area.",
+      "source": "https://en.wikipedia.org/wiki/Algeria",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Over 80% of Algeria is desert.",
+      "Tassili n'Ajjer rock art is thousands of years old.",
+      "Timgad is a well-preserved Roman town."
+    ]
+  },
+  "geography": {
+    "climate": "Desert to Mediterranean",
+    "coastlineKm": 998,
+    "longestRiver": {
+      "name": "Chelif",
+      "km": 700
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "5 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

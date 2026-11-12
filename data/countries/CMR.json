@@ -1,0 +1,34 @@
+{
+  "code": "CMR",
+  "name": "Cameroon",
+  "status": "draft",
+  "content": {
+    "about": "Cameroon is in Central Africa, with beaches, rainforests, mountains and savanna. It is often called \"Africa in miniature\" because it has almost every type of African landscape. It has over 250 languages. Football is a national passion.",
+    "standout": {
+      "category": "Natural",
+      "text": "Mount Cameroon is one of Africa's most active volcanoes and among the wettest places on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Cameroon",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Debundscha, near Mount Cameroon, is one of the rainiest places on Earth.",
+      "Both English and French are official languages.",
+      "Cameroon's national football team are known as the Indomitable Lions."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 402,
+    "longestRiver": {
+      "name": "Sanaga",
+      "km": 918
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "20 May · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

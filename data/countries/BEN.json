@@ -1,0 +1,34 @@
+{
+  "code": "BEN",
+  "name": "Benin",
+  "status": "draft",
+  "content": {
+    "about": "Benin is a narrow country in West Africa, stretching from the coast north to the Niger River. It was the home of the Kingdom of Dahomey. Ganvié, a village built on stilts in a lake, is home to thousands. Vodun is celebrated on a national holiday.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Benin is the birthplace of the Vodun (voodoo) religion.",
+      "source": "https://en.wikipedia.org/wiki/West_African_Vodun",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Ganvié is one of the largest lake villages in Africa.",
+      "Benin celebrates a national Vodun day each January.",
+      "The Dahomey Amazons were a famous all-female army."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 121,
+    "longestRiver": {
+      "name": "Ouémé",
+      "km": 510
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Aug · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

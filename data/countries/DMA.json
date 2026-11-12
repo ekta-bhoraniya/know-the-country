@@ -1,0 +1,34 @@
+{
+  "code": "DMA",
+  "name": "Dominica",
+  "status": "draft",
+  "content": {
+    "about": "Dominica is a mountainous Caribbean island covered in rainforest. It has hot springs, waterfalls and a boiling lake. It is called the \"Nature Island\". It is home to the Kalinago people.",
+    "standout": {
+      "category": "Natural",
+      "text": "Dominica's Boiling Lake is one of the largest hot lakes in the world.",
+      "source": "https://en.wikipedia.org/wiki/Boiling_Lake",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Dominica has many rivers.",
+      "Sperm whales live year-round off its coast.",
+      "The Sisserou parrot is on its flag."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 148,
+    "longestRiver": {
+      "name": "Layou",
+      "km": 20
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "3 Nov · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

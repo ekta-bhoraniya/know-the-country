@@ -1,0 +1,34 @@
+{
+  "code": "SDN",
+  "name": "Sudan",
+  "status": "draft",
+  "content": {
+    "about": "Sudan is in northeast Africa, where the Blue and White Nile meet at Khartoum. Most of it is desert or dry savanna. Ancient Nubian kingdoms built pyramids here. It is a top gum arabic producer.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Sudan has more pyramids than Egypt, at sites like Meroë.",
+      "source": "https://en.wikipedia.org/wiki/Nubian_pyramids",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Sudan has about 200 pyramids.",
+      "The two Niles meet at Khartoum.",
+      "Sudan produces much of the world's gum arabic."
+    ]
+  },
+  "geography": {
+    "climate": "Desert",
+    "coastlineKm": 853,
+    "longestRiver": {
+      "name": "Nile",
+      "km": 6650
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Jan · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

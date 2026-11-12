@@ -1,0 +1,34 @@
+{
+  "code": "SWE",
+  "name": "Sweden",
+  "status": "draft",
+  "content": {
+    "about": "Sweden is a long Nordic country in northern Europe, with forests, lakes and a coast of many islands. Its north has reindeer herding and the midnight sun. It is known for design, music and the Nobel Prizes. Stockholm is built on 14 islands.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The Icehotel in Jukkasjärvi was the world's first hotel built entirely of ice and snow.",
+      "source": "https://en.wikipedia.org/wiki/Icehotel_(Jukkasj%C3%A4rvi)",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Alfred Nobel, who founded the Nobel Prizes, was Swedish.",
+      "Sweden has about 267,000 islands.",
+      "Anyone may walk and camp on most land under the \"right of public access\"."
+    ]
+  },
+  "geography": {
+    "climate": "Temperate to subarctic",
+    "coastlineKm": 3218,
+    "longestRiver": {
+      "name": "Klarälven–Göta",
+      "km": 720
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "6 Jun · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

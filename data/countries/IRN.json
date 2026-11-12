@@ -1,0 +1,34 @@
+{
+  "code": "IRN",
+  "name": "Iran",
+  "status": "draft",
+  "content": {
+    "about": "Iran sits between the Caspian Sea and the Persian Gulf, a land of high plateaus, deserts and snowy mountains. It is home to one of the world's oldest civilisations, and its cities hold blue-tiled mosques, gardens and bazaars. Persian poetry, carpets and saffron are famous worldwide. In ancient times, Iranians built underground channels called qanats to carry water across the desert.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Persepolis, built about 2,500 years ago, was the ceremonial capital of the Persian Achaemenid Empire.",
+      "source": "https://en.wikipedia.org/wiki/Persepolis",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Iran grows most of the world's saffron.",
+      "The game of polo has deep roots in ancient Persia.",
+      "Nowruz, the Persian New Year, begins on the first day of spring."
+    ]
+  },
+  "geography": {
+    "climate": "Arid and semi-arid",
+    "coastlineKm": 2440,
+    "longestRiver": {
+      "name": "Karun",
+      "km": 950
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Apr · Islamic Republic Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

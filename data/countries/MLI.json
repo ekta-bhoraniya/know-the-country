@@ -1,0 +1,34 @@
+{
+  "code": "MLI",
+  "name": "Mali",
+  "status": "draft",
+  "content": {
+    "about": "Mali is a large, landlocked country in West Africa, with the Sahara in the north and the Niger River in the south. It was home to great empires and the city of Timbuktu. Mansa Musa, its medieval ruler, may have been the richest person ever. Its music is world-famous.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The Great Mosque of Djenné is the largest mud-brick building in the world.",
+      "source": "https://en.wikipedia.org/wiki/Great_Mosque_of_Djenn%C3%A9",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Timbuktu had famous libraries of manuscripts.",
+      "Djenné's mosque is re-plastered each year.",
+      "Mansa Musa's pilgrimage made Mali famous."
+    ]
+  },
+  "geography": {
+    "climate": "Desert to tropical",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Niger",
+      "km": 4180
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "22 Sep · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

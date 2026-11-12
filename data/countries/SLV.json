@@ -1,0 +1,34 @@
+{
+  "code": "SLV",
+  "name": "El Salvador",
+  "status": "draft",
+  "content": {
+    "about": "El Salvador is the smallest country in Central America. It has volcanoes and Pacific beaches. Surfing is popular. Pupusas are its national dish.",
+    "standout": {
+      "category": "Natural",
+      "text": "El Salvador is the smallest country in Central America by area.",
+      "source": "https://en.wikipedia.org/wiki/El_Salvador",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "El Salvador adopted bitcoin as legal tender in 2021.",
+      "Pupusas are its national dish.",
+      "It has over 20 volcanoes."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 307,
+    "longestRiver": {
+      "name": "Lempa",
+      "km": 422
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "15 Sep · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

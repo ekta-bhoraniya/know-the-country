@@ -1,0 +1,65 @@
+{
+  "code": "BTN",
+  "name": "Bhutan",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "Bhutan measures progress with Gross National Happiness.",
+      "Bhutan is carbon negative: its forests absorb more CO₂ than the country emits.",
+      "Its constitution requires at least 60% of the land to stay forested."
+    ],
+    "about": "Bhutan is a small mountain kingdom in the eastern Himalayas, between India and China. Most of it is covered by forest, and its valleys are dotted with fortress-monasteries called dzongs. It limits tourism to protect its culture and nature. Bhutan is known for measuring success by its people's happiness, not just its wealth.",
+    "standout": {
+      "category": "Natural",
+      "text": "Gangkhar Puensum, at 7,570 m, is the world's highest unclimbed mountain.",
+      "source": "https://en.wikipedia.org/wiki/Bhutan",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 71,
+    "coastlineKm": 0,
+    "highestPoint": {
+      "name": "Gangkhar Puensum",
+      "m": 7570
+    },
+    "longestRiver": {
+      "name": "Manas",
+      "km": 376
+    },
+    "climate": "Subtropical to alpine"
+  },
+  "people": {
+    "medianAge": 29,
+    "lifeExpectancy": 72,
+    "literacyPct": 71,
+    "urbanPct": 44
+  },
+  "government": {
+    "type": "Parliamentary constitutional monarchy",
+    "headOfState": "King Jigme Khesar Namgyel Wangchuck",
+    "headOfGovernment": "Prime Minister Tshering Tobgay",
+    "asOf": "2026-06",
+    "nationalDay": "17 Dec · National Day"
+  },
+  "economy": {
+    "population": {
+      "value": 791000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 3100000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "animal": "Takin",
+    "bird": "Raven",
+    "flower": "Blue poppy",
+    "tree": "Bhutan cypress",
+    "sport": "Archery"
+  },
+  "practical": {
+    "unescoSites": 0
+  }
+}

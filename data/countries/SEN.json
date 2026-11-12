@@ -1,0 +1,34 @@
+{
+  "code": "SEN",
+  "name": "Senegal",
+  "status": "draft",
+  "content": {
+    "about": "Senegal is the westernmost country of mainland Africa. Dakar, its capital, sits on a peninsula. It is known for music, wrestling and teranga, meaning hospitality. Gorée Island is a memorial to the slave trade.",
+    "standout": {
+      "category": "Natural",
+      "text": "Lake Retba, or Lac Rose, turns pink because of salt-loving algae.",
+      "source": "https://en.wikipedia.org/wiki/Lake_Retba",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Senegalese wrestling is hugely popular.",
+      "Lac Rose looks pink.",
+      "The African Renaissance Monument is taller than the Statue of Liberty."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 531,
+    "longestRiver": {
+      "name": "Senegal",
+      "km": 1086
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "4 Apr · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "PRT",
+  "name": "Portugal",
+  "status": "draft",
+  "content": {
+    "about": "Portugal lies on the western edge of the Iberian Peninsula, facing the Atlantic. It also includes the Azores and Madeira islands. Its explorers mapped much of the world's oceans in the 1400s and 1500s. It is famous for tiles, fado music and custard tarts.",
+    "standout": {
+      "category": "Intellectual and scientific",
+      "text": "Portuguese explorer Vasco da Gama was the first European to reach India by sea, in 1498.",
+      "source": "https://en.wikipedia.org/wiki/Vasco_da_Gama",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Portugal produces about half of the world's cork.",
+      "Lisbon is older than Rome.",
+      "Nazaré has some of the biggest surfable waves in the world."
+    ]
+  },
+  "geography": {
+    "climate": "Mediterranean",
+    "coastlineKm": 1793,
+    "longestRiver": {
+      "name": "Tagus",
+      "km": 1007
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "10 Jun · Portugal Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "UZB",
+  "name": "Uzbekistan",
+  "status": "draft",
+  "content": {
+    "about": "Uzbekistan lies in the heart of Central Asia and is one of only two doubly landlocked countries. Its cities of Samarkand, Bukhara and Khiva were stops on the Silk Road. Blue-tiled domes and minarets rise above their old towns. Plov, rice cooked with meat and carrots, is its national dish.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Samarkand's Registan square is one of the great architectural ensembles of the Islamic world.",
+      "source": "https://en.wikipedia.org/wiki/Registan",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Uzbekistan is one of the world's two doubly landlocked countries, with Liechtenstein.",
+      "The Aral Sea, on its border, has shrunk dramatically since the 1960s.",
+      "Al-Khwarizmi, whose name gave us the word \"algorithm\", came from this region."
+    ]
+  },
+  "geography": {
+    "climate": "Arid continental",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Amu Darya",
+      "km": 2540
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Sep · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

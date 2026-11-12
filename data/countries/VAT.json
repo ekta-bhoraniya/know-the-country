@@ -1,0 +1,48 @@
+{
+  "code": "VAT",
+  "name": "Vatican City",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "Vatican City is the smallest country in the world, at about 0.44 km².",
+      "The Vatican is protected by the Swiss Guard, founded in 1506.",
+      "The whole country could fit inside New York's Central Park about eight times."
+    ],
+    "about": "Vatican City is a tiny walled country inside the city of Rome, Italy. It is the home of the Pope and the centre of the Catholic Church. St Peter's Basilica and the Sistine Chapel, with Michelangelo's painted ceiling, are among its treasures. Fewer than a thousand people live there, but millions of visitors come every year.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Vatican City is the only country whose entire territory is a UNESCO World Heritage Site.",
+      "source": "https://en.wikipedia.org/wiki/Vatican_City",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "coastlineKm": 0,
+    "highestPoint": {
+      "name": "Vatican Hill",
+      "m": 75
+    },
+    "climate": "Mediterranean"
+  },
+  "people": {
+    "literacyPct": 100,
+    "urbanPct": 100
+  },
+  "government": {
+    "type": "Absolute elective monarchy (theocracy)",
+    "headOfState": "Pope Leo XIV",
+    "headOfGovernment": "President of the Governorate Raffaella Petrini",
+    "asOf": "2026-06",
+    "nationalDay": "8 May · Anniversary of the Pope's election"
+  },
+  "economy": {
+    "population": {
+      "value": 800,
+      "year": 2023
+    }
+  },
+  "symbols": {},
+  "practical": {
+    "unescoSites": 2
+  }
+}

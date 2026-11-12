@@ -1,0 +1,15 @@
+{
+  "name": "know-the-state",
+  "private": true,
+  "description": "Spin a wheel, land on a random country, learn about it.",
+  "scripts": {
+    "borders": "node scripts/fetch-borders.js",
+    "import": "node scripts/import-worldbank.js && node scripts/import-wikidata.js",
+    "validate": "node scripts/validate.js",
+    "build": "node scripts/validate.js && node scripts/build.js"
+  },
+  "devDependencies": {
+    "mapshaper": "0.6.113",
+    "world-countries": "5.1.0"
+  }
+}

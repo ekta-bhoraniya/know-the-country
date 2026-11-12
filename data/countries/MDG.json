@@ -1,0 +1,34 @@
+{
+  "code": "MDG",
+  "name": "Madagascar",
+  "status": "draft",
+  "content": {
+    "about": "Madagascar is the world's fourth-largest island, in the Indian Ocean off southeast Africa. It split from other land millions of years ago, so most of its plants and animals evolved alone. Lemurs live only here. Its Avenue of the Baobabs is lined with giant trees.",
+    "standout": {
+      "category": "Wildlife",
+      "text": "About 90% of Madagascar's wildlife is found nowhere else on Earth.",
+      "source": "https://en.wikipedia.org/wiki/Wildlife_of_Madagascar",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Lemurs are found naturally only in Madagascar.",
+      "Madagascar grows much of the world's vanilla.",
+      "Six of the world's eight baobab species are native to Madagascar."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 4828,
+    "longestRiver": {
+      "name": "Mangoky",
+      "km": 564
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "26 Jun · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

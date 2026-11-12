@@ -1,0 +1,34 @@
+{
+  "code": "MWI",
+  "name": "Malawi",
+  "status": "draft",
+  "content": {
+    "about": "Malawi is a narrow, landlocked country in southeast Africa, with Lake Malawi along much of its length. It is known as \"the warm heart of Africa\". Tea and tobacco are grown on its hills. Colourful cichlid fish fill its lake.",
+    "standout": {
+      "category": "Natural",
+      "text": "Lake Malawi has more species of fish than any other lake in the world.",
+      "source": "https://en.wikipedia.org/wiki/Lake_Malawi",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Lake Malawi has hundreds of cichlid species.",
+      "The lake covers about a fifth of the country.",
+      "Mount Mulanje rises over 3,000 m."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Shire",
+      "km": 402
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "6 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

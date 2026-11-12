@@ -1,0 +1,34 @@
+{
+  "code": "CHN",
+  "name": "China",
+  "status": "draft",
+  "content": {
+    "about": "China covers a huge part of East Asia, from the Himalayas and deserts in the west to busy coastal cities in the east. It is one of the world's oldest continuous civilisations and its most populous country after India. Paper, printing, gunpowder and the compass were all invented there. Giant pandas live in its bamboo forests.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The Great Wall of China, built over many centuries, stretches for thousands of kilometres.",
+      "source": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "China officially uses a single time zone for the whole country.",
+      "The Three Gorges Dam is the world's largest power station by capacity.",
+      "China grows more tea than any other country."
+    ]
+  },
+  "geography": {
+    "climate": "Varied, from desert to tropical",
+    "coastlineKm": 14500,
+    "longestRiver": {
+      "name": "Yangtze",
+      "km": 6300
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Oct · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

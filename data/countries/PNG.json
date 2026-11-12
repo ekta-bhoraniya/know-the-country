@@ -1,0 +1,34 @@
+{
+  "code": "PNG",
+  "name": "Papua New Guinea",
+  "status": "draft",
+  "content": {
+    "about": "Papua New Guinea occupies the eastern half of New Guinea and many islands. It has mountains, rainforests and coral reefs. Birds of paradise live there. It has over 800 languages.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Papua New Guinea has over 800 languages, more than any other country.",
+      "source": "https://en.wikipedia.org/wiki/Languages_of_Papua_New_Guinea",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "PNG has the most languages in the world.",
+      "Birds of paradise are on its flag.",
+      "The Kokoda Track is famous."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 5152,
+    "longestRiver": {
+      "name": "Sepik",
+      "km": 1126
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "16 Sep · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,30 @@
+{
+  "code": "LBY",
+  "name": "Libya",
+  "status": "draft",
+  "content": {
+    "about": "Libya is in North Africa, with Mediterranean coast and most land in the Sahara. It has Greek and Roman ruins. Most people live near the coast. Its desert holds big underground water reserves.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Leptis Magna is one of the best-preserved Roman cities in the Mediterranean.",
+      "source": "https://en.wikipedia.org/wiki/Leptis_Magna",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Libya has no permanent rivers.",
+      "The Great Man-Made River pipes water from desert aquifers.",
+      "Ghadames is an old desert town."
+    ]
+  },
+  "geography": {
+    "climate": "Desert",
+    "coastlineKm": 1770
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "24 Dec · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

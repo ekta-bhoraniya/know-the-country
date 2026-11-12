@@ -1,0 +1,65 @@
+{
+  "code": "IND",
+  "name": "India",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "India has 22 languages listed in its constitution's Eighth Schedule.",
+      "Mawsynram in Meghalaya is often listed as one of the wettest inhabited places on Earth.",
+      "The game of chess grew out of chaturanga, played in India around the 6th century."
+    ],
+    "about": "India fills most of South Asia, running from the snowy Himalayas in the north to tropical beaches in the south, and includes the Andaman, Nicobar and Lakshadweep islands. It is the world's most populous country, home to ancient temples, the Taj Mahal and hundreds of languages. Its food, festivals like Diwali and Holi, and film industry are loved worldwide. Tigers, elephants and snow leopards all live within its borders.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The Statue of Unity in Gujarat, 182 m tall, is the world's tallest statue.",
+      "source": "https://en.wikipedia.org/wiki/India",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 24,
+    "coastlineKm": 11098,
+    "highestPoint": {
+      "name": "Kangchenjunga",
+      "m": 8586
+    },
+    "longestRiver": {
+      "name": "Ganges",
+      "km": 2525
+    },
+    "climate": "Tropical monsoon"
+  },
+  "people": {
+    "medianAge": 28,
+    "lifeExpectancy": 72,
+    "literacyPct": 77,
+    "urbanPct": 37
+  },
+  "government": {
+    "type": "Federal parliamentary republic",
+    "headOfState": "President Droupadi Murmu",
+    "headOfGovernment": "Prime Minister Narendra Modi",
+    "asOf": "2026-06",
+    "nationalDay": "26 Jan · Republic Day"
+  },
+  "economy": {
+    "population": {
+      "value": 1451000000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 3910000000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "animal": "Bengal tiger",
+    "bird": "Indian peafowl",
+    "flower": "Lotus",
+    "tree": "Banyan",
+    "sport": "Field hockey (popular)"
+  },
+  "practical": {
+    "unescoSites": 44
+  }
+}

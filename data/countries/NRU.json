@@ -1,0 +1,30 @@
+{
+  "code": "NRU",
+  "name": "Nauru",
+  "status": "draft",
+  "content": {
+    "about": "Nauru is a tiny island in the Pacific. It was mined for phosphate. It has no official capital. You can drive around it in about 20 minutes.",
+    "standout": {
+      "category": "Natural",
+      "text": "Nauru is the smallest island country in the world.",
+      "source": "https://en.wikipedia.org/wiki/Nauru",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Nauru has no official capital.",
+      "A road circles the island.",
+      "It was once very rich from phosphate."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 30
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "31 Jan · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "SOM",
+  "name": "Somalia",
+  "status": "draft",
+  "content": {
+    "about": "Somalia sits on the Horn of Africa and has the longest coastline in mainland Africa. Most of its land is dry plains. Camel herding is a big part of life. Somali poetry has a strong oral tradition.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Las Geel caves in the Somali region hold some of Africa's best-preserved ancient rock paintings.",
+      "source": "https://en.wikipedia.org/wiki/Laas_Geel",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Somalia has one of the largest camel populations in the world.",
+      "Somalia is sometimes called a \"nation of poets\".",
+      "Its coastline is about 3,000 km long."
+    ]
+  },
+  "geography": {
+    "climate": "Desert",
+    "coastlineKm": 3025,
+    "longestRiver": {
+      "name": "Jubba",
+      "km": 1000
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

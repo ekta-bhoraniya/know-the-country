@@ -1,0 +1,34 @@
+{
+  "code": "USA",
+  "name": "United States",
+  "status": "draft",
+  "content": {
+    "about": "The United States stretches across North America from the Atlantic to the Pacific, plus Alaska and Hawaii. It has deserts, mountains, forests and big cities. It is a world leader in technology and film. The Grand Canyon is one of its famous sights.",
+    "standout": {
+      "category": "Natural",
+      "text": "Yellowstone, created in 1872, was the world's first national park.",
+      "source": "https://en.wikipedia.org/wiki/Yellowstone_National_Park",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The US has no official language at the federal level.",
+      "Alaska's Denali is North America's highest peak.",
+      "Hawaii is still growing from volcanic eruptions."
+    ]
+  },
+  "geography": {
+    "climate": "Varied",
+    "coastlineKm": 19924,
+    "longestRiver": {
+      "name": "Missouri",
+      "km": 3767
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "4 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

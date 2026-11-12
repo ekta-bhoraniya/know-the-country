@@ -1,0 +1,34 @@
+{
+  "code": "VNM",
+  "name": "Vietnam",
+  "status": "draft",
+  "content": {
+    "about": "Vietnam is a long, S-shaped country along the eastern edge of mainland Southeast Asia. Its north has limestone peaks like those of Ha Long Bay, and its south has the green Mekong Delta. Busy cities such as Hanoi and Ho Chi Minh City are filled with motorbikes and street food. Pho noodle soup is its best-known dish.",
+    "standout": {
+      "category": "Natural",
+      "text": "Son Doong in Vietnam is the world's largest known cave passage.",
+      "source": "https://en.wikipedia.org/wiki/Son_Doong_cave",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Vietnam is one of the world's largest coffee exporters.",
+      "Ha Long Bay has about 1,600 limestone islands and islets.",
+      "Water puppetry, performed on a pool, is a centuries-old Vietnamese art."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 3444,
+    "longestRiver": {
+      "name": "Mekong",
+      "km": 4900
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "2 Sep · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

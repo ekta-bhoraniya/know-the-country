@@ -1,0 +1,34 @@
+{
+  "code": "STP",
+  "name": "São Tomé and Príncipe",
+  "status": "draft",
+  "content": {
+    "about": "São Tomé and Príncipe is a small island country in the Gulf of Guinea, off Central Africa. Its two main islands are volcanic and covered in rainforest. It was once a top cocoa producer. Many plants and birds there are found nowhere else.",
+    "standout": {
+      "category": "Natural",
+      "text": "Pico Cão Grande is a dramatic volcanic spire rising about 300 m above the jungle.",
+      "source": "https://en.wikipedia.org/wiki/Pico_C%C3%A3o_Grande",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The equator passes through an islet just south of São Tomé.",
+      "It is Africa's second-smallest country by population.",
+      "Its cocoa is prized by chocolate makers."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 209,
+    "longestRiver": {
+      "name": "Ió Grande",
+      "km": 25
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "12 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

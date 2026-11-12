@@ -1,0 +1,34 @@
+{
+  "code": "AZE",
+  "name": "Azerbaijan",
+  "status": "draft",
+  "content": {
+    "about": "Azerbaijan sits between the Caspian Sea and the Caucasus Mountains, where Eastern Europe meets Western Asia. Baku, its capital, mixes a walled old town with modern glass towers. It was one of the first places in the world to drill for oil industrially. Its name is often linked to fire, and flames burn naturally on Yanar Dag hillside.",
+    "standout": {
+      "category": "Natural",
+      "text": "Azerbaijan has nearly half of the world's mud volcanoes.",
+      "source": "https://en.wikipedia.org/wiki/Mud_volcano",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Yanar Dag is a hillside where natural gas has burned for centuries.",
+      "Baku lies below sea level.",
+      "The Flame Towers are three skyscrapers shaped like flames."
+    ]
+  },
+  "geography": {
+    "climate": "Semi-arid",
+    "coastlineKm": 713,
+    "longestRiver": {
+      "name": "Kura",
+      "km": 1364
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "28 May · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

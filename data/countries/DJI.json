@@ -1,0 +1,30 @@
+{
+  "code": "DJI",
+  "name": "Djibouti",
+  "status": "draft",
+  "content": {
+    "about": "Djibouti is a small country in the Horn of Africa, at the entrance to the Red Sea. It is hot and dry, with salt lakes and volcanic landscapes. Its port is one of the busiest in the region. Whale sharks gather in its waters each winter.",
+    "standout": {
+      "category": "Natural",
+      "text": "Lake Assal in Djibouti is the lowest point in Africa, about 155 m below sea level.",
+      "source": "https://en.wikipedia.org/wiki/Lake_Assal_(Djibouti)",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Lake Assal is one of the saltiest lakes in the world.",
+      "Lac Abbé has limestone chimneys that release steam.",
+      "Whale sharks gather in the Gulf of Tadjoura."
+    ]
+  },
+  "geography": {
+    "climate": "Desert",
+    "coastlineKm": 314
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "27 Jun · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

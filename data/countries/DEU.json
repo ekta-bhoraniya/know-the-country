@@ -1,0 +1,64 @@
+{
+  "code": "DEU",
+  "name": "Germany",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "Germany borders nine countries, more than any other in Europe except Russia.",
+      "The printing press with movable type was developed in Mainz around 1440.",
+      "Germany has more than 20,000 castles."
+    ],
+    "about": "Germany sits in the middle of Europe, from the North and Baltic Seas down to the Alps. Its cities, like Berlin, Munich and Hamburg, mix old castles and cathedrals with modern design. It is known for its cars, beer festivals and Christmas markets. Composers such as Bach and Beethoven were born here.",
+    "standout": {
+      "category": "Intellectual and scientific",
+      "text": "Karl Benz built the first practical petrol-powered car in Germany in 1885.",
+      "source": "https://en.wikipedia.org/wiki/Germany",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 33,
+    "coastlineKm": 2389,
+    "highestPoint": {
+      "name": "Zugspitze",
+      "m": 2962
+    },
+    "longestRiver": {
+      "name": "Rhine",
+      "km": 1230
+    },
+    "climate": "Temperate"
+  },
+  "people": {
+    "medianAge": 46,
+    "lifeExpectancy": 81,
+    "literacyPct": 99,
+    "urbanPct": 78
+  },
+  "government": {
+    "type": "Federal parliamentary republic",
+    "headOfState": "President Frank-Walter Steinmeier",
+    "headOfGovernment": "Chancellor Friedrich Merz",
+    "asOf": "2026-06",
+    "nationalDay": "3 Oct · German Unity Day"
+  },
+  "economy": {
+    "population": {
+      "value": 83500000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 4660000000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "animal": "Eagle (traditional)",
+    "flower": "Cornflower (traditional)",
+    "tree": "Oak (traditional)",
+    "sport": "Football (popular)"
+  },
+  "practical": {
+    "unescoSites": 55
+  }
+}

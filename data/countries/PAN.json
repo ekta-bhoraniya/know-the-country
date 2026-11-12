@@ -1,0 +1,34 @@
+{
+  "code": "PAN",
+  "name": "Panama",
+  "status": "draft",
+  "content": {
+    "about": "Panama connects Central and South America. The Panama Canal cuts across it. It has rainforests and islands. Panama City has a modern skyline.",
+    "standout": {
+      "category": "Man-made",
+      "text": "The Panama Canal links the Atlantic and Pacific Oceans.",
+      "source": "https://en.wikipedia.org/wiki/Panama_Canal",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "You can see the sun rise over the Pacific in Panama.",
+      "The canal opened in 1914.",
+      "Panama hats come from Ecuador."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 2490,
+    "longestRiver": {
+      "name": "Chucunaque",
+      "km": 231
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "3 Nov · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

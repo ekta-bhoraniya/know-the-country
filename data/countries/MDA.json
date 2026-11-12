@@ -1,0 +1,34 @@
+{
+  "code": "MDA",
+  "name": "Moldova",
+  "status": "draft",
+  "content": {
+    "about": "Moldova is a small, landlocked country between Romania and Ukraine. It has gentle hills, rich black soil and many vineyards. Wine is central to its culture. Orheiul Vechi has a monastery carved into a limestone cliff.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Moldova's Mileștii Mici has one of the largest wine collections in the world, in tunnels underground.",
+      "source": "https://en.wikipedia.org/wiki/Mile%C8%99tii_Mici",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Mileștii Mici's wine cellars stretch for about 200 km.",
+      "Moldova is one of the least visited countries in Europe.",
+      "Romanian is its official language."
+    ]
+  },
+  "geography": {
+    "climate": "Continental",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Dniester",
+      "km": 1362
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "27 Aug · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

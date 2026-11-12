@@ -1,0 +1,30 @@
+{
+  "code": "MLT",
+  "name": "Malta",
+  "status": "draft",
+  "content": {
+    "about": "Malta is a small island country in the middle of the Mediterranean, south of Sicily. Its golden stone cities, harbours and forts reflect a long history of knights and sailors. Valletta, the capital, is one of the smallest capitals in the EU. Its ancient temples are among the oldest free-standing buildings on Earth.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Malta's Ġgantija temples are older than Stonehenge and the pyramids of Giza.",
+      "source": "https://en.wikipedia.org/wiki/%C4%A0gantija",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Malta has no rivers or lakes that flow all year.",
+      "Maltese is the only Semitic language official in the EU.",
+      "Malta was awarded the George Cross for bravery in the Second World War."
+    ]
+  },
+  "geography": {
+    "climate": "Mediterranean",
+    "coastlineKm": 197
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "21 Sep · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

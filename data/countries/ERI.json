@@ -1,0 +1,34 @@
+{
+  "code": "ERI",
+  "name": "Eritrea",
+  "status": "draft",
+  "content": {
+    "about": "Eritrea is on the Horn of Africa, along the Red Sea coast. Its highlands are cool, while the Danakil Depression is one of the hottest places on Earth. Asmara, its capital, has art deco cafés and cinemas. The Dahlak Archipelago has coral reefs.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Asmara is known for one of the world's largest collections of modernist buildings from the early 1900s.",
+      "source": "https://en.wikipedia.org/wiki/Asmara",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Asmara is a UNESCO World Heritage city.",
+      "Eritrea has nine recognised ethnic groups.",
+      "The Danakil area is one of the hottest places on Earth."
+    ]
+  },
+  "geography": {
+    "climate": "Desert to highland",
+    "coastlineKm": 2234,
+    "longestRiver": {
+      "name": "Tekezé",
+      "km": 608
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "24 May · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

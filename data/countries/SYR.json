@@ -1,0 +1,34 @@
+{
+  "code": "SYR",
+  "name": "Syria",
+  "status": "draft",
+  "content": {
+    "about": "Syria lies on the eastern Mediterranean, with a fertile coast, mountains and a large dry interior. Its cities, such as Damascus and Aleppo, have been lived in for thousands of years. Ancient sites like Palmyra and the Crusader castle Krak des Chevaliers stand on its land. Damascus steel was once famous across the world.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Damascus is one of the oldest continuously inhabited cities in the world.",
+      "source": "https://en.wikipedia.org/wiki/Damascus",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Aleppo soap, made from olive and laurel oil, has been produced for centuries.",
+      "Krak des Chevaliers is one of the best-preserved medieval castles.",
+      "Ugarit, in Syria, used one of the earliest alphabets."
+    ]
+  },
+  "geography": {
+    "climate": "Mediterranean to desert",
+    "coastlineKm": 193,
+    "longestRiver": {
+      "name": "Euphrates",
+      "km": 2800
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "17 Apr · Evacuation Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

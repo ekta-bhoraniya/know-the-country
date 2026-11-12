@@ -1,0 +1,30 @@
+{
+  "code": "SLB",
+  "name": "Solomon Islands",
+  "status": "draft",
+  "content": {
+    "about": "Solomon Islands is a Pacific country of nearly 1,000 islands. It has rainforests and coral lagoons. Many WWII wrecks lie in its waters. Shell money is a tradition.",
+    "standout": {
+      "category": "Natural",
+      "text": "Marovo Lagoon is one of the largest saltwater lagoons in the world.",
+      "source": "https://en.wikipedia.org/wiki/Marovo_Lagoon",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Shell money is still used in ceremonies.",
+      "Iron Bottom Sound has many shipwrecks.",
+      "It has many languages."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 5313
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "7 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

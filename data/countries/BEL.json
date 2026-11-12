@@ -1,0 +1,34 @@
+{
+  "code": "BEL",
+  "name": "Belgium",
+  "status": "draft",
+  "content": {
+    "about": "Belgium is a small country in Western Europe on the North Sea, with three official languages: Dutch, French and German. Its cities, like Bruges and Ghent, have canals and medieval squares. It is famous for chocolate, waffles and fries. Brussels is home to the main institutions of the European Union.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Belgium is home to one of the largest comic strip traditions in the world, including Tintin and the Smurfs.",
+      "source": "https://en.wikipedia.org/wiki/Belgian_comics",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Belgium makes hundreds of thousands of tonnes of chocolate a year.",
+      "The saxophone was invented by Belgian Adolphe Sax.",
+      "Belgium has over 1,000 kinds of beer."
+    ]
+  },
+  "geography": {
+    "climate": "Temperate maritime",
+    "coastlineKm": 67,
+    "longestRiver": {
+      "name": "Meuse",
+      "km": 925
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "21 Jul · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

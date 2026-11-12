@@ -1,0 +1,64 @@
+{
+  "code": "AUS",
+  "name": "Australia",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "Australia is the only country that covers an entire continent's mainland.",
+      "The Great Barrier Reef is the largest coral reef system on Earth.",
+      "Voting in Australian federal elections is compulsory."
+    ],
+    "about": "Australia is both a country and a continent, set between the Indian and Pacific Oceans, and includes the island of Tasmania. Most people live along the coast, while the vast dry interior is known as the Outback. It is famous for Sydney's Opera House, Uluru and the Great Barrier Reef. Kangaroos, koalas and platypuses are found naturally nowhere else.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Great Barrier Reef is the world's largest coral reef system, visible from space.",
+      "source": "https://en.wikipedia.org/wiki/Australia",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 17,
+    "coastlineKm": 25760,
+    "highestPoint": {
+      "name": "Mount Kosciuszko",
+      "m": 2228
+    },
+    "longestRiver": {
+      "name": "Murray",
+      "km": 2508
+    },
+    "climate": "Arid"
+  },
+  "people": {
+    "medianAge": 38,
+    "lifeExpectancy": 83,
+    "literacyPct": 99,
+    "urbanPct": 87
+  },
+  "government": {
+    "type": "Federal parliamentary constitutional monarchy",
+    "headOfState": "King Charles III",
+    "headOfGovernment": "Prime Minister Anthony Albanese",
+    "asOf": "2026-06",
+    "nationalDay": "26 Jan · Australia Day"
+  },
+  "economy": {
+    "population": {
+      "value": 27200000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 1800000000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "animal": "Kangaroo (traditional)",
+    "bird": "Emu (traditional)",
+    "flower": "Golden wattle",
+    "sport": "Cricket (popular)"
+  },
+  "practical": {
+    "unescoSites": 21
+  }
+}

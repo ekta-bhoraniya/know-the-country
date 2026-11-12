@@ -1,0 +1,34 @@
+{
+  "code": "SSD",
+  "name": "South Sudan",
+  "status": "draft",
+  "content": {
+    "about": "South Sudan is a landlocked country in East-Central Africa and the world's newest country, independent since 2011. The White Nile flows through its centre, forming the Sudd, one of the world's largest wetlands. Many of its people herd cattle. Its capital is Juba.",
+    "standout": {
+      "category": "Wildlife",
+      "text": "South Sudan hosts one of the largest land mammal migrations, of antelopes across its grasslands.",
+      "source": "https://en.wikipedia.org/wiki/Boma_National_Park",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "South Sudan became independent on 9 July 2011.",
+      "The Sudd wetland can cover tens of thousands of square kilometres.",
+      "Cattle are central to many South Sudanese cultures."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "White Nile",
+      "km": 3700
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "9 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

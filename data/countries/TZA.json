@@ -1,0 +1,34 @@
+{
+  "code": "TZA",
+  "name": "Tanzania",
+  "status": "draft",
+  "content": {
+    "about": "Tanzania is in East Africa, with the Indian Ocean coast and islands like Zanzibar. It has Mount Kilimanjaro and the Serengeti plains. The Great Migration of wildebeest crosses its parks. Swahili is its national language.",
+    "standout": {
+      "category": "Natural",
+      "text": "Kilimanjaro, at 5,895 m, is the highest mountain in Africa.",
+      "source": "https://en.wikipedia.org/wiki/Mount_Kilimanjaro",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Ngorongoro Crater is the world's largest unbroken volcanic caldera.",
+      "Zanzibar is famous for spices.",
+      "Tanzania borders three great lakes."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 1424,
+    "longestRiver": {
+      "name": "Rufiji",
+      "km": 600
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "26 Apr · Union Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "TGO",
+  "name": "Togo",
+  "status": "draft",
+  "content": {
+    "about": "Togo is a narrow country in West Africa. Its coast has lagoons and palm trees. Koutammakou has unique mud tower-houses. Lomé has a big market.",
+    "standout": {
+      "category": "Natural",
+      "text": "Togo is one of the narrowest countries in Africa, under 120 km wide.",
+      "source": "https://en.wikipedia.org/wiki/Togo",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Koutammakou houses are on UNESCO's list.",
+      "Lomé's market is famous.",
+      "Togo stretches about 600 km north–south."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 56,
+    "longestRiver": {
+      "name": "Mono",
+      "km": 560
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "27 Apr · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "FIN",
+  "name": "Finland",
+  "status": "draft",
+  "content": {
+    "about": "Finland is a Nordic country in northern Europe, covered by forests and lakes. In the far north, Lapland has reindeer and the midnight sun. Saunas are part of everyday life. Finland often tops world happiness rankings.",
+    "standout": {
+      "category": "Natural",
+      "text": "Finland has around 188,000 lakes, earning it the name \"land of a thousand lakes\".",
+      "source": "https://en.wikipedia.org/wiki/Lakes_of_Finland",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "There are about as many saunas as cars in Finland.",
+      "Linux was created by Finnish student Linus Torvalds.",
+      "Finland is one of the world's most forested countries."
+    ]
+  },
+  "geography": {
+    "climate": "Subarctic",
+    "coastlineKm": 1250,
+    "longestRiver": {
+      "name": "Kemijoki",
+      "km": 550
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "6 Dec · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

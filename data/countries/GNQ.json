@@ -1,0 +1,34 @@
+{
+  "code": "GNQ",
+  "name": "Equatorial Guinea",
+  "status": "draft",
+  "content": {
+    "about": "Equatorial Guinea is a small country on Central Africa's coast, made up of a mainland region and islands. Its capital, Malabo, is on Bioko Island. Rainforests and volcanic mountains cover its land. Oil has become its main industry.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Equatorial Guinea is the only African country where Spanish is an official language.",
+      "source": "https://en.wikipedia.org/wiki/Equatorial_Guinea",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Its island of Annobón is far out in the Atlantic.",
+      "Bioko Island is volcanic.",
+      "It is one of Africa's smallest countries."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 296,
+    "longestRiver": {
+      "name": "Mbini",
+      "km": 338
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "12 Oct · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

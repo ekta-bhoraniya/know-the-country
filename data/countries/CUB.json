@@ -1,0 +1,34 @@
+{
+  "code": "CUB",
+  "name": "Cuba",
+  "status": "draft",
+  "content": {
+    "about": "Cuba is the largest island in the Caribbean. Havana has colourful colonial streets. Its music, like salsa and son, is known worldwide. Cigars and sugar cane are traditional products.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Cuba is famous for its classic 1950s American cars still in daily use.",
+      "source": "https://en.wikipedia.org/wiki/Cuba",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The bee hummingbird, the smallest bird, lives in Cuba.",
+      "Old Havana is a UNESCO site.",
+      "Cuba has very high literacy."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 3735,
+    "longestRiver": {
+      "name": "Cauto",
+      "km": 343
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Jan · Liberation Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

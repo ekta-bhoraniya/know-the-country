@@ -1,0 +1,34 @@
+{
+  "code": "TLS",
+  "name": "Timor-Leste",
+  "status": "draft",
+  "content": {
+    "about": "Timor-Leste occupies the eastern half of the island of Timor, plus a few small islands, north of Australia. It became independent in 2002, making it one of the world's newest countries. Its mountains grow coffee, and its coral reefs are among the richest on Earth. Portuguese and Tetum are its official languages.",
+    "standout": {
+      "category": "Natural",
+      "text": "The seas around Timor-Leste's Atauro Island have some of the highest reef fish diversity measured anywhere.",
+      "source": "https://en.wikipedia.org/wiki/Atauro_Island",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Timor-Leste was the first new sovereign country of the 21st century.",
+      "It uses the US dollar as its currency.",
+      "Its capital, Dili, has a giant statue of Christ overlooking the sea."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 706,
+    "longestRiver": {
+      "name": "Laclo",
+      "km": 80
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "28 Nov · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "DOM",
+  "name": "Dominican Republic",
+  "status": "draft",
+  "content": {
+    "about": "The Dominican Republic shares the island of Hispaniola with Haiti. It has the highest peak and lowest point in the Caribbean. Merengue and bachata music come from here. Baseball is hugely popular.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Santo Domingo has the oldest cathedral in the Americas, completed in 1541.",
+      "source": "https://en.wikipedia.org/wiki/Santo_Domingo_Cathedral",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Pico Duarte is the Caribbean's highest peak.",
+      "Lake Enriquillo is below sea level.",
+      "Many top baseball players come from here."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 1288,
+    "longestRiver": {
+      "name": "Yaque del Norte",
+      "km": 296
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "27 Feb · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

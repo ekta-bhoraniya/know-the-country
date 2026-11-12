@@ -1,0 +1,34 @@
+{
+  "code": "GMB",
+  "name": "Gambia",
+  "status": "draft",
+  "content": {
+    "about": "The Gambia is a narrow country in West Africa, following the Gambia River inland. It is surrounded by Senegal except at its coast. Its riverbanks are full of birds. Kora music is a cherished tradition.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Gambia is the smallest country on mainland Africa.",
+      "source": "https://en.wikipedia.org/wiki/The_Gambia",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Gambia is almost entirely surrounded by Senegal.",
+      "It is a top birdwatching spot.",
+      "Kunta Kinteh Island is linked to the slave trade."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 80,
+    "longestRiver": {
+      "name": "Gambia",
+      "km": 1120
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "18 Feb · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

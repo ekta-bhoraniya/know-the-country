@@ -1,0 +1,34 @@
+{
+  "code": "BWA",
+  "name": "Botswana",
+  "status": "draft",
+  "content": {
+    "about": "Botswana is a landlocked country in southern Africa, much of it covered by the Kalahari. The Okavango Delta floods each year and draws wildlife. It has one of the largest elephant populations. Diamonds have made it one of Africa's success stories.",
+    "standout": {
+      "category": "Natural",
+      "text": "The Okavango Delta is one of the largest inland deltas in the world.",
+      "source": "https://en.wikipedia.org/wiki/Okavango_Delta",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Botswana has the most elephants in Africa.",
+      "The Okavango floods during the dry season.",
+      "The Makgadikgadi salt pans are vast."
+    ]
+  },
+  "geography": {
+    "climate": "Semi-arid",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Okavango",
+      "km": 1600
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "30 Sep · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "RWA",
+  "name": "Rwanda",
+  "status": "draft",
+  "content": {
+    "about": "Rwanda is a small, landlocked country in East Africa, called \"the land of a thousand hills\". Its green hills grow tea and coffee. It is one of the few places to see mountain gorillas. Kigali is known as one of Africa's cleanest cities.",
+    "standout": {
+      "category": "Wildlife",
+      "text": "Rwanda's Volcanoes National Park is home to mountain gorillas.",
+      "source": "https://en.wikipedia.org/wiki/Volcanoes_National_Park",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Plastic bags have been banned in Rwanda since 2008.",
+      "Rwanda has a high share of women in its parliament.",
+      "Umuganda is a monthly national community work day."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical highland",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Akagera",
+      "km": 400
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

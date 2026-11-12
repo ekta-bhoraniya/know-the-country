@@ -1,0 +1,34 @@
+{
+  "code": "BDI",
+  "name": "Burundi",
+  "status": "draft",
+  "content": {
+    "about": "Burundi is a small, landlocked country in East Africa's Great Lakes region. Green hills cover most of its land, and Lake Tanganyika lies along its west. Its royal drummers are famous for powerful performances. Coffee and tea are its main exports.",
+    "standout": {
+      "category": "Natural",
+      "text": "Lake Tanganyika, on Burundi's border, is the world's second-deepest lake.",
+      "source": "https://en.wikipedia.org/wiki/Lake_Tanganyika",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "The Royal Drum ritual is on UNESCO's intangible heritage list.",
+      "Burundi is one of the most densely populated countries in Africa.",
+      "One of the southernmost sources of the Nile is in Burundi."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical highland",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Ruvubu",
+      "km": 400
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Jul · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

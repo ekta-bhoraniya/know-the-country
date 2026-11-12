@@ -1,0 +1,30 @@
+{
+  "code": "VCT",
+  "name": "Saint Vincent and the Grenadines",
+  "status": "draft",
+  "content": {
+    "about": "Saint Vincent and the Grenadines is a Caribbean country of one main island and many small ones. It has volcanoes, beaches and sailing waters. Tobago Cays is a marine park. Its botanic gardens are among the oldest in the Americas.",
+    "standout": {
+      "category": "Natural",
+      "text": "La Soufrière on St Vincent erupted in 2021.",
+      "source": "https://en.wikipedia.org/wiki/La_Soufri%C3%A8re_(Saint_Vincent)",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Its botanic garden dates from 1765.",
+      "Tobago Cays has sea turtles.",
+      "The Grenadines have about 32 islands."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 84
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "27 Oct · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

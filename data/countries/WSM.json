@@ -1,0 +1,30 @@
+{
+  "code": "WSM",
+  "name": "Samoa",
+  "status": "draft",
+  "content": {
+    "about": "Samoa is a Polynesian island nation. It has rainforests and beaches. Its culture follows fa'a Samoa. Tattoo traditions are important.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Samoa moved across the International Date Line in 2011, skipping a day.",
+      "source": "https://en.wikipedia.org/wiki/Samoa",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Samoa skipped 30 December 2011.",
+      "Tattoo comes from Samoan \"tatau\".",
+      "To Sua Ocean Trench is famous."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 403
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "1 Jun · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

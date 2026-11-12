@@ -1,0 +1,34 @@
+{
+  "code": "MAR",
+  "name": "Morocco",
+  "status": "draft",
+  "content": {
+    "about": "Morocco is in northwest Africa, with coasts on the Atlantic and Mediterranean. The Atlas Mountains cross it. Markets, mosaics and riads fill cities like Marrakesh and Fez. Tagine and mint tea are favourites.",
+    "standout": {
+      "category": "Intellectual and scientific",
+      "text": "The University of al-Qarawiyyin in Fez is often cited as the oldest continuously operating university.",
+      "source": "https://en.wikipedia.org/wiki/University_of_al-Qarawiyyin",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Fez has one of the largest car-free urban areas.",
+      "Chefchaouen is painted blue.",
+      "Argan oil comes from Morocco."
+    ]
+  },
+  "geography": {
+    "climate": "Mediterranean to desert",
+    "coastlineKm": 1835,
+    "longestRiver": {
+      "name": "Draa",
+      "km": 1100
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "30 Jul · Throne Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

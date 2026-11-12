@@ -1,0 +1,55 @@
+{
+  "code": "MCO",
+  "name": "Monaco",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "Monaco is the most densely populated country in the world.",
+      "Monaco is the second-smallest country, after Vatican City.",
+      "Monaco has reclaimed land from the sea, growing by about a fifth since the 1800s."
+    ],
+    "about": "Monaco is a tiny city-state on the Mediterranean coast, surrounded on land by France. Its hillside streets, harbour full of yachts and famous casino in Monte Carlo attract visitors from around the world. The Grimaldi family has ruled it for over 700 years. Every spring, Formula 1 cars race through its narrow streets.",
+    "standout": {
+      "category": "Cultural",
+      "text": "The Monaco Grand Prix has raced through the city's own streets since 1929.",
+      "source": "https://en.wikipedia.org/wiki/Monaco",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 0,
+    "coastlineKm": 4,
+    "highestPoint": {
+      "name": "Chemin des Révoires",
+      "m": 161
+    },
+    "climate": "Mediterranean"
+  },
+  "people": {
+    "medianAge": 56,
+    "lifeExpectancy": 86,
+    "literacyPct": 99,
+    "urbanPct": 100
+  },
+  "government": {
+    "type": "Constitutional monarchy",
+    "headOfState": "Prince Albert II",
+    "headOfGovernment": "Minister of State Christophe Mirmand",
+    "asOf": "2026-06",
+    "nationalDay": "19 Nov · National Day"
+  },
+  "economy": {
+    "population": {
+      "value": 38600,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 9000000000,
+      "year": 2023
+    }
+  },
+  "symbols": {},
+  "practical": {
+    "unescoSites": 0
+  }
+}

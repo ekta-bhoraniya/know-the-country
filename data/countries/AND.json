@@ -1,0 +1,34 @@
+{
+  "code": "AND",
+  "name": "Andorra",
+  "status": "draft",
+  "content": {
+    "about": "Andorra is a tiny country high in the Pyrenees, between France and Spain. Its valleys are popular for skiing in winter and hiking in summer. It has two co-princes: the President of France and a Spanish bishop. Andorra la Vella is the highest capital city in Europe.",
+    "standout": {
+      "category": "Cultural",
+      "text": "Andorra is the only country where Catalan is the sole official language.",
+      "source": "https://en.wikipedia.org/wiki/Andorra",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Andorra has no airport.",
+      "Andorra la Vella sits at about 1,023 m.",
+      "It has one of the highest life expectancies in the world."
+    ]
+  },
+  "geography": {
+    "climate": "Alpine",
+    "coastlineKm": 0,
+    "longestRiver": {
+      "name": "Valira",
+      "km": 44
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "8 Sep · Our Lady of Meritxell Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

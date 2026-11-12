@@ -1,0 +1,34 @@
+{
+  "code": "BRN",
+  "name": "Brunei",
+  "status": "draft",
+  "content": {
+    "about": "Brunei is a small, wealthy country on the north coast of the island of Borneo, split into two parts by Malaysia. Most of it is covered by tropical rainforest. Oil and gas made it rich, and its sultan's palace is one of the largest homes in the world. Proboscis monkeys live in its mangroves.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Kampong Ayer in Brunei is one of the largest water villages in the world, built on stilts.",
+      "source": "https://en.wikipedia.org/wiki/Kampong_Ayer",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Brunei's full name means \"Abode of Peace\".",
+      "Its people pay no personal income tax.",
+      "Istana Nurul Iman, the sultan's palace, has around 1,800 rooms."
+    ]
+  },
+  "geography": {
+    "climate": "Tropical",
+    "coastlineKm": 161,
+    "longestRiver": {
+      "name": "Belait",
+      "km": 209
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "23 Feb · National Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

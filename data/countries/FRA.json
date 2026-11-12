@@ -1,0 +1,62 @@
+{
+  "code": "FRA",
+  "name": "France",
+  "status": "draft",
+  "content": {
+    "didYouKnow": [
+      "Counting its overseas regions, France spans 12 time zones, more than any other country.",
+      "French Guiana in South America is part of France and uses the euro.",
+      "France is the most visited country in the world."
+    ],
+    "about": "France lies in Western Europe between the Atlantic, the English Channel and the Mediterranean, and also includes overseas regions in the Caribbean, South America and the Indian Ocean. It is known for Paris, the Alps, vineyards and castles along the Loire. French cooking, fashion and art have shaped tastes around the world. Every July, the Tour de France bike race loops around the country.",
+    "standout": {
+      "category": "Cultural",
+      "text": "The Louvre in Paris is the world's most visited art museum.",
+      "source": "https://en.wikipedia.org/wiki/France",
+      "lastChecked": "2026-11"
+    }
+  },
+  "geography": {
+    "forestPct": 31,
+    "coastlineKm": 4853,
+    "highestPoint": {
+      "name": "Mont Blanc",
+      "m": 4806
+    },
+    "longestRiver": {
+      "name": "Loire",
+      "km": 1006
+    },
+    "climate": "Temperate"
+  },
+  "people": {
+    "medianAge": 42,
+    "lifeExpectancy": 83,
+    "literacyPct": 99,
+    "urbanPct": 82
+  },
+  "government": {
+    "type": "Semi-presidential republic",
+    "headOfState": "President Emmanuel Macron",
+    "headOfGovernment": "Prime Minister Sébastien Lecornu",
+    "asOf": "2026-06",
+    "nationalDay": "14 Jul · Bastille Day"
+  },
+  "economy": {
+    "population": {
+      "value": 68500000,
+      "year": 2024
+    },
+    "gdpUsd": {
+      "value": 3160000000000,
+      "year": 2024
+    }
+  },
+  "symbols": {
+    "animal": "Gallic rooster (traditional)",
+    "flower": "Iris (traditional)"
+  },
+  "practical": {
+    "unescoSites": 54
+  }
+}

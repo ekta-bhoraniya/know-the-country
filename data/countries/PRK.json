@@ -1,0 +1,34 @@
+{
+  "code": "PRK",
+  "name": "North Korea",
+  "status": "draft",
+  "content": {
+    "about": "North Korea occupies the northern half of the Korean Peninsula, a mountainous land bordering China and Russia. It has been ruled by the same family since its founding in 1948 and is one of the most closed countries in the world. Its capital is Pyongyang. Mount Paektu, a volcano on the Chinese border, is the highest point on the peninsula.",
+    "standout": {
+      "category": "Man-made",
+      "text": "Pyongyang's Rungrado May Day Stadium is one of the largest stadiums in the world by capacity.",
+      "source": "https://en.wikipedia.org/wiki/Rungrado_1st_of_May_Stadium",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "North Korea uses its own calendar year system, called Juche.",
+      "Mount Paektu has a large crater lake called Heaven Lake.",
+      "Very few foreign visitors are allowed into the country each year."
+    ]
+  },
+  "geography": {
+    "climate": "Cold continental",
+    "coastlineKm": 2495,
+    "longestRiver": {
+      "name": "Yalu",
+      "km": 790
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "9 Sep · Foundation Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "code": "EST",
+  "name": "Estonia",
+  "status": "draft",
+  "content": {
+    "about": "Estonia is a small Baltic country on the Gulf of Finland, with forests, bogs and over 2,000 islands. Tallinn, its capital, has a well-preserved medieval old town. It is one of the most digital countries in the world. Estonians are known for big song festivals.",
+    "standout": {
+      "category": "Intellectual and scientific",
+      "text": "Estonia was the first country to offer online voting in a national election, in 2007.",
+      "source": "https://en.wikipedia.org/wiki/Electronic_voting_in_Estonia",
+      "lastChecked": "2026-11"
+    },
+    "didYouKnow": [
+      "Skype was developed by engineers in Estonia.",
+      "About half of Estonia is covered by forest.",
+      "Estonia offers e-residency to people anywhere in the world."
+    ]
+  },
+  "geography": {
+    "climate": "Temperate",
+    "coastlineKm": 3794,
+    "longestRiver": {
+      "name": "Pärnu",
+      "km": 144
+    }
+  },
+  "people": {},
+  "government": {
+    "nationalDay": "24 Feb · Independence Day"
+  },
+  "economy": {},
+  "symbols": {},
+  "practical": {}
+}
