@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ekta-bhoraniya.github.io/know-the-country/sitemap.xml

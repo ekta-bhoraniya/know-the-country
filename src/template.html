@@ -1,4 +1,29 @@
 <title>Know the State</title>
+<meta name="description" content="Spin an antique astrolabe wheel, watch the globe land on a random country, and read a passport-page card about it: local time, a claim to fame, key facts and more. 195 countries, equal odds.">
+<meta name="keywords" content="geography game, random country generator, world countries facts, spin the globe, learn geography, country facts">
+<meta name="author" content="Ekta Bhoraniya">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="%SITE_URL%">
+<meta name="theme-color" content="#1d2b47">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"%3E%0A  %3Crect width="64" height="64" rx="14" fill="%231d2b47"/%3E%0A  %3Ccircle cx="32" cy="33" r="25" fill="none" stroke="%23d8b25e" stroke-width="5"/%3E%0A  %3Ccircle cx="32" cy="33" r="16" fill="%23e9dcbc"/%3E%0A  %3Cpath d="M16 33h32M32 17v32" stroke="%23a77a2a" stroke-width="1.5"/%3E%0A  %3Cellipse cx="32" cy="33" rx="7" ry="16" fill="none" stroke="%23a77a2a" stroke-width="1.5"/%3E%0A  %3Cpath d="M32 4 L37 13 L27 13 Z" fill="%23c7604c"/%3E%0A%3C/svg%3E">
+<link rel="apple-touch-icon" href="public/apple-touch-icon.png">
+<link rel="manifest" href="public/site.webmanifest">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Know the State">
+<meta property="og:title" content="Know the State">
+<meta property="og:description" content="Spin the wheel, land anywhere on Earth, and get the story of where you landed. 195 countries, equal odds.">
+<meta property="og:url" content="%SITE_URL%">
+<meta property="og:image" content="%SITE_URL%public/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="A brass astrolabe wheel around a parchment globe, beside the title Know the State.">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Know the State">
+<meta name="twitter:description" content="Spin the wheel, land anywhere on Earth, and get the story of where you landed.">
+<meta name="twitter:image" content="%SITE_URL%public/og-image.jpg">
+<meta name="twitter:image:alt" content="A brass astrolabe wheel around a parchment globe, beside the title Know the State.">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Know the State","url":"%SITE_URL%","description":"Spin a wheel, land on a random country and learn about it.","applicationCategory":"EducationalApplication","operatingSystem":"Any","browserRequirements":"Requires JavaScript","inLanguage":"en","isAccessibleForFree":true,"image":"%SITE_URL%public/og-image.jpg","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}</script>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -135,7 +160,7 @@ button:focus-visible{outline:2px solid var(--focus);outline-offset:3px}
 @media (max-width:520px){.pp-title{min-height:72px;margin-top:8px}.about{font-size:15px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}.about.full{display:block}.more{display:inline-block}.pp-title{min-height:64px}.standout figcaption{font-size:18px}.tv{font-size:15px}}
 </style>
 
-<div id="app">
+<main id="app">
   <canvas id="globe" aria-hidden="true"></canvas>
   <svg id="wheel" viewBox="-200 -200 400 400" aria-hidden="true"></svg>
   <header>
@@ -159,7 +184,8 @@ button:focus-visible{outline:2px solid var(--focus);outline-offset:3px}
   </section>
   <div class="toast" id="toast" role="status"></div>
   <div class="sr" aria-live="polite" id="live"></div>
-</div>
+</main>
+<noscript><p style="padding:24px;font:16px Georgia,serif">Know the State needs JavaScript to spin the globe. Turn it on to explore 195 countries.</p></noscript>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>

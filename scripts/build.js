@@ -28,5 +28,12 @@ for(const c of wc){const code=c.cca3;if(!codes[code])continue;
       day:gov.nationalDay,...f.symbols,unesco:f.practical.unescoSites}};
 }
 const bundle='window.KTS='+JSON.stringify({countries:topo,admin1:a1,meta})+';';
-const html=fs.readFileSync(R+'src/template.html','utf8').replace('/*DATA*/',()=>bundle);
-fs.writeFileSync(R+'index.html',html);console.error('index.html',Math.round(html.length/1024),'KB,',Object.keys(meta).length,'countries');
+// The site's public address, used for canonical, Open Graph and sitemap links. Override with SITE_URL=https://example.com/
+const SITE=(process.env.SITE_URL||'https://ekta-bhoraniya.github.io/know-the-country/').replace(/\/?$/,'/');
+const html=fs.readFileSync(R+'src/template.html','utf8').replace('/*DATA*/',()=>bundle).replaceAll('%SITE_URL%',SITE);
+fs.writeFileSync(R+'robots.txt',`User-agent: *\nAllow: /\n\nSitemap: ${SITE}sitemap.xml\n`);
+fs.writeFileSync(R+'sitemap.xml',`<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n  <url><loc>${SITE}</loc><lastmod>${new Date().toISOString().slice(0,10)}</lastmod><changefreq>monthly</changefreq></url>\n</urlset>\n`);
+// index.html is the full page for hosting. build/artifact.html is the same page without the
+// document wrapper, for hosts that add their own (such as a claude.ai artifact).
+fs.writeFileSync(R+'index.html','<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'+html.replace('<main id="app">','</head>\n<body>\n<main id="app">')+'\n</body>\n</html>\n');
+fs.writeFileSync(B+'artifact.html',html);console.error('index.html',Math.round(html.length/1024),'KB,',Object.keys(meta).length,'countries');

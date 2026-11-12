@@ -1,0 +1,15 @@
+{
+  "name": "Know the State",
+  "short_name": "Know the State",
+  "description": "Spin the wheel, land on a random country and learn about it.",
+  "start_url": "../",
+  "scope": "../",
+  "display": "standalone",
+  "background_color": "#e9dcbc",
+  "theme_color": "#1d2b47",
+  "icons": [
+    {"src": "favicon.svg", "sizes": "any", "type": "image/svg+xml"},
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
