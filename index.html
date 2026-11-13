@@ -61,7 +61,8 @@
   --brass:#b98a35; --brass-hi:#e2be6a; --brass-lo:#5d4214;
   --red:#c7604c; --sea:#c4ab7a; --sea-edge:#8f7547; --land:#ecdfbc; --grat:rgba(110,78,23,.3);
   --focus:#e2be6a; color-scheme:dark;}
-html,body{height:100%}
+*,*::before,*::after{box-sizing:border-box}
+html,body{height:100%;margin:0;padding:0}
 body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:16px;overflow:hidden;
   background-image:radial-gradient(ellipse at 50% 42%, transparent 40%, var(--bg-deep) 120%);}
 #app{position:relative;height:100%;overflow:hidden}
@@ -247,7 +248,7 @@ function makeTexture(){const c=document.createElement('canvas');c.width=c.height
 function makeHatch(col){const c=document.createElement('canvas');c.width=c.height=8;const x=c.getContext('2d');x.strokeStyle=col;x.lineWidth=1.1;x.globalAlpha=.7;
   x.beginPath();x.moveTo(-2,10);x.lineTo(10,-2);x.moveTo(-2,2);x.lineTo(2,-2);x.moveTo(6,10);x.lineTo(10,6);x.stroke();return ctx.createPattern(c,'repeat');}
 function layout(){
-  W=innerWidth;H=innerHeight;DPR=Math.min(2,devicePixelRatio||1);cv.width=W*DPR;cv.height=H*DPR;ctx.setTransform(DPR,0,0,DPR,0,0);
+  const appEl=document.getElementById('app');W=appEl.clientWidth||innerWidth;H=appEl.clientHeight||innerHeight;DPR=Math.min(2,devicePixelRatio||1);cv.width=W*DPR;cv.height=H*DPR;ctx.setTransform(DPR,0,0,DPR,0,0);
   const top=64,bottom=150;const R=Math.max(110,Math.min(380,Math.min(W-24,H-top-bottom)/2));
   dial={cx:W/2,cy:top+(H-top-bottom)/2,R,r0:R*128/200};
   wheelEl.style.width=wheelEl.style.height=2*R+'px';wheelEl.style.left=dial.cx-R+'px';wheelEl.style.top=dial.cy-R+'px';
@@ -475,7 +476,6 @@ function showCard(){
   setTimeout(()=>{thud();},isReduced()?0:120);
   $('#cardScroll').scrollTop=0;$('#cName').focus({preventScroll:true});
   $('#live').textContent=`Landed in ${sub?sub+', ':''}${m.name}, at ${fmtC(pt)}.`;
-  try{history.replaceState(null,'','#land-'+sel.id.toLowerCase())}catch(e){}
 }
 async function closeCard(quick){
   if(phase!=='card')return;phase='closing';clearInterval(clockTimer);card.classList.remove('open');dock.classList.remove('hidden');
@@ -510,7 +510,6 @@ texture=makeTexture();readColors();buildWheel();layout();syncToggles();
 view.k=dial.r0;view.cx=dial.cx;view.cy=dial.cy;
 requestAnimationFrame(frame);
 window.__ktsSpin=id=>spin(id);
-const h=(location.hash||'').match(/^#land-([a-z]{3})$/);if(h&&D.meta[h[1].toUpperCase()])setTimeout(()=>spin(h[1].toUpperCase()),500);
 })();
 </script>
 
