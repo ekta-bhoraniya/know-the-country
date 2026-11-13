@@ -3,7 +3,7 @@
 const fs=require('fs'),R=__dirname+'/../',D=R+'data/',B=R+'build/';
 const wc=require('world-countries'),codes=require(D+'codes.json');
 const wb=require(D+'imported/worldbank.json'),wd=require(D+'imported/wikidata.json');
-const topo=require(B+'countries.json'),a1=require(B+'admin1.json'),adm0=require(B+'adm0.json');
+const topo=require(B+'countries.json'),topoLo=require(B+'countries-lo.json'),a1=require(B+'admin1.json'),adm0=require(B+'adm0.json');
 const tz={};for(const l of fs.readFileSync('/usr/share/zoneinfo/zone.tab','utf8').split('\n')){if(!l||l[0]=='#')continue;const [cc,co,name]=l.split('\t');
   const m=co.match(/([+-]\d+)([+-]\d+)/),dm=(s,L)=>{const d=s.slice(1);return (s[0]=='-'?-1:1)*(+d.slice(0,L)+ +d.slice(L,L+2)/60+(d.length>L+2?+d.slice(L+2)/3600:0));};
   (tz[cc]??=[]).push([name,+dm(m[1],2).toFixed(2),+dm(m[2],3).toFixed(2)]);}
@@ -27,7 +27,7 @@ for(const c of wc){const code=c.cca3;if(!codes[code])continue;
       age:p.medianAge,life:pick(p.lifeExpectancy,w.lifeExpectancy&&Math.round(w.lifeExpectancy.value)),lit:pick(p.literacyPct,w.literacyPct&&Math.round(w.literacyPct.value)),urban:pick(p.urbanPct,w.urbanPct&&Math.round(w.urbanPct.value)),
       day:gov.nationalDay,...f.symbols,unesco:f.practical.unescoSites}};
 }
-const bundle='window.KTS='+JSON.stringify({countries:topo,admin1:a1,meta})+';';
+const bundle='window.KTS='+JSON.stringify({countries:topo,countriesLo:topoLo,admin1:a1,meta})+';';
 // The site's public address, used for canonical, Open Graph and sitemap links. Override with SITE_URL=https://example.com/
 const SITE=(process.env.SITE_URL||'https://ekta-bhoraniya.github.io/know-the-country/').replace(/\/?$/,'/');
 const html=fs.readFileSync(R+'src/template.html','utf8').replace('/*DATA*/',()=>bundle).replaceAll('%SITE_URL%',SITE);

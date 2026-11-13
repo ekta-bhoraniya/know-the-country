@@ -64,7 +64,7 @@ body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:1
   background-image:radial-gradient(ellipse at 50% 42%, transparent 40%, var(--bg-deep) 120%);}
 #app{position:relative;height:100%;overflow:hidden}
 #globe{position:absolute;inset:0;width:100%;height:100%;display:block;transition:opacity .45s}
-#wheel{position:absolute;pointer-events:none;transform-origin:50% 50%;transition:opacity .9s ease, transform 1.1s cubic-bezier(.3,.7,.2,1)}
+#wheel{position:absolute;pointer-events:none;will-change:transform,opacity;transform-origin:50% 50%;transition:opacity .9s ease, transform 1.1s cubic-bezier(.3,.7,.2,1)}
 #wheel.away{opacity:0;transform:scale(1.18)}
 header{position:absolute;top:0;left:0;right:0;z-index:5;background:linear-gradient(var(--bg) 55%,color-mix(in srgb,var(--bg) 0%,transparent));padding-bottom:18px!important;display:flex;align-items:center;justify-content:space-between;gap:12px;
   padding-block:12px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
@@ -199,12 +199,19 @@ const D=window.KTS, $=s=>document.querySelector(s);
 const cObj=D.countries.objects[Object.keys(D.countries.objects)[0]];
 const aObj=D.admin1.objects[Object.keys(D.admin1.objects)[0]];
 const land=topojson.merge(D.countries,cObj.geometries);
+/* Lighter copy of the map, drawn while the globe moves. The detailed one is drawn when it comes to rest. */
+const loObj=D.countriesLo.objects[Object.keys(D.countriesLo.objects)[0]];
+const landLo=topojson.merge(D.countriesLo,loObj.geometries);
+const bordersLo=topojson.mesh(D.countriesLo,loObj,(a,b)=>a!==b&&a.properties.id!==b.properties.id);
+const GRAT10=d3.geoGraticule10(),GRAT5=d3.geoGraticule().step([5,5])(),SPHERE={type:'Sphere'};
 const coast=topojson.mesh(D.countries,cObj,(a,b)=>a===b);
 const borders=topojson.mesh(D.countries,cObj,(a,b)=>a!==b&&a.properties.id!==b.properties.id);
 const IDS=Object.keys(D.meta);
 const geomsById={};for(const g of cObj.geometries)(geomsById[g.properties.id]??=[]).push(g);
 const shapeCache={};
 function shape(id){return shapeCache[id]??=topojson.merge(D.countries,geomsById[id]);}
+const shapeLoCache={};
+function shapeLo(id){return shapeLoCache[id]??=(()=>{const lo=D.countriesLo.objects[Object.keys(D.countriesLo.objects)[0]].geometries.filter(g=>g.properties.id===id);return lo.length?topojson.merge(D.countriesLo,lo):shape(id);})();}
 function admins(a0){return aObj.geometries.filter(g=>g.properties.adm0_a3===a0).map(g=>topojson.feature(D.admin1,g));}
 
 /* ---------- store helpers ---------- */
@@ -242,8 +249,13 @@ function makeTexture(){const c=document.createElement('canvas');c.width=c.height
   return ctx.createPattern(c,'repeat');}
 function makeHatch(col){const c=document.createElement('canvas');c.width=c.height=8;const x=c.getContext('2d');x.strokeStyle=col;x.lineWidth=1.1;x.globalAlpha=.7;
   x.beginPath();x.moveTo(-2,10);x.lineTo(10,-2);x.moveTo(-2,2);x.lineTo(2,-2);x.moveTo(6,10);x.lineTo(10,6);x.stroke();return ctx.createPattern(c,'repeat');}
+let FULL_DPR=1;
+/* Canvas resolution: normal while moving, sharp at rest. Resizing clears the canvas, so it only happens when the mode changes. */
+function setRes(r){if(r===DPR)return;DPR=r;cv.width=Math.round(W*r);cv.height=Math.round(H*r);ctx.setTransform(r,0,0,r,0,0);lastSig='';}
+const isMoving=()=>phase==='spin'||phase==='land'||phase==='zoom'||phase==='closing'||(phase==='idle'&&!isReduced());
+let lastSig='';
 function layout(){
-  const appEl=document.getElementById('app');W=appEl.clientWidth||innerWidth;H=appEl.clientHeight||innerHeight;DPR=Math.min(2,devicePixelRatio||1);cv.width=W*DPR;cv.height=H*DPR;ctx.setTransform(DPR,0,0,DPR,0,0);
+  const appEl=document.getElementById('app');W=appEl.clientWidth||innerWidth;H=appEl.clientHeight||innerHeight;FULL_DPR=Math.min(2,devicePixelRatio||1);DPR=0;setRes(isMoving()?1:FULL_DPR);
   const top=64,bottom=150;const R=Math.max(110,Math.min(380,Math.min(W-24,H-top-bottom)/2));
   dial={cx:W/2,cy:top+(H-top-bottom)/2,R,r0:R*128/200};
   wheelEl.style.width=wheelEl.style.height=2*R+'px';wheelEl.style.left=dial.cx-R+'px';wheelEl.style.top=dial.cy-R+'px';
@@ -266,24 +278,28 @@ function fitView(s){
   return {lon:c[0],lat:c[1],k,cx:A.x+A.w/2-(bx0+bx1)/2*k,cy:A.y+A.h/2-(by0+by1)/2*k};
 }
 function draw(){
+  const moving=isMoving();setRes(moving?1:FULL_DPR);
+  // Skip the frame when nothing on the map has changed (for example while the card is open).
+  const sig=[view.lon,view.lat,view.k,view.cx,view.cy,moving,sel&&sel.id,sel&&sel.drop,sel&&sel.shown,sel&&sel.zoomed,W,H,DPR,colors.land].join('|');
+  if(sig===lastSig)return false;lastSig=sig;
+  const L=moving?landLo:land,BD=moving?bordersLo:borders;
+  proj.rotate([-view.lon,-view.lat]).scale(view.k).translate([view.cx,view.cy]).precision(moving?1.5:.6);
   ctx.clearRect(0,0,W,H);
-  proj.rotate([-view.lon,-view.lat]).scale(view.k).translate([view.cx,view.cy]);
-  const sphere={type:'Sphere'};
-  ctx.beginPath();path(sphere);
+  ctx.beginPath();path(SPHERE);
   if(view.k<dial.r0*2.2){const g=ctx.createRadialGradient(view.cx-view.k*.3,view.cy-view.k*.35,view.k*.1,view.cx,view.cy,view.k);
     g.addColorStop(0,colors.sea);g.addColorStop(1,colors['sea-edge']);ctx.fillStyle=g;}else ctx.fillStyle=colors.sea;
   ctx.fill();
-  ctx.beginPath();path(view.k>dial.r0*4?d3.geoGraticule().step([5,5])():d3.geoGraticule10());ctx.strokeStyle=colors.grat;ctx.lineWidth=.6;ctx.stroke();
-  ctx.beginPath();path(land);ctx.fillStyle=colors.land;ctx.fill();
-  if(sel&&sel.shown){ctx.beginPath();path(shape(sel.id));ctx.fillStyle=hatch;ctx.fill();
+  ctx.beginPath();path(view.k>dial.r0*4?GRAT5:GRAT10);ctx.strokeStyle=colors.grat;ctx.lineWidth=.6;ctx.stroke();
+  // Land is projected once and used for both the fill and the coastline.
+  ctx.beginPath();path(L);ctx.fillStyle=colors.land;ctx.fill();ctx.strokeStyle='#1d2b47';ctx.globalAlpha=.8;ctx.lineWidth=.8;ctx.stroke();ctx.globalAlpha=1;
+  if(sel&&sel.shown){ctx.beginPath();path(moving?shapeLo(sel.id):shape(sel.id));ctx.fillStyle=hatch;ctx.fill();ctx.strokeStyle=colors.red;ctx.lineWidth=1.8;ctx.stroke();
     if(sel.admin&&sel.zoomed){ctx.beginPath();path(sel.admin);ctx.globalAlpha=.18;ctx.fillStyle=colors.red;ctx.fill();ctx.globalAlpha=1;
       ctx.setLineDash([4,3]);ctx.strokeStyle=colors.red;ctx.lineWidth=1.3;ctx.stroke();ctx.setLineDash([]);}}
-  ctx.beginPath();path(borders);ctx.strokeStyle='#1d2b47';ctx.globalAlpha=.55;ctx.lineWidth=.6;ctx.setLineDash([2,1.6]);ctx.stroke();ctx.setLineDash([]);
-  ctx.beginPath();path(coast);ctx.globalAlpha=.8;ctx.lineWidth=.8;ctx.stroke();ctx.globalAlpha=1;
-  if(sel&&sel.shown){ctx.beginPath();path(shape(sel.id));ctx.strokeStyle=colors.red;ctx.lineWidth=1.8;ctx.stroke();}
-  ctx.save();ctx.beginPath();path(sphere);ctx.clip();ctx.globalCompositeOperation='multiply';ctx.globalAlpha=.42;ctx.fillStyle=texture;ctx.fillRect(0,0,W,H);ctx.restore();
-  ctx.beginPath();path(sphere);ctx.strokeStyle='#1d2b47';ctx.lineWidth=1.4;ctx.stroke();
+  ctx.beginPath();path(BD);ctx.strokeStyle='#1d2b47';ctx.globalAlpha=.55;ctx.lineWidth=.6;if(!moving)ctx.setLineDash([2,1.6]);ctx.stroke();ctx.setLineDash([]);ctx.globalAlpha=1;
+  ctx.save();ctx.beginPath();path(SPHERE);ctx.clip();ctx.globalCompositeOperation='multiply';ctx.globalAlpha=.42;ctx.fillStyle=texture;ctx.fillRect(0,0,W,H);ctx.restore();
+  ctx.beginPath();path(SPHERE);ctx.strokeStyle='#1d2b47';ctx.lineWidth=1.4;ctx.stroke();
   if(sel&&sel.drop>0&&d3.geoDistance(sel.pt,[view.lon,view.lat])<Math.PI/2-.01){const [x,y]=proj(sel.pt);drawPin(x,y,sel.drop);}
+  return true;
 }
 function drawPin(x,y,t){const off=(1-t)*46;ctx.save();ctx.globalAlpha=Math.min(1,t*1.6);
   ctx.beginPath();ctx.ellipse(x,y,6*t,2.2*t,0,0,7);ctx.fillStyle='rgba(40,25,5,.35)';ctx.fill();
@@ -323,7 +339,7 @@ function buildWheel(){
   el('line',{x1:0,y1:-131,x2:0,y2:-196,stroke:'var(--red)','stroke-width':1.6});
   el('path',{d:'M-11,-214 L11,-214 L0,-195Z',fill:'url(#br)',stroke:'#2a1d08','stroke-width':1});
 }
-function syncWheel(){outerG.setAttribute('transform',`rotate(${-view.lon})`);innerG.setAttribute('transform',`rotate(${-(view.lat*2+innerExtra)})`);}
+function syncWheel(){if(wheelEl.classList.contains('away')&&phase!=='closing')return;outerG.setAttribute('transform',`rotate(${-view.lon})`);innerG.setAttribute('transform',`rotate(${-(view.lat*2+innerExtra)})`);}
 
 /* ---------- formatting ---------- */
 const fmtC=([lon,lat])=>`${Math.abs(lat).toFixed(2)}° ${lat>=0?'N':'S'}, ${Math.abs(lon).toFixed(2)}° ${lon>=0?'E':'W'}`;
@@ -488,7 +504,12 @@ let last=performance.now();
 function frame(now){const dt=Math.min(.05,(now-last)/1000);last=now;
   for(const t of tweens.slice()){const p=Math.min(1,(now-t.t0)/t.dur);t.fn(t.ease(p));if(p>=1){tweens.splice(tweens.indexOf(t),1);t.res();}}
   if(phase==='idle'){view.lon+=dt*(isReduced()?0:4);view.lat+=(15-view.lat)*Math.min(1,dt*.6);if(view.lon>180)view.lon-=360;coordText.textContent=fmtC([norm(view.lon),view.lat]);}
-  syncWheel();draw();requestAnimationFrame(frame);}
+  const t0=performance.now();syncWheel();const drew=draw();if(drew)perfLog(phase,now,performance.now()-t0);requestAnimationFrame(frame);}
+/* Frame timing for profiling: window.__ktsPerf.summary() in the console. Keeps the last 600 frames. */
+const perf=window.__ktsPerf={frames:[],summary(ph){const f=this.frames.filter(x=>!ph||x.ph===ph);if(f.length<2)return null;
+  const gaps=f.slice(1).map((x,i)=>x.t-f[i].t).filter(g=>g<500),draws=f.map(x=>x.d).sort((a,b)=>a-b);
+  return {frames:f.length,fps:Math.round(1000/(gaps.reduce((a,b)=>a+b,0)/gaps.length)),drawMs:+(draws.reduce((a,b)=>a+b,0)/draws.length).toFixed(1),drawP95:+draws[Math.floor(draws.length*.95)].toFixed(1)};}};
+function perfLog(ph,t,d){perf.frames.push({ph,t,d});if(perf.frames.length>600)perf.frames.shift();}
 
 /* ---------- wiring ---------- */
 spinBtn.onclick=()=>spin();
@@ -496,7 +517,7 @@ $('#againBtn').onclick=()=>spin();
 $('#closeBtn').onclick=()=>closeCard(false);
 cv.addEventListener('pointerdown',()=>{if(phase==='spin'||phase==='land'||phase==='zoom')skip();});
 addEventListener('keydown',e=>{if(e.key==='Escape'&&phase==='card')closeCard(false);});
-const onTheme=()=>{readColors();};
+const onTheme=()=>{readColors();lastSig='';};
 mq.addEventListener?.('change',syncToggles);
 matchMedia('(prefers-color-scheme: dark)').addEventListener?.('change',onTheme);
 new MutationObserver(onTheme).observe(document.documentElement,{attributes:true,attributeFilter:['data-theme']});
