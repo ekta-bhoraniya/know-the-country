@@ -113,7 +113,7 @@ button:focus-visible{outline:2px solid var(--focus);outline-offset:3px}
 .subtitle{margin:10px 0 0;font:500 17px var(--f-body)}
 .subtitle b{font-family:var(--f-sc);font-weight:400;letter-spacing:.08em;color:var(--red)}
 .coords{font:15px var(--f-mono);letter-spacing:.05em;margin-top:4px;color:var(--paper-ink)}
-.stamp{position:absolute;right:-4px;top:-10px;width:112px;height:112px;color:var(--red);opacity:.86;mix-blend-mode:multiply;pointer-events:none}
+.stamp{position:absolute;right:var(--dx,-4px);top:var(--dy,-24px);width:112px;height:112px;color:var(--red);opacity:.86;mix-blend-mode:multiply;pointer-events:none}
 .stamp.thud{animation:thud .42s cubic-bezier(.3,1.6,.5,1) both}
 @keyframes thud{0%{transform:scale(1.9) rotate(var(--rot));opacity:0}60%{opacity:.95}100%{transform:scale(1) rotate(var(--rot));opacity:.86}}
 .stamp.still{transform:rotate(var(--rot))}
@@ -416,7 +416,7 @@ function finish(){
 function factRow(label,val,asof,wide){if(val==null||val===''||(Array.isArray(val)&&!val.length))return'';
   return `<div${wide?' class="wide"':''}><dt>${label}</dt><dd>${esc(Array.isArray(val)?val.join(', '):val)}${asof?`<em>${esc(asof)}</em>`:''}</dd></div>`;}
 function stampSVG(m,dateStr){const nm=m.name.toUpperCase();
-  return `<svg class="stamp ${isReduced()?'still':'thud'}" style="--rot:${(Math.random()*24-12).toFixed(1)}deg" viewBox="0 0 120 120" aria-hidden="true">
+  return `<svg class="stamp ${isReduced()?'still':'thud'}" style="--rot:${((Math.random()<.5?-1:1)*(7+Math.random()*9)).toFixed(1)}deg;--dx:${(Math.random()*14-10).toFixed(0)}px;--dy:${(-30+Math.random()*8).toFixed(0)}px" viewBox="0 0 120 120" aria-hidden="true">
   <defs><path id="arcT" d="M60,60 m-44,0 a44,44 0 1,1 88,0"/><path id="arcB" d="M60,60 m-47,0 a47,47 0 0,0 94,0"/></defs>
   <g fill="none" stroke="currentColor"><circle cx="60" cy="60" r="56" stroke-width="3"/><circle cx="60" cy="60" r="51" stroke-width="1"/><circle cx="60" cy="60" r="33" stroke-width="1.5"/></g>
   <g fill="currentColor" font-family="Courier Prime, monospace" font-weight="700">
