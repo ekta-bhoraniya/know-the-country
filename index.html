@@ -111,8 +111,8 @@ button:focus-visible{outline:2px solid var(--focus);outline-offset:3px}
 #card.open{transform:none}
 .card-scroll{overflow-y:auto;flex:1;min-height:0;padding-block:18px 8px;padding-left:max(22px,env(safe-area-inset-left,0px));padding-right:max(22px,env(safe-area-inset-right,0px))}
 .pp-head{display:flex;justify-content:space-between;align-items:baseline;gap:8px;font:11px var(--f-mono);letter-spacing:.22em;text-transform:uppercase;color:var(--paper-soft);border-bottom:1px double var(--paper-ink);padding-bottom:6px}
-.pp-title{position:relative;display:grid;grid-template-columns:auto 1fr;gap:8px 14px;align-items:center;align-content:center;margin-top:14px;padding-right:96px;min-height:96px}
-.flag{font-size:52px;line-height:1;grid-row:1;filter:sepia(.25) saturate(.9)}
+.pp-title{position:relative;display:grid;grid-template-columns:auto 1fr;gap:0 8px;align-items:center;align-content:center;margin-top:14px;padding-right:96px;min-height:96px}
+.flag{font-size:52px;line-height:1;grid-row:1;height:calc(clamp(28px,4.4vw,38px)*1.1);display:flex;align-items:center;filter:sepia(.25) saturate(.9)}
 .pp-title h2{margin:0;font:400 clamp(28px,4.4vw,38px)/1.1 var(--f-display);text-wrap:balance}
 .pp-title .official{grid-column:2;font-style:italic;color:var(--paper-soft);font-size:14px;line-height:1.5}
 .subtitle{margin:10px 0 0;font:500 17px var(--f-body)}
