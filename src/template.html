@@ -106,10 +106,10 @@ button:focus-visible{outline:2px solid var(--focus);outline-offset:3px}
 #card.open{transform:none}
 .card-scroll{overflow-y:auto;flex:1;min-height:0;padding-block:18px 8px;padding-left:max(22px,env(safe-area-inset-left,0px));padding-right:max(22px,env(safe-area-inset-right,0px))}
 .pp-head{display:flex;justify-content:space-between;align-items:baseline;gap:8px;font:11px var(--f-mono);letter-spacing:.22em;text-transform:uppercase;color:var(--paper-soft);border-bottom:1px double var(--paper-ink);padding-bottom:6px}
-.pp-title{position:relative;display:grid;grid-template-columns:auto 1fr;gap:4px 14px;align-items:center;margin-top:14px;padding-right:96px;min-height:96px}
-.flag{font-size:52px;line-height:1;grid-row:span 2;filter:sepia(.25) saturate(.9)}
-.pp-title h2{margin:0;font:400 clamp(28px,4.4vw,38px)/1.02 var(--f-display);text-wrap:balance}
-.pp-title .official{font-style:italic;color:var(--paper-soft);font-size:14px;line-height:1.3}
+.pp-title{position:relative;display:grid;grid-template-columns:auto 1fr;gap:8px 14px;align-items:center;align-content:center;margin-top:14px;padding-right:96px;min-height:96px}
+.flag{font-size:52px;line-height:1;grid-row:1;filter:sepia(.25) saturate(.9)}
+.pp-title h2{margin:0;font:400 clamp(28px,4.4vw,38px)/1.1 var(--f-display);text-wrap:balance}
+.pp-title .official{grid-column:2;font-style:italic;color:var(--paper-soft);font-size:14px;line-height:1.5}
 .subtitle{margin:10px 0 0;font:500 17px var(--f-body)}
 .subtitle b{font-family:var(--f-sc);font-weight:400;letter-spacing:.08em;color:var(--red)}
 .coords{font:15px var(--f-mono);letter-spacing:.05em;margin-top:4px;color:var(--paper-ink)}
@@ -129,7 +129,7 @@ button:focus-visible{outline:2px solid var(--focus);outline-offset:3px}
 .dyk li::marker{font-family:var(--f-mono);color:var(--red)}
 .src{margin:16px 0 4px;font:12px/1.4 var(--f-mono);color:var(--paper-soft)}
 .card-actions{display:flex;gap:10px;flex-wrap:wrap;padding-block:12px 16px;padding-left:max(22px,env(safe-area-inset-left,0px));padding-right:max(22px,env(safe-area-inset-right,0px));border-top:1px solid var(--paper-rule);background:var(--paper)}
-.card-actions .spin{font-size:18px;padding:10px 26px;flex:1 1 auto}
+.card-actions .spin{border:0;font-size:18px;padding:10px 26px;flex:1 1 auto}
 .ghost{font:15px var(--f-mono);color:var(--paper-ink);background:transparent;border:1px solid var(--paper-ink);border-radius:30px;padding:10px 18px;cursor:pointer}
 .ghost:hover{background:rgba(29,43,71,.07)}
 .toast{position:absolute;left:50%;bottom:24px;transform:translate(-50%,20px);opacity:0;z-index:9;background:var(--ink);color:var(--bg);font:14px var(--f-mono);padding:9px 14px;border-radius:3px;transition:.3s;pointer-events:none;max-width:calc(100% - 32px)}
@@ -139,7 +139,7 @@ button:focus-visible{outline:2px solid var(--focus);outline-offset:3px}
 .facts{grid-template-columns:1fr 1fr;gap:10px 14px}.flag{font-size:42px}.pp-title{padding-right:82px}.stamp{width:94px;height:94px}}
 @media (prefers-reduced-motion: reduce){#card,#wheel,.dock,#globe{transition-duration:.2s}}
 
-.tstrip{display:grid;grid-template-columns:1fr 1fr;gap:4px 16px;margin-top:14px;padding:10px 12px;border:1px solid var(--paper-ink);border-radius:2px;background:rgba(29,43,71,.04);font-variant-numeric:tabular-nums}
+.tstrip{display:grid;grid-template-columns:1fr 1fr;gap:4px 16px;margin-top:14px;padding:10px 12px;border:1px solid var(--paper-rule);border-radius:2px;background:rgba(29,43,71,.04);font-variant-numeric:tabular-nums}
 .tstrip>div{min-width:0;display:flex;flex-direction:column}
 .tl{font:11px var(--f-mono);letter-spacing:.16em;text-transform:uppercase;color:var(--paper-soft)}
 .tv{font:500 17px var(--f-body)}
@@ -156,6 +156,7 @@ button:focus-visible{outline:2px solid var(--focus);outline-offset:3px}
 .facts.quick{margin-top:16px}
 .secs{margin-top:18px;border-top:1px solid var(--paper-ink)}
 .sec{border-bottom:1px solid var(--paper-rule)}
+.sec:last-child{border-bottom:0}
 .sec summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;padding:11px 2px;font:400 19px var(--f-display)}
 .sec summary::-webkit-details-marker{display:none}
 .sec summary::after{content:"+";font:20px var(--f-mono);color:var(--red);transition:transform .2s}
