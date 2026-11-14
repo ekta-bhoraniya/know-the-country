@@ -1,4 +1,4 @@
-<title>Know the State</title>
+<title>Know the Country</title>
 <meta name="description" content="Spin an antique astrolabe wheel, watch the globe land on a random country, and read a passport-page card about it: local time, a claim to fame, key facts and more. 195 countries, equal odds.">
 <meta name="keywords" content="geography game, random country generator, world countries facts, spin the globe, learn geography, country facts">
 <meta name="author" content="Ekta Bhoraniya">
@@ -11,21 +11,21 @@
 <link rel="apple-touch-icon" href="public/apple-touch-icon.png">
 <link rel="manifest" href="public/site.webmanifest">
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="Know the State">
-<meta property="og:title" content="Know the State">
+<meta property="og:site_name" content="Know the Country">
+<meta property="og:title" content="Know the Country">
 <meta property="og:description" content="Spin the wheel, land anywhere on Earth, and get the story of where you landed. 195 countries, equal odds.">
 <meta property="og:url" content="%SITE_URL%">
 <meta property="og:image" content="%SITE_URL%public/og-image.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="A brass astrolabe wheel around a parchment globe, beside the title Know the State.">
+<meta property="og:image:alt" content="A brass astrolabe wheel around a parchment globe, beside the title Know the Country.">
 <meta property="og:locale" content="en_GB">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Know the State">
+<meta name="twitter:title" content="Know the Country">
 <meta name="twitter:description" content="Spin the wheel, land anywhere on Earth, and get the story of where you landed.">
 <meta name="twitter:image" content="%SITE_URL%public/og-image.jpg">
-<meta name="twitter:image:alt" content="A brass astrolabe wheel around a parchment globe, beside the title Know the State.">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Know the State","url":"%SITE_URL%","description":"Spin a wheel, land on a random country and learn about it.","applicationCategory":"EducationalApplication","operatingSystem":"Any","browserRequirements":"Requires JavaScript","inLanguage":"en","isAccessibleForFree":true,"image":"%SITE_URL%public/og-image.jpg","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}</script>
+<meta name="twitter:image:alt" content="A brass astrolabe wheel around a parchment globe, beside the title Know the Country.">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Know the Country","url":"%SITE_URL%","description":"Spin a wheel, land on a random country and learn about it.","applicationCategory":"EducationalApplication","operatingSystem":"Any","browserRequirements":"Requires JavaScript","inLanguage":"en","isAccessibleForFree":true,"image":"%SITE_URL%public/og-image.jpg","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}</script>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -176,7 +176,7 @@ button:focus-visible{outline:2px solid var(--focus);outline-offset:3px}
   <canvas id="globe" aria-hidden="true"></canvas>
   <svg id="wheel" viewBox="-200 -200 400 400" aria-hidden="true"></svg>
   <header>
-    <div class="brand"><h1>Know the State</h1><span>A spinning atlas</span></div>
+    <div class="brand"><h1>Know the Country</h1><span>A spinning atlas</span></div>
     <div class="toggles">
       <button class="tog" id="tSound" aria-pressed="true" title="Ratchet and stamp sounds">Sound</button>
       <button class="tog" id="tMotion" aria-pressed="false" title="Replace the spin with a quick fade">Reduce motion</button>
@@ -198,7 +198,7 @@ button:focus-visible{outline:2px solid var(--focus);outline-offset:3px}
   <div class="toast" id="toast" role="status"></div>
   <div class="sr" aria-live="polite" id="live"></div>
 </main>
-<noscript><p style="padding:24px;font:16px Georgia,serif">Know the State needs JavaScript to spin the globe. Turn it on to explore 195 countries.</p></noscript>
+<noscript><p style="padding:24px;font:16px Georgia,serif">Know the Country needs JavaScript to spin the globe. Turn it on to explore 195 countries.</p></noscript>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
@@ -424,7 +424,7 @@ function stampSVG(m,dateStr){const nm=m.name.toUpperCase();
   <g fill="currentColor" font-family="Courier Prime, monospace" font-weight="700">
   <text font-size="${nm.length>16?7.5:10}" letter-spacing="1.5"><textPath href="#arcT" startOffset="50%" text-anchor="middle">${esc(nm)}</textPath></text>
   <text font-size="8" letter-spacing="2"><textPath href="#arcB" startOffset="50%" text-anchor="middle">★ ARRIVED ★</textPath></text>
-  <text x="60" y="57" font-size="9.5" text-anchor="middle">${esc(dateStr)}</text><text x="60" y="70" font-size="7" text-anchor="middle" letter-spacing="1">KNOW THE STATE</text></g></svg>`;}
+  <text x="60" y="57" font-size="9.5" text-anchor="middle">${esc(dateStr)}</text><text x="60" y="70" font-size="5.5" text-anchor="middle" letter-spacing=".3">KNOW THE COUNTRY</text></g></svg>`;}
 function tzOffset(tz,d){try{const p=new Intl.DateTimeFormat('en-US',{timeZone:tz,timeZoneName:'longOffset'}).formatToParts(d).find(x=>x.type==='timeZoneName').value;
   const m=p.match(/GMT([+-])(\d{1,2}):?(\d{2})?/);return m?(m[1]==='-'?-1:1)*(+m[2]*60+ +(m[3]||0)):0;}catch(e){return 0}}
 function pinZone(m,pt){let best=null,bd=9;for(const z of m.tz){const d=d3.geoDistance(pt,[z[2],z[1]]);if(d<bd){bd=d;best=z[0];}}return best;}

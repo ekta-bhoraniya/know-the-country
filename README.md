@@ -1,4 +1,4 @@
-# Know the State
+# Know the Country
 
 Spin an astrolabe wheel, watch the globe land on a random country, and read a passport-style card about it. MVP and v1 info card, Vintage Explorer design direction.
 

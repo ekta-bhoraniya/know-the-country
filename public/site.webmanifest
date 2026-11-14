@@ -1,6 +1,6 @@
 {
-  "name": "Know the State",
-  "short_name": "Know the State",
+  "name": "Know the Country",
+  "short_name": "Know the Country",
   "description": "Spin the wheel, land on a random country and learn about it.",
   "start_url": "../",
   "scope": "../",
