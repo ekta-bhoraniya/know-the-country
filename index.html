@@ -269,9 +269,9 @@ function makeHatch(col){const c=document.createElement('canvas');c.width=c.heigh
 let FULL_DPR=1;
 /* Canvas resolution: normal while moving, sharp at rest. Resizing clears the canvas, so it only happens when the mode changes. */
 function setRes(r){if(r===DPR)return;DPR=r;cv.width=Math.round(W*r);cv.height=Math.round(H*r);ctx.setTransform(r,0,0,r,0,0);lastSig='';}
-// Desktops (mouse or trackpad, wide screen) draw the idle globe at full detail; phones and tablets keep the lighter drawing.
+// Desktops (mouse or trackpad, wide screen) always draw the globe at full detail; phones and tablets use the lighter drawing while it moves.
 const desktopMQ=matchMedia('(hover:hover) and (pointer:fine) and (min-width:1024px)');
-const isMoving=()=>phase==='spin'||phase==='land'||phase==='zoom'||phase==='closing'||(phase==='idle'&&!isReduced()&&!desktopMQ.matches);
+const isMoving=()=>!desktopMQ.matches&&(phase==='spin'||phase==='land'||phase==='zoom'||phase==='closing'||(phase==='idle'&&!isReduced()));
 let lastSig='';
 function layout(){
   const appEl=document.getElementById('app');W=appEl.clientWidth||innerWidth;H=appEl.clientHeight||innerHeight;FULL_DPR=Math.min(2,devicePixelRatio||1);DPR=0;setRes(isMoving()?1:FULL_DPR);
